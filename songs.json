@@ -24,7 +24,10 @@
         ],
         "midiFile": "All_Star.mid",
         "artwork": "All_Star.jpg",
-        "tags": []
+        "tags": [
+            "shreck",
+            "somebody once told me"
+        ]
     },
     {
         "name": "Alone",
@@ -52,7 +55,9 @@
         ],
         "midiFile": "COFFIN_DANCE.mid",
         "artwork": "COFFIN_DANCE.jpg",
-        "tags": []
+        "tags": [
+            "Coffin Dance"
+        ]
     },
     {
         "name": "Bad Piggies Theme",
@@ -61,7 +66,9 @@
         ],
         "midiFile": "Bad_Piggies_Theme.mid",
         "artwork": "Bad_Piggies_Theme.jpg",
-        "tags": []
+        "tags": [
+            "Angry birds"
+        ]
     },
     {
         "name": "Believer",
@@ -88,7 +95,11 @@
         ],
         "midiFile": "Coconut_Mall.mid",
         "artwork": "Mario_Kart_Wii_OST.jpeg",
-        "tags": []
+        "tags": [
+            "Nintendo",
+            "mario kart",
+            "wii"
+        ]
     },
     {
         "name": "Dance Monkey",
@@ -124,7 +135,10 @@
         ],
         "midiFile": "Five_Nights_At_Freddys_Song_FNAF_1.mid",
         "artwork": "Five_Nights_At_Freddys_Song_FNAF_1.jpg",
-        "tags": []
+        "tags": [
+            "FNAF",
+            "TLT"
+        ]
     },
     {
         "name": "Giorno Theme",
@@ -133,7 +147,9 @@
         ],
         "midiFile": "Giornos_Theme.mid",
         "artwork": "Giornos_Theme.jpg",
-        "tags": []
+        "tags": [
+            "il vento d'oro"
+        ]
     },
     {
         "name": "Hes a pirate",
@@ -160,7 +176,10 @@
         ],
         "midiFile": "The_Living_Tombstone_-_fnaf_its__be_so_long.mid",
         "artwork": "livingtombstone.png",
-        "tags": []
+        "tags": [
+            "FNAF",
+            "TLT"
+        ]
     },
     {
         "name": "Levan Polkka",
@@ -178,7 +197,9 @@
         ],
         "midiFile": "Montero__Call_me_by_your_name__-_Lil_nas_X.mid",
         "artwork": "Montero__Call_me_by_your_name__-_Lil_nas_X.jpg",
-        "tags": []
+        "tags": [
+            "Call me by your name"
+        ]
     },
     {
         "name": "Never Gonna Give You Up",
@@ -187,7 +208,9 @@
         ],
         "midiFile": "Never_gonna_give_you_up.mid",
         "artwork": "Never_gonna_give_you_up.jpg",
-        "tags": []
+        "tags": [
+            "Rick Roll"
+        ]
     },
     {
         "name": "Overworld Theme",
@@ -196,7 +219,9 @@
         ],
         "midiFile": "Super_Mario_Bros._-_Main_Theme.mid",
         "artwork": "Super_Mario_Bros._-_Main_Theme.jpg",
-        "tags": []
+        "tags": [
+            "Mario"
+        ]
     },
     {
         "name": "Raining Tacos",
@@ -205,7 +230,9 @@
         ],
         "midiFile": "Its_Raining_Tacos.mid",
         "artwork": "Its_Raining_Tacos.jpg",
-        "tags": []
+        "tags": [
+            "It's Raining Tacos"
+        ]
     },
     {
         "name": "Rockefeller Street",
@@ -214,7 +241,11 @@
         ],
         "midiFile": "Rockefeller_Street.mid",
         "artwork": "Rockefeller_Street.jpg",
-        "tags": []
+        "tags": [
+            "1 2 sell a tree",
+            "nightcore",
+            "one two sell a tree"
+        ]
     },
     {
         "name": "Still Alive",
@@ -232,7 +263,9 @@
         ],
         "midiFile": "Sweden_Minecraft.mid",
         "artwork": "Sweden_Minecraft.jpg",
-        "tags": []
+        "tags": [
+            "Minecraft"
+        ]
     },
     {
         "name": "Viva La Vida",
@@ -259,7 +292,9 @@
         ],
         "midiFile": "Wii_Shop_Channel_Theme.mid",
         "artwork": "Wii_Shop_Channel.jpeg",
-        "tags": []
+        "tags": [
+            "Nintendo"
+        ]
     },
     {
         "name": "WORTH NOTHING",
