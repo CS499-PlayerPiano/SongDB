@@ -127,9 +127,9 @@ function fixDBIfMalformed() {
         }
 
         // Check if any tags have been defined
-        if (songData.tags.length === 0) {
-            printWarning("Tags list is empty", songData.midiFile);
-        }
+        // if (songData.tags.length === 0) {
+        //     printWarning("Tags list is empty", songData.midiFile);
+        // }
 
         // Sort tags alphabetically
         //printLog("Sorting tags for song: " + songData.midiFile);
