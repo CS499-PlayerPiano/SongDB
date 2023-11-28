@@ -149,7 +149,7 @@ function fixDBIfMalformed() {
     DB.sort((a, b) => a.name.localeCompare(b.name));
 
     // -------- WRITE TO FILE -----------
-    printLog("Writing to songs-new.json");
+    printLog("Writing to songs.json");
 
     //backup old file
     fs.copyFileSync(path.join(__dirname, 'songs.json'), path.join(__dirname, 'songs.backup'));

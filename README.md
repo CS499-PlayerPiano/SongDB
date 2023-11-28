@@ -17,3 +17,14 @@ This repo contains all the songs for the piano to play.
     "artwork": "TheLivingTombstone.jpg",
 }
 ```
+
+## Checker instructions
+```bash
+# Install dependencies
+npm install
+```
+
+````bash
+# Run the checker
+node ./checker.js
+````
