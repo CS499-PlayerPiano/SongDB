@@ -6,7 +6,9 @@
         ],
         "midiFile": "ABCDEFU_-_GAYLE.mid",
         "artwork": "ABCDEFU_-_GAYLE.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 695,
+        "songLengthMS": 169155
     },
     {
         "name": "Airplanes",
@@ -15,7 +17,9 @@
         ],
         "midiFile": "Bob-_Airplanes.mid",
         "artwork": "Bob-_Airplanes.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1143,
+        "songLengthMS": 183833
     },
     {
         "name": "All Star",
@@ -27,7 +31,9 @@
         "tags": [
             "shreck",
             "somebody once told me"
-        ]
+        ],
+        "noteCount": 1890,
+        "songLengthMS": 200488
     },
     {
         "name": "Alone",
@@ -36,7 +42,9 @@
         ],
         "midiFile": "Alan_Walker_-_Alone.mid",
         "artwork": "Alan_Walker_-_Alone.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 924,
+        "songLengthMS": 154875
     },
     {
         "name": "Angry Birds Theme",
@@ -46,7 +54,9 @@
         ],
         "midiFile": "Angry_Birds_Theme.mid",
         "artwork": "Angry_Birds_OST.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 2153,
+        "songLengthMS": 155435
     },
     {
         "name": "Astronomia",
@@ -57,7 +67,9 @@
         "artwork": "COFFIN_DANCE.jpg",
         "tags": [
             "Coffin Dance"
-        ]
+        ],
+        "noteCount": 1203,
+        "songLengthMS": 179993
     },
     {
         "name": "Bad Piggies Theme",
@@ -68,7 +80,9 @@
         "artwork": "Bad_Piggies_Theme.jpg",
         "tags": [
             "Angry birds"
-        ]
+        ],
+        "noteCount": 1612,
+        "songLengthMS": 121935
     },
     {
         "name": "Believer",
@@ -77,7 +91,9 @@
         ],
         "midiFile": "Believer.mid",
         "artwork": "Evolve.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1468,
+        "songLengthMS": 192000
     },
     {
         "name": "Blinding Lights",
@@ -86,7 +102,9 @@
         ],
         "midiFile": "Blinding_Lights_1.mid",
         "artwork": "Blinding_Lights_1.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1632,
+        "songLengthMS": 180706
     },
     {
         "name": "Coconut Mall",
@@ -99,7 +117,9 @@
             "Nintendo",
             "mario kart",
             "wii"
-        ]
+        ],
+        "noteCount": 1780,
+        "songLengthMS": 123632
     },
     {
         "name": "Dance Monkey",
@@ -108,7 +128,9 @@
         ],
         "midiFile": "Dance_Monkey.mid",
         "artwork": "Dance_Monkey.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1056,
+        "songLengthMS": 206295
     },
     {
         "name": "Despacito",
@@ -117,7 +139,9 @@
         ],
         "midiFile": "Despacito.mid",
         "artwork": "Despacito.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1423,
+        "songLengthMS": 219724
     },
     {
         "name": "Dumb Ways to Die",
@@ -126,7 +150,9 @@
         ],
         "midiFile": "Dumb_Ways_to_Die.mid",
         "artwork": "Dumb_Ways_to_Die.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1264,
+        "songLengthMS": 274755
     },
     {
         "name": "Five Nights at Freddy's 1 Song",
@@ -138,7 +164,9 @@
         "tags": [
             "FNAF",
             "TLT"
-        ]
+        ],
+        "noteCount": 1514,
+        "songLengthMS": 159277
     },
     {
         "name": "Giorno Theme",
@@ -149,7 +177,9 @@
         "artwork": "Giornos_Theme.jpg",
         "tags": [
             "il vento d'oro"
-        ]
+        ],
+        "noteCount": 2856,
+        "songLengthMS": 289466
     },
     {
         "name": "Hes a pirate",
@@ -158,7 +188,9 @@
         ],
         "midiFile": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.mid",
         "artwork": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1080,
+        "songLengthMS": 81426
     },
     {
         "name": "Im Blue",
@@ -167,7 +199,9 @@
         ],
         "midiFile": "Im_Blue_by_Eiffel_65_for_Piano.mid",
         "artwork": "Im_Blue_by_Eiffel_65_for_Piano.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1075,
+        "songLengthMS": 181831
     },
     {
         "name": "Its Been So Long",
@@ -179,7 +213,9 @@
         "tags": [
             "FNAF",
             "TLT"
-        ]
+        ],
+        "noteCount": 1162,
+        "songLengthMS": 171875
     },
     {
         "name": "Levan Polkka",
@@ -188,7 +224,9 @@
         ],
         "midiFile": "Levan_Polkka.mid",
         "artwork": "Levan_Polkka.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1923,
+        "songLengthMS": 129286
     },
     {
         "name": "MONTERO",
@@ -199,7 +237,9 @@
         "artwork": "Montero__Call_me_by_your_name__-_Lil_nas_X.jpg",
         "tags": [
             "Call me by your name"
-        ]
+        ],
+        "noteCount": 847,
+        "songLengthMS": 133649
     },
     {
         "name": "Never Gonna Give You Up",
@@ -210,7 +250,9 @@
         "artwork": "Never_gonna_give_you_up.jpg",
         "tags": [
             "Rick Roll"
-        ]
+        ],
+        "noteCount": 1770,
+        "songLengthMS": 191917
     },
     {
         "name": "Overworld Theme",
@@ -221,7 +263,9 @@
         "artwork": "Super_Mario_Bros._-_Main_Theme.jpg",
         "tags": [
             "Mario"
-        ]
+        ],
+        "noteCount": 1037,
+        "songLengthMS": 113283
     },
     {
         "name": "Raining Tacos",
@@ -232,7 +276,9 @@
         "artwork": "Its_Raining_Tacos.jpg",
         "tags": [
             "It's Raining Tacos"
-        ]
+        ],
+        "noteCount": 519,
+        "songLengthMS": 103687
     },
     {
         "name": "Rockefeller Street",
@@ -245,7 +291,9 @@
             "1 2 sell a tree",
             "nightcore",
             "one two sell a tree"
-        ]
+        ],
+        "noteCount": 1389,
+        "songLengthMS": 143221
     },
     {
         "name": "Still Alive",
@@ -254,7 +302,9 @@
         ],
         "midiFile": "Portal_-_Still_Alive.mid",
         "artwork": "Portal_-_Still_Alive.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1320,
+        "songLengthMS": 174500
     },
     {
         "name": "Sweden",
@@ -265,7 +315,9 @@
         "artwork": "Sweden_Minecraft.jpg",
         "tags": [
             "Minecraft"
-        ]
+        ],
+        "noteCount": 271,
+        "songLengthMS": 125045
     },
     {
         "name": "Viva La Vida",
@@ -274,7 +326,9 @@
         ],
         "midiFile": "Viva_La_Vida.mid",
         "artwork": "Viva_La_Vida.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 5876,
+        "songLengthMS": 286005
     },
     {
         "name": "We Don't Talk About Bruno",
@@ -283,7 +337,9 @@
         ],
         "midiFile": "We_Dont_Talk_About_Bruno.mid",
         "artwork": "We_Dont_Talk_About_Bruno.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1427,
+        "songLengthMS": 206213
     },
     {
         "name": "Wii Shop Channel Theme",
@@ -294,7 +350,9 @@
         "artwork": "Wii_Shop_Channel.jpeg",
         "tags": [
             "Nintendo"
-        ]
+        ],
+        "noteCount": 544,
+        "songLengthMS": 99752
     },
     {
         "name": "WORTH NOTHING",
@@ -303,6 +361,8 @@
         ],
         "midiFile": "TWISTED_-_WORTH_NOTHING_PIANO_BY_THEADMINHAMMER_AND_PIANOROBLOX_OMG_SUSBRCRIB_DO_NOT_SHARE_PLZ_PLZ_PLZ_PLZ_PZL_PZL_THIS_COST_69_PER_COPY.mid",
         "artwork": "WorthNothing.jpg",
-        "tags": []
+        "tags": [],
+        "noteCount": 1675,
+        "songLengthMS": 208005
     }
 ]
