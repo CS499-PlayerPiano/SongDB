@@ -85,6 +85,19 @@
         "songLengthMS": 121935
     },
     {
+        "name": "Beethovens Virus",
+        "artists": [
+            "BanYa",
+            "Diana Boncheva",
+            "Ludwig van Beethoven"
+        ],
+        "midiFile": "Beethovens_Virus.mid",
+        "artwork": "Ludwig-van-Beethoven.png",
+        "tags": [
+            "Remix"
+        ]
+    },
+    {
         "name": "Believer",
         "artists": [
             "Imagine Dragone"
