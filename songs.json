@@ -351,6 +351,18 @@
         "songLengthMS": 125045
     },
     {
+        "name": "Venom",
+        "artists": [
+            "Kairiki Bear"
+        ],
+        "midiFile": "Venom.mid",
+        "artwork": "Kairiki-Bear.jpg",
+        "tags": [
+            "Hatsune Miku",
+            "VOCALOID"
+        ]
+    },
+    {
         "name": "Viva La Vida",
         "artists": [
             "Coldplay"
