@@ -112,7 +112,7 @@
             "Ryo Nagamatsu"
         ],
         "midiFile": "Coconut_Mall.mid",
-        "artwork": "Mario_Kart_Wii_OST.jpeg",
+        "artwork": "Mario_Kart_Wii_OST.jpg",
         "tags": [
             "Nintendo",
             "mario kart",
@@ -262,7 +262,8 @@
         "midiFile": "Super_Mario_Bros._-_Main_Theme.mid",
         "artwork": "Super_Mario_Bros._-_Main_Theme.jpg",
         "tags": [
-            "Mario"
+            "Mario",
+            "Nintendo"
         ],
         "noteCount": 1037,
         "songLengthMS": 113283
@@ -294,6 +295,23 @@
         ],
         "noteCount": 1389,
         "songLengthMS": 143221
+    },
+    {
+        "name": "Secret Piano Battle",
+        "artists": [
+            "Frédéric Chopin",
+            "Jay Chou",
+            "Yuri Chan",
+            "bensonby"
+        ],
+        "midiFile": "secret-piano-battle.mid",
+        "artwork": "secret-piano-battle.jpg",
+        "tags": [
+            "Bùnéng shuō de·mìmì",
+            "The Secret That Cannot Be Told",
+            "不能說的·秘密",
+            "不能说的·秘密"
+        ]
     },
     {
         "name": "Still Alive",
@@ -359,7 +377,7 @@
         "artists": [
             "TWISTED"
         ],
-        "midiFile": "TWISTED_-_WORTH_NOTHING_PIANO_BY_THEADMINHAMMER_AND_PIANOROBLOX_OMG_SUSBRCRIB_DO_NOT_SHARE_PLZ_PLZ_PLZ_PLZ_PZL_PZL_THIS_COST_69_PER_COPY.mid",
+        "midiFile": "Worth_Nothing_Twisted.mid",
         "artwork": "WorthNothing.jpg",
         "tags": [],
         "noteCount": 1675,
