@@ -255,6 +255,15 @@
         "songLengthMS": 171875
     },
     {
+        "name": "Kahoot Theme",
+        "artists": [
+            "Alf Inge Wang"
+        ],
+        "midiFile": "Kahoot.mid",
+        "artwork": "kahoot.jpg",
+        "tags": []
+    },
+    {
         "name": "Levan Polkka",
         "artists": [
             "Eino Kettunen"
