@@ -195,6 +195,19 @@
         "songLengthMS": 289466
     },
     {
+        "name": "Gravity Falls Opening Theme",
+        "artists": [
+            "Brad Breeck",
+            "ThePandaTooth"
+        ],
+        "midiFile": "Gravity_Falls_Opening_Theme.mid",
+        "artwork": "GravityFalls.jpg",
+        "tags": [
+            "Disney",
+            "Gravity Falls"
+        ]
+    },
+    {
         "name": "Hes a pirate",
         "artists": [
             "Pirates of the Caribbean"
