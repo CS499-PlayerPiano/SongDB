@@ -182,6 +182,17 @@
         "songLengthMS": 159277
     },
     {
+        "name": "Fur Elise",
+        "artists": [
+            "Ludwig van Beethoven"
+        ],
+        "midiFile": "Beethoven_Fur_Elise.mid",
+        "artwork": "Ludwig-van-Beethoven.png",
+        "tags": [
+            "Classical"
+        ]
+    },
+    {
         "name": "Giorno Theme",
         "artists": [
             "JoJo's Bizarre Adventure"
