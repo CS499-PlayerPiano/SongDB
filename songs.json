@@ -484,5 +484,12 @@
     "tags": ["osu"],
     "midiFile": "Freedom Dive.mid",
     "artwork": "freedomdive.jpg"
-}
+  },
+  {
+    "name": "Bloody Stream",
+    "artists": ["Coda"],
+    "tags": ["jojo's", "anime"],
+    "midiFile": "Bloody Stream.mid",
+    "artwork": "bloodystream.jpg"
+  }
 ]
