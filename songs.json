@@ -491,5 +491,12 @@
     "tags": ["jojo's", "anime"],
     "midiFile": "Bloody Stream.mid",
     "artwork": "bloodystream.jpg"
+  },
+  {
+    "name": "Bonetrousle",
+    "artists": ["Toby Fox"],
+    "tags": ["undertale"],
+    "midiFile": "Bonetrousle.mid",
+    "artwork": "bonetrousle.jpg"
   }
 ]
