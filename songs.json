@@ -494,6 +494,17 @@
     "songLengthMS": 206213
   },
   {
+    "name": "Welcome to the Internet",
+    "artists": [
+      "Bo Burnham"
+    ],
+    "midiFile": "Welcome_to_the_Internet_-_Bo_Burnham.mid",
+    "artwork": "welcome-to-the-internet.jpg",
+    "tags": [],
+    "songLengthMS": 272059,
+    "noteCount": 2983
+  },
+  {
     "name": "Wellerman",
     "artists": [
       "Nathan Evans",
