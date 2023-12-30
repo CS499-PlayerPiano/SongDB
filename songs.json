@@ -59,6 +59,19 @@
     "songLengthMS": 155435
   },
   {
+    "name": "Around The World",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "Around_the_World_-_Daft_Punk_-_Piano_Version.mid",
+    "artwork": "DaftPunk-Homework.jpg",
+    "tags": [
+      "Homework"
+    ],
+    "songLengthMS": 96182,
+    "noteCount": 810
+  },
+  {
     "name": "Astronomia",
     "artists": [
       "Vicetone & Tony Igy"
@@ -197,6 +210,20 @@
     "songLengthMS": 219724
   },
   {
+    "name": "Digital Love",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "Digital_Love_-_Daft_Punk.mid",
+    "artwork": "DaftPunk-Discovery.jpg",
+    "tags": [
+      "Interstella 5555",
+      "Discovery"
+    ],
+    "songLengthMS": 245896,
+    "noteCount": 2070
+  },
+  {
     "name": "Dumb Ways to Die",
     "artists": [
       "Tangerine Kitty"
@@ -248,6 +275,45 @@
     "songLengthMS": 157612
   },
   {
+    "name": "Get Lucky",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "Get_Lucky_-_Daft_Punk.mid",
+    "artwork": "DaftPunk-RandomAccessMemories.png",
+    "tags": [
+      "Random Access Memories"
+    ],
+    "songLengthMS": 239900,
+    "noteCount": 2231
+  },
+  {
+    "name": "Giorgio by Moroder",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "Giorgio_by_Moroder_Daft_Punk.mid",
+    "artwork": "DaftPunk-RandomAccessMemories.png",
+    "tags": [
+      "Random Access Memories"
+    ],
+    "songLengthMS": 135929,
+    "noteCount": 1024
+  },
+  {
+    "name": "Giorgio by Moroder",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "Giorgio_by_Moroder_Daft_Punk.mid",
+    "artwork": "DaftPunk-RandomAccessMemories.png",
+    "tags": [
+      "Random Access Memories"
+    ],
+    "songLengthMS": 135929,
+    "noteCount": 1024
+  },
+  {
     "name": "Giorno Theme",
     "artists": [
       "JoJo's Bizarre Adventure"
@@ -276,6 +342,20 @@
     "songLengthMS": 113415
   },
   {
+    "name": "Harder Better Faster Stronger",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "Harder_better_faster_stronger__Daft_Punk.mid",
+    "artwork": "DaftPunk-Discovery.jpg",
+    "tags": [
+      "Interstella 5555",
+      "Discovery"
+    ],
+    "songLengthMS": 103987,
+    "noteCount": 804
+  },
+  {
     "name": "Hes a pirate",
     "artists": [
       "Pirates of the Caribbean"
@@ -296,6 +376,19 @@
     "tags": [],
     "noteCount": 1075,
     "songLengthMS": 181831
+  },
+  {
+    "name": "Instant Crush",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "Instant_crush__Daft_Punk.mid",
+    "artwork": "DaftPunk-RandomAccessMemories.png",
+    "tags": [
+      "Random Access Memories"
+    ],
+    "songLengthMS": 109987,
+    "noteCount": 890
   },
   {
     "name": "Its Been So Long",
@@ -334,6 +427,19 @@
     "songLengthMS": 129286
   },
   {
+    "name": "Lose Yourself to Dance",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "Lose_Yourself_to_Dance__Daft_Punk.mid",
+    "artwork": "DaftPunk-RandomAccessMemories.png",
+    "tags": [
+      "Random Access Memories"
+    ],
+    "songLengthMS": 345592,
+    "noteCount": 4531
+  },
+  {
     "name": "MONTERO",
     "artists": [
       "Lil Nas X"
@@ -358,6 +464,20 @@
     ],
     "noteCount": 1789,
     "songLengthMS": 191917
+  },
+  {
+    "name": "One More Time",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "Daft_Punk_-_One_more_Time.mid",
+    "artwork": "DaftPunk-Discovery.jpg",
+    "tags": [
+      "Interstella 5555",
+      "Discovery"
+    ],
+    "songLengthMS": 302928,
+    "noteCount": 2569
   },
   {
     "name": "Overworld Theme",
@@ -467,6 +587,19 @@
     ],
     "noteCount": 271,
     "songLengthMS": 125045
+  },
+  {
+    "name": "The Son of Flynn",
+    "artists": [
+      "Daft Punk"
+    ],
+    "midiFile": "The_Son_of_Flynn.mid",
+    "artwork": "DaftPunk-Tron.jpg",
+    "tags": [
+      "Tron Legacy"
+    ],
+    "songLengthMS": 90558,
+    "noteCount": 1090
   },
   {
     "name": "Venom",
