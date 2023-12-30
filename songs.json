@@ -122,6 +122,33 @@
     "songLengthMS": 180706
   },
   {
+    "name": "Bloody Stream",
+    "artists": [
+      "Coda"
+    ],
+    "tags": [
+      "jojo's",
+      "anime"
+    ],
+    "midiFile": "Bloody Stream.mid",
+    "artwork": "bloodystream.jpg",
+    "songLengthMS": 258644,
+    "noteCount": 2862
+  },
+  {
+    "name": "Bonetrousle",
+    "artists": [
+      "Toby Fox"
+    ],
+    "tags": [
+      "undertale"
+    ],
+    "midiFile": "Bonetrousle.mid",
+    "artwork": "bonetrousle.jpg",
+    "songLengthMS": 91000,
+    "noteCount": 1204
+  },
+  {
     "name": "Coconut Mall",
     "artists": [
       "Ryo Nagamatsu"
@@ -182,6 +209,19 @@
     ],
     "noteCount": 1530,
     "songLengthMS": 159277
+  },
+  {
+    "name": "Freedom Dive",
+    "artists": [
+      "Xi"
+    ],
+    "tags": [
+      "osu"
+    ],
+    "midiFile": "Freedom Dive.mid",
+    "artwork": "freedomdive.jpg",
+    "songLengthMS": 138395,
+    "noteCount": 4024
   },
   {
     "name": "Fur Elise",
@@ -477,27 +517,6 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
-  },
-  {
-    "name": "Freedom Dive",
-    "artists": ["Xi"],
-    "tags": ["osu"],
-    "midiFile": "Freedom Dive.mid",
-    "artwork": "freedomdive.jpg"
-  },
-  {
-    "name": "Bloody Stream",
-    "artists": ["Coda"],
-    "tags": ["jojo's", "anime"],
-    "midiFile": "Bloody Stream.mid",
-    "artwork": "bloodystream.jpg"
-  },
-  {
-    "name": "Bonetrousle",
-    "artists": ["Toby Fox"],
-    "tags": ["undertale"],
-    "midiFile": "Bonetrousle.mid",
-    "artwork": "bonetrousle.jpg"
   },
   {
     "name": "Space Song",
