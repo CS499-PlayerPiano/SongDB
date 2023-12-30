@@ -498,5 +498,12 @@
     "tags": ["undertale"],
     "midiFile": "Bonetrousle.mid",
     "artwork": "bonetrousle.jpg"
+  },
+  {
+    "name": "Space Song",
+    "artists": ["Beach House"],
+    "tags": ["sad"],
+    "midiFile": "Space Song.mid",
+    "artwork": "spacesong.png"
   }
 ]
