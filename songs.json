@@ -175,6 +175,17 @@
     "songLengthMS": 206295
   },
   {
+    "name": "Dark Side",
+    "artists": [
+      "Tim Minchin"
+    ],
+    "midiFile": "Dark_Side__Tim_Minchin.mid",
+    "artwork": "",
+    "tags": [],
+    "songLengthMS": 189539,
+    "noteCount": 2504
+  },
+  {
     "name": "Despacito",
     "artists": [
       "Luis Fonsi"
