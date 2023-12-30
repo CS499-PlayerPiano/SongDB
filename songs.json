@@ -301,19 +301,6 @@
     "noteCount": 1024
   },
   {
-    "name": "Giorgio by Moroder",
-    "artists": [
-      "Daft Punk"
-    ],
-    "midiFile": "Giorgio_by_Moroder_Daft_Punk.mid",
-    "artwork": "DaftPunk-RandomAccessMemories.png",
-    "tags": [
-      "Random Access Memories"
-    ],
-    "songLengthMS": 135929,
-    "noteCount": 1024
-  },
-  {
     "name": "Giorno Theme",
     "artists": [
       "JoJo's Bizarre Adventure"
