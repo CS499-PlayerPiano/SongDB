@@ -589,6 +589,19 @@
     "songLengthMS": 125045
   },
   {
+    "name": "The Real Slim Shady",
+    "artists": [
+      "Eminem"
+    ],
+    "midiFile": "The_Real_Slim_Shady_-_Eminem_Piano_.mid",
+    "artwork": "Eminem-TheMarshallMathers.jpg",
+    "tags": [
+      "The Marshall Mathers LP"
+    ],
+    "noteCount": 1943,
+    "songLengthMS": 283971
+  },
+  {
     "name": "The Son of Flynn",
     "artists": [
       "Daft Punk"
