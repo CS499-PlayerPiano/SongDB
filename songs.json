@@ -421,6 +421,19 @@
     "songLengthMS": 150529
   },
   {
+    "name": "Space Song",
+    "artists": [
+      "Beach House"
+    ],
+    "tags": [
+      "sad"
+    ],
+    "midiFile": "Space Song.mid",
+    "artwork": "spacesong.png",
+    "songLengthMS": 178010,
+    "noteCount": 850
+  },
+  {
     "name": "Still Alive",
     "artists": [
       "Portal"
@@ -517,12 +530,5 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
-  },
-  {
-    "name": "Space Song",
-    "artists": ["Beach House"],
-    "tags": ["sad"],
-    "midiFile": "Space Song.mid",
-    "artwork": "spacesong.png"
   }
 ]
