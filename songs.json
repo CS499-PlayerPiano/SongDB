@@ -686,5 +686,20 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
+  },
+  {
+    "name": "12th Street Rag",
+    "artists": [
+      "Euday L. Bowman",
+      "p7urple"
+    ],
+    "midiFile": "12th_Street_Rag.mid",
+    "artwork": "12th_Street_Rag.png",
+    "tags": [
+      "The Joe Franklin Show",
+      "Chuck E. Cheese in the Galaxy 5000",
+      "The Galaxy's For You and Me",
+      "SpongeBob SquarePants"
+    ]
   }
 ]
