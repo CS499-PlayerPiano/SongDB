@@ -342,6 +342,19 @@
     "songLengthMS": 289466
   },
   {
+    "name": "Grains of Sand",
+    "artists": [
+      "Andrew Huang"
+    ],
+    "midiFile": "Grains of Sand.mid",
+    "artwork": "grainsofsand.jpg",
+    "tags": [
+      "impossible"
+    ],
+    "songLengthMS": 179200,
+    "noteCount": 245344
+  },
+  {
     "name": "Gravity Falls Opening Theme",
     "artists": [
       "Brad Breeck",
@@ -740,14 +753,5 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
-  },
-  {
-    "name": "Grains of Sand",
-    "artists": [
-      "Andrew Huang"
-    ],
-    "midiFile": "Grains of Sand.mid",
-    "artwork": "grainsofsand.jpg",
-    "tags": ["impossible"]
   }
 ]
