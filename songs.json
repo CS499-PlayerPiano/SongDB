@@ -714,5 +714,14 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
+  },
+  {
+    "name": "Spider Dance",
+    "artists": [
+      "Toby Fox"
+    ],
+    "midiFile": "Spider_Dance.mid",
+    "artwork": "bonetrousle.jpg",
+    "tags": ["Undertale"]
   }
 ]
