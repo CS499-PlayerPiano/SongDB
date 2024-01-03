@@ -727,5 +727,14 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
+  },
+  {
+    "name": "sans.",
+    "artists": [
+      "Toby Fox"
+    ],
+    "midiFile": "sans.mid",
+    "artwork": "bonetrousle.jpg",
+    "tags": ["Undertale"]
   }
 ]
