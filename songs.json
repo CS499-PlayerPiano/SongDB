@@ -703,5 +703,14 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
+  },
+  {
+    "name": "As the World Caves In",
+    "artists": [
+      "Matt Maltese"
+    ],
+    "midiFile": "As The World Caves In.mid",
+    "artwork": "astheworldcavesin.jpg",
+    "tags": []
   }
 ]
