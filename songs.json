@@ -549,6 +549,19 @@
     "songLengthMS": 143221
   },
   {
+    "name": "sans.",
+    "artists": [
+      "Toby Fox"
+    ],
+    "midiFile": "sans.mid",
+    "artwork": "bonetrousle.jpg",
+    "tags": [
+      "Undertale"
+    ],
+    "songLengthMS": 69375,
+    "noteCount": 515
+  },
+  {
     "name": "Secret Piano Battle",
     "artists": [
       "Frédéric Chopin",
@@ -727,14 +740,5 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
-  },
-  {
-    "name": "sans.",
-    "artists": [
-      "Toby Fox"
-    ],
-    "midiFile": "sans.mid",
-    "artwork": "bonetrousle.jpg",
-    "tags": ["Undertale"]
   }
 ]
