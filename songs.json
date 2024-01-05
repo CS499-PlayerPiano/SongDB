@@ -753,5 +753,14 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
+  },
+  {
+    "name": "Hot Milk",
+    "artists": [
+      "Snail's House"
+    ],
+    "midiFile": "hotmilk.mid",
+    "artwork": "hotmilk.jpg",
+    "tags": []
   }
 ]
