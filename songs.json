@@ -395,6 +395,17 @@
     "songLengthMS": 81426
   },
   {
+    "name": "Hot Milk",
+    "artists": [
+      "Snail's House"
+    ],
+    "midiFile": "hotmilk.mid",
+    "artwork": "hotmilk.jpg",
+    "tags": [],
+    "songLengthMS": 231991,
+    "noteCount": 1382
+  },
+  {
     "name": "Im Blue",
     "artists": [
       "Eiffell 65"
@@ -753,14 +764,5 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
-  },
-  {
-    "name": "Hot Milk",
-    "artists": [
-      "Snail's House"
-    ],
-    "midiFile": "hotmilk.mid",
-    "artwork": "hotmilk.jpg",
-    "tags": []
   }
 ]
