@@ -764,5 +764,14 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
+  },
+  {
+    "name": "Kill Bill",
+    "artists": [
+      "SZA"
+    ],
+    "midiFile": "Kill_Bill.mid",
+    "artwork": "killbill.jpg",
+    "tags": ["pop"]
   }
 ]
