@@ -771,7 +771,16 @@
       "SZA"
     ],
     "midiFile": "Kill_Bill.mid",
-    "artwork": "killbill.jpg",
+    "artwork": "sza.jpg",
     "tags": ["pop"]
+  },
+  {
+    "name": "Velours",
+    "artists": [
+      "Anomalie"
+    ],
+    "midiFile": "velours.mid",
+    "artwork": "velours.jpg",
+    "tags": ["jazz"]
   }
 ]
