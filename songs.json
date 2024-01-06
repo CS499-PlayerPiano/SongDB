@@ -456,6 +456,19 @@
     "songLengthMS": 63875
   },
   {
+    "name": "Kill Bill",
+    "artists": [
+      "SZA"
+    ],
+    "midiFile": "Kill_Bill.mid",
+    "artwork": "sza.jpg",
+    "tags": [
+      "pop"
+    ],
+    "songLengthMS": 153539,
+    "noteCount": 1088
+  },
+  {
     "name": "Levan Polkka",
     "artists": [
       "Eino Kettunen"
@@ -681,6 +694,19 @@
     "noteCount": 1090
   },
   {
+    "name": "Velours",
+    "artists": [
+      "Anomalie"
+    ],
+    "midiFile": "velours.mid",
+    "artwork": "velours.jpg",
+    "tags": [
+      "jazz"
+    ],
+    "songLengthMS": 256178,
+    "noteCount": 1991
+  },
+  {
     "name": "Venom",
     "artists": [
       "Kairiki Bear"
@@ -764,23 +790,5 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
-  },
-  {
-    "name": "Kill Bill",
-    "artists": [
-      "SZA"
-    ],
-    "midiFile": "Kill_Bill.mid",
-    "artwork": "sza.jpg",
-    "tags": ["pop"]
-  },
-  {
-    "name": "Velours",
-    "artists": [
-      "Anomalie"
-    ],
-    "midiFile": "velours.mid",
-    "artwork": "velours.jpg",
-    "tags": ["jazz"]
   }
 ]
