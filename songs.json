@@ -1,308 +1,821 @@
 [
     {
-        "name": "abcdefu",
-        "artists": [
-            "GAYLE"
-        ],
-        "midiFile": "ABCDEFU_-_GAYLE.mid",
-        "artwork": "ABCDEFU_-_GAYLE.jpg",
-        "tags": []
+      "name": "12th Street Rag",
+      "artists": [
+        "Euday L. Bowman",
+        "p7urple"
+      ],
+      "midiFile": "12th_Street_Rag.mid",
+      "artwork": "12th_Street_Rag.png",
+      "tags": [
+        "The Joe Franklin Show",
+        "Chuck E. Cheese in the Galaxy 5000",
+        "The Galaxy's For You and Me",
+        "SpongeBob SquarePants"
+      ],
+      "songLengthMS": 109287,
+      "noteCount": 2785
     },
     {
-        "name": "Airplanes",
-        "artists": [
-            "B.o.B"
-        ],
-        "midiFile": "Bob-_Airplanes.mid",
-        "artwork": "Bob-_Airplanes.jpg",
-        "tags": []
+      "name": "abcdefu",
+      "artists": [
+        "GAYLE"
+      ],
+      "midiFile": "ABCDEFU_-_GAYLE.mid",
+      "artwork": "ABCDEFU_-_GAYLE.jpg",
+      "tags": [],
+      "noteCount": 695,
+      "songLengthMS": 169155
     },
     {
-        "name": "All Star",
-        "artists": [
-            "Smash Mouth"
-        ],
-        "midiFile": "All_Star.mid",
-        "artwork": "All_Star.jpg",
-        "tags": [
-            "shreck",
-            "somebody once told me"
-        ]
+      "name": "Airplanes",
+      "artists": [
+        "B.o.B"
+      ],
+      "midiFile": "Bob-_Airplanes.mid",
+      "artwork": "Bob-_Airplanes.jpg",
+      "tags": [],
+      "noteCount": 1143,
+      "songLengthMS": 183833
     },
     {
-        "name": "Alone",
-        "artists": [
-            "Alan Walker"
-        ],
-        "midiFile": "Alan_Walker_-_Alone.mid",
-        "artwork": "Alan_Walker_-_Alone.jpg",
-        "tags": []
+      "name": "All Star",
+      "artists": [
+        "Smash Mouth"
+      ],
+      "midiFile": "All_Star.mid",
+      "artwork": "All_Star.jpg",
+      "tags": [
+        "shreck",
+        "somebody once told me"
+      ],
+      "noteCount": 1900,
+      "songLengthMS": 200488
     },
     {
-        "name": "Angry Birds Theme",
-        "artists": [
-            " Ari Pulkkinen",
-            "David Schweitzer"
-        ],
-        "midiFile": "Angry_Birds_Theme.mid",
-        "artwork": "Angry_Birds_OST.png",
-        "tags": []
+      "name": "Alone",
+      "artists": [
+        "Alan Walker"
+      ],
+      "midiFile": "Alan_Walker_-_Alone.mid",
+      "artwork": "Alan_Walker_-_Alone.jpg",
+      "tags": [],
+      "noteCount": 924,
+      "songLengthMS": 154875
     },
     {
-        "name": "Astronomia",
-        "artists": [
-            "Vicetone & Tony Igy"
-        ],
-        "midiFile": "COFFIN_DANCE.mid",
-        "artwork": "COFFIN_DANCE.jpg",
-        "tags": [
-            "Coffin Dance"
-        ]
+      "name": "Angry Birds Theme",
+      "artists": [
+        " Ari Pulkkinen",
+        "David Schweitzer"
+      ],
+      "midiFile": "Angry_Birds_Theme.mid",
+      "artwork": "Angry_Birds_OST.jpg",
+      "tags": [],
+      "noteCount": 2541,
+      "songLengthMS": 155435
     },
     {
-        "name": "Bad Piggies Theme",
-        "artists": [
-            "Bad Piggies"
-        ],
-        "midiFile": "Bad_Piggies_Theme.mid",
-        "artwork": "Bad_Piggies_Theme.jpg",
-        "tags": [
-            "Angry birds"
-        ]
+      "name": "Around The World",
+      "artists": [
+        "Daft Punk"
+      ],
+      "midiFile": "Around_the_World_-_Daft_Punk_-_Piano_Version.mid",
+      "artwork": "DaftPunk-Homework.jpg",
+      "tags": [
+        "Homework"
+      ],
+      "songLengthMS": 96182,
+      "noteCount": 810
     },
     {
-        "name": "Believer",
-        "artists": [
-            "Imagine Dragone"
-        ],
-        "midiFile": "Believer.mid",
-        "artwork": "Evolve.jpg",
-        "tags": []
+      "name": "As the World Caves In",
+      "artists": [
+        "Matt Maltese"
+      ],
+      "midiFile": "As The World Caves In.mid",
+      "artwork": "astheworldcavesin.jpg",
+      "tags": [],
+      "songLengthMS": 124500,
+      "noteCount": 442
     },
     {
-        "name": "Blinding Lights",
-        "artists": [
-            "The Weeknd"
-        ],
-        "midiFile": "Blinding_Lights_1.mid",
-        "artwork": "Blinding_Lights_1.jpg",
-        "tags": []
+      "name": "Astronomia",
+      "artists": [
+        "Vicetone & Tony Igy"
+      ],
+      "midiFile": "COFFIN_DANCE.mid",
+      "artwork": "COFFIN_DANCE.jpg",
+      "tags": [
+        "Coffin Dance"
+      ],
+      "noteCount": 1203,
+      "songLengthMS": 179993
     },
     {
-        "name": "Coconut Mall",
-        "artists": [
-            "Ryo Nagamatsu"
-        ],
-        "midiFile": "Coconut_Mall.mid",
-        "artwork": "Mario_Kart_Wii_OST.jpeg",
-        "tags": [
-            "Nintendo",
-            "mario kart",
-            "wii"
-        ]
+      "name": "Bad Piggies Theme",
+      "artists": [
+        "Bad Piggies"
+      ],
+      "midiFile": "Bad_Piggies_Theme.mid",
+      "artwork": "Bad_Piggies_Theme.jpg",
+      "tags": [
+        "Angry birds"
+      ],
+      "noteCount": 1616,
+      "songLengthMS": 121935
     },
     {
-        "name": "Dance Monkey",
-        "artists": [
-            "Tones And I"
-        ],
-        "midiFile": "Dance_Monkey.mid",
-        "artwork": "Dance_Monkey.jpg",
-        "tags": []
+      "name": "Beethovens Virus",
+      "artists": [
+        "BanYa",
+        "Diana Boncheva",
+        "Ludwig van Beethoven"
+      ],
+      "midiFile": "Beethovens_Virus.mid",
+      "artwork": "Ludwig-van-Beethoven.png",
+      "tags": [
+        "Remix"
+      ],
+      "noteCount": 2671,
+      "songLengthMS": 216731
     },
     {
-        "name": "Despacito",
-        "artists": [
-            "Luis Fonsi"
-        ],
-        "midiFile": "Despacito.mid",
-        "artwork": "Despacito.jpg",
-        "tags": []
+      "name": "Believer",
+      "artists": [
+        "Imagine Dragone"
+      ],
+      "midiFile": "Believer.mid",
+      "artwork": "Evolve.jpg",
+      "tags": [],
+      "noteCount": 1468,
+      "songLengthMS": 192000
     },
     {
-        "name": "Dumb Ways to Die",
-        "artists": [
-            "Tangerine Kitty"
-        ],
-        "midiFile": "Dumb_Ways_to_Die.mid",
-        "artwork": "Dumb_Ways_to_Die.jpg",
-        "tags": []
+      "name": "Blinding Lights",
+      "artists": [
+        "The Weeknd"
+      ],
+      "midiFile": "Blinding_Lights_1.mid",
+      "artwork": "Blinding_Lights_1.jpg",
+      "tags": [],
+      "noteCount": 1632,
+      "songLengthMS": 180706
     },
     {
-        "name": "Five Nights at Freddy's 1 Song",
-        "artists": [
-            "The Living Tombstone"
-        ],
-        "midiFile": "Five_Nights_At_Freddys_Song_FNAF_1.mid",
-        "artwork": "Five_Nights_At_Freddys_Song_FNAF_1.jpg",
-        "tags": [
-            "FNAF",
-            "TLT"
-        ]
+      "name": "Bloody Stream",
+      "artists": [
+        "Coda"
+      ],
+      "tags": [
+        "jojo's",
+        "anime"
+      ],
+      "midiFile": "Bloody Stream.mid",
+      "artwork": "bloodystream.jpg",
+      "songLengthMS": 258644,
+      "noteCount": 2862
     },
     {
-        "name": "Giorno Theme",
-        "artists": [
-            "JoJo's Bizarre Adventure"
-        ],
-        "midiFile": "Giornos_Theme.mid",
-        "artwork": "Giornos_Theme.jpg",
-        "tags": [
-            "il vento d'oro"
-        ]
+      "name": "Bonetrousle",
+      "artists": [
+        "Toby Fox"
+      ],
+      "tags": [
+        "undertale"
+      ],
+      "midiFile": "Bonetrousle.mid",
+      "artwork": "bonetrousle.jpg",
+      "songLengthMS": 91000,
+      "noteCount": 1204
     },
     {
-        "name": "Hes a pirate",
-        "artists": [
-            "Pirates of the Caribbean"
-        ],
-        "midiFile": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.mid",
-        "artwork": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.jpg",
-        "tags": []
+      "name": "Coconut Mall",
+      "artists": [
+        "Ryo Nagamatsu"
+      ],
+      "midiFile": "Coconut_Mall.mid",
+      "artwork": "Mario_Kart_Wii_OST.jpg",
+      "tags": [
+        "Nintendo",
+        "mario kart",
+        "wii"
+      ],
+      "noteCount": 1808,
+      "songLengthMS": 123632
     },
     {
-        "name": "Im Blue",
-        "artists": [
-            "Eiffell 65"
-        ],
-        "midiFile": "Im_Blue_by_Eiffel_65_for_Piano.mid",
-        "artwork": "Im_Blue_by_Eiffel_65_for_Piano.jpg",
-        "tags": []
+      "name": "Dance Monkey",
+      "artists": [
+        "Tones And I"
+      ],
+      "midiFile": "Dance_Monkey.mid",
+      "artwork": "Dance_Monkey.jpg",
+      "tags": [],
+      "noteCount": 1056,
+      "songLengthMS": 206295
     },
     {
-        "name": "Its Been So Long",
-        "artists": [
-            "The Living Tombstone"
-        ],
-        "midiFile": "The_Living_Tombstone_-_fnaf_its__be_so_long.mid",
-        "artwork": "livingtombstone.png",
-        "tags": [
-            "FNAF",
-            "TLT"
-        ]
+      "name": "Dark Side",
+      "artists": [
+        "Tim Minchin"
+      ],
+      "midiFile": "Dark_Side__Tim_Minchin.mid",
+      "artwork": "TimMinchin-Darkside.jpg",
+      "tags": [],
+      "songLengthMS": 189539,
+      "noteCount": 2504
     },
     {
-        "name": "Levan Polkka",
-        "artists": [
-            "Eino Kettunen"
-        ],
-        "midiFile": "Levan_Polkka.mid",
-        "artwork": "Levan_Polkka.jpg",
-        "tags": []
+      "name": "Despacito",
+      "artists": [
+        "Luis Fonsi"
+      ],
+      "midiFile": "Despacito.mid",
+      "artwork": "Despacito.jpg",
+      "tags": [],
+      "noteCount": 1423,
+      "songLengthMS": 219724
     },
     {
-        "name": "MONTERO",
-        "artists": [
-            "Lil Nas X"
-        ],
-        "midiFile": "Montero__Call_me_by_your_name__-_Lil_nas_X.mid",
-        "artwork": "Montero__Call_me_by_your_name__-_Lil_nas_X.jpg",
-        "tags": [
-            "Call me by your name"
-        ]
+      "name": "Digital Love",
+      "artists": [
+        "Daft Punk"
+      ],
+      "midiFile": "Digital_Love_-_Daft_Punk.mid",
+      "artwork": "DaftPunk-Discovery.jpg",
+      "tags": [
+        "Interstella 5555",
+        "Discovery"
+      ],
+      "songLengthMS": 245896,
+      "noteCount": 2070
     },
     {
-        "name": "Never Gonna Give You Up",
-        "artists": [
-            "Rick Astley"
-        ],
-        "midiFile": "Never_gonna_give_you_up.mid",
-        "artwork": "Never_gonna_give_you_up.jpg",
-        "tags": [
-            "Rick Roll"
-        ]
+      "name": "Dumb Ways to Die",
+      "artists": [
+        "Tangerine Kitty"
+      ],
+      "midiFile": "Dumb_Ways_to_Die.mid",
+      "artwork": "Dumb_Ways_to_Die.jpg",
+      "tags": [],
+      "noteCount": 1303,
+      "songLengthMS": 274755
     },
     {
-        "name": "Overworld Theme",
-        "artists": [
-            "Super Mario Bros"
-        ],
-        "midiFile": "Super_Mario_Bros._-_Main_Theme.mid",
-        "artwork": "Super_Mario_Bros._-_Main_Theme.jpg",
-        "tags": [
-            "Mario"
-        ]
+      "name": "Five Nights at Freddy's 1 Song",
+      "artists": [
+        "The Living Tombstone"
+      ],
+      "midiFile": "Five_Nights_At_Freddys_Song_FNAF_1.mid",
+      "artwork": "Five_Nights_At_Freddys_Song_FNAF_1.jpg",
+      "tags": [
+        "FNAF",
+        "TLT"
+      ],
+      "noteCount": 1530,
+      "songLengthMS": 159277
     },
     {
-        "name": "Raining Tacos",
-        "artists": [
-            "Parry Gripp & BooneBum"
-        ],
-        "midiFile": "Its_Raining_Tacos.mid",
-        "artwork": "Its_Raining_Tacos.jpg",
-        "tags": [
-            "It's Raining Tacos"
-        ]
+      "name": "Freedom Dive",
+      "artists": [
+        "Xi"
+      ],
+      "tags": [
+        "osu"
+      ],
+      "midiFile": "Freedom Dive.mid",
+      "artwork": "freedomdive.jpg",
+      "songLengthMS": 138395,
+      "noteCount": 4024
     },
     {
-        "name": "Rockefeller Street",
-        "artists": [
-            "Nightcore"
-        ],
-        "midiFile": "Rockefeller_Street.mid",
-        "artwork": "Rockefeller_Street.jpg",
-        "tags": [
-            "1 2 sell a tree",
-            "nightcore",
-            "one two sell a tree"
-        ]
+      "name": "Fur Elise",
+      "artists": [
+        "Ludwig van Beethoven"
+      ],
+      "midiFile": "Beethoven_Fur_Elise.mid",
+      "artwork": "Ludwig-van-Beethoven.png",
+      "tags": [
+        "Classical"
+      ],
+      "noteCount": 2102,
+      "songLengthMS": 157612
     },
     {
-        "name": "Still Alive",
-        "artists": [
-            "Portal"
-        ],
-        "midiFile": "Portal_-_Still_Alive.mid",
-        "artwork": "Portal_-_Still_Alive.jpg",
-        "tags": []
+      "name": "Get Lucky",
+      "artists": [
+        "Daft Punk"
+      ],
+      "midiFile": "Get_Lucky_-_Daft_Punk.mid",
+      "artwork": "DaftPunk-RandomAccessMemories.png",
+      "tags": [
+        "Random Access Memories"
+      ],
+      "songLengthMS": 239900,
+      "noteCount": 2231
     },
     {
-        "name": "Sweden",
-        "artists": [
-            "C418"
-        ],
-        "midiFile": "Sweden_Minecraft.mid",
-        "artwork": "Sweden_Minecraft.jpg",
-        "tags": [
-            "Minecraft"
-        ]
+      "name": "Giorgio by Moroder",
+      "artists": [
+        "Daft Punk"
+      ],
+      "midiFile": "Giorgio_by_Moroder_Daft_Punk.mid",
+      "artwork": "DaftPunk-RandomAccessMemories.png",
+      "tags": [
+        "Random Access Memories"
+      ],
+      "songLengthMS": 135929,
+      "noteCount": 1024
     },
     {
-        "name": "Viva La Vida",
-        "artists": [
-            "Coldplay"
-        ],
-        "midiFile": "Viva_La_Vida.mid",
-        "artwork": "Viva_La_Vida.png",
-        "tags": []
+      "name": "Giorno Theme",
+      "artists": [
+        "JoJo's Bizarre Adventure"
+      ],
+      "midiFile": "Giornos_Theme.mid",
+      "artwork": "Giornos_Theme.jpg",
+      "tags": [
+        "il vento d'oro"
+      ],
+      "noteCount": 2890,
+      "songLengthMS": 289466
     },
     {
-        "name": "We Don't Talk About Bruno",
-        "artists": [
-            "Encanto"
-        ],
-        "midiFile": "We_Dont_Talk_About_Bruno.mid",
-        "artwork": "We_Dont_Talk_About_Bruno.jpg",
-        "tags": []
+      "name": "Grains of Sand",
+      "artists": [
+        "Andrew Huang"
+      ],
+      "midiFile": "Grains of Sand.mid",
+      "artwork": "grainsofsand.jpg",
+      "tags": [
+        "impossible"
+      ],
+      "songLengthMS": 179200,
+      "noteCount": 245344
     },
     {
-        "name": "Wii Shop Channel Theme",
-        "artists": [
-            "Kazumi Totaka"
-        ],
-        "midiFile": "Wii_Shop_Channel_Theme.mid",
-        "artwork": "Wii_Shop_Channel.jpeg",
-        "tags": [
-            "Nintendo"
-        ]
+      "name": "Gravity Falls Opening Theme",
+      "artists": [
+        "Brad Breeck",
+        "ThePandaTooth"
+      ],
+      "midiFile": "Gravity_Falls_Opening_Theme.mid",
+      "artwork": "GravityFalls.jpg",
+      "tags": [
+        "Disney",
+        "Gravity Falls"
+      ],
+      "noteCount": 873,
+      "songLengthMS": 113415
     },
     {
-        "name": "WORTH NOTHING",
+      "name": "Harder Better Faster Stronger",
+      "artists": [
+        "Daft Punk"
+      ],
+      "midiFile": "Harder_better_faster_stronger__Daft_Punk.mid",
+      "artwork": "DaftPunk-Discovery.jpg",
+      "tags": [
+        "Interstella 5555",
+        "Discovery"
+      ],
+      "songLengthMS": 103987,
+      "noteCount": 804
+    },
+    {
+      "name": "Hes a pirate",
+      "artists": [
+        "Pirates of the Caribbean"
+      ],
+      "midiFile": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.mid",
+      "artwork": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.jpg",
+      "tags": [],
+      "noteCount": 1109,
+      "songLengthMS": 81426
+    },
+    {
+      "name": "Hot Milk",
+      "artists": [
+        "Snail's House"
+      ],
+      "midiFile": "hotmilk.mid",
+      "artwork": "hotmilk.jpg",
+      "tags": [],
+      "songLengthMS": 231991,
+      "noteCount": 1382
+    },
+    {
+      "name": "Im Blue",
+      "artists": [
+        "Eiffell 65"
+      ],
+      "midiFile": "Im_Blue_by_Eiffel_65_for_Piano.mid",
+      "artwork": "Im_Blue_by_Eiffel_65_for_Piano.jpg",
+      "tags": [],
+      "noteCount": 1075,
+      "songLengthMS": 181831
+    },
+    {
+      "name": "Instant Crush",
+      "artists": [
+        "Daft Punk"
+      ],
+      "midiFile": "Instant_crush__Daft_Punk.mid",
+      "artwork": "DaftPunk-RandomAccessMemories.png",
+      "tags": [
+        "Random Access Memories"
+      ],
+      "songLengthMS": 109987,
+      "noteCount": 890
+    },
+    {
+      "name": "Its Been So Long",
+      "artists": [
+        "The Living Tombstone"
+      ],
+      "midiFile": "The_Living_Tombstone_-_fnaf_its__be_so_long.mid",
+      "artwork": "livingtombstone.jpg",
+      "tags": [
+        "FNAF",
+        "TLT",
+        "Five nights at freddys"
+      ],
+      "noteCount": 1162,
+      "songLengthMS": 171875
+    },
+    {
+      "name": "Kahoot Theme",
+      "artists": [
+        "Alf Inge Wang"
+      ],
+      "midiFile": "Kahoot.mid",
+      "artwork": "Kahoot.png",
+      "tags": [],
+      "noteCount": 572,
+      "songLengthMS": 63875
+    },
+    {
+      "name": "Kill Bill",
+      "artists": [
+        "SZA"
+      ],
+      "midiFile": "Kill_Bill.mid",
+      "artwork": "sza.jpg",
+      "tags": [
+        "pop"
+      ],
+      "songLengthMS": 153539,
+      "noteCount": 1088
+    },
+    {
+      "name": "Levan Polkka",
+      "artists": [
+        "Eino Kettunen"
+      ],
+      "midiFile": "Levan_Polkka.mid",
+      "artwork": "Levan_Polkka.jpg",
+      "tags": [],
+      "noteCount": 1924,
+      "songLengthMS": 129286
+    },
+    {
+      "name": "Lose Yourself to Dance",
+      "artists": [
+        "Daft Punk"
+      ],
+      "midiFile": "Lose_Yourself_to_Dance__Daft_Punk.mid",
+      "artwork": "DaftPunk-RandomAccessMemories.png",
+      "tags": [
+        "Random Access Memories"
+      ],
+      "songLengthMS": 345592,
+      "noteCount": 4531
+    },
+    {
+      "name": "MONTERO",
+      "artists": [
+        "Lil Nas X"
+      ],
+      "midiFile": "Montero__Call_me_by_your_name__-_Lil_nas_X.mid",
+      "artwork": "Montero__Call_me_by_your_name__-_Lil_nas_X.jpg",
+      "tags": [
+        "Call me by your name"
+      ],
+      "noteCount": 847,
+      "songLengthMS": 133649
+    },
+    {
+      "name": "Never Gonna Give You Up",
+      "artists": [
+        "Rick Astley"
+      ],
+      "midiFile": "Never_gonna_give_you_up.mid",
+      "artwork": "Never_gonna_give_you_up.jpg",
+      "tags": [
+        "Rick Roll"
+      ],
+      "noteCount": 1789,
+      "songLengthMS": 191917
+    },
+    {
+      "name": "One More Time",
+      "artists": [
+        "Daft Punk"
+      ],
+      "midiFile": "Daft_Punk_-_One_more_Time.mid",
+      "artwork": "DaftPunk-Discovery.jpg",
+      "tags": [
+        "Interstella 5555",
+        "Discovery"
+      ],
+      "songLengthMS": 302928,
+      "noteCount": 2569
+    },
+    {
+      "name": "Overworld Theme",
+      "artists": [
+        "Super Mario Bros"
+      ],
+      "midiFile": "Super_Mario_Bros._-_Main_Theme.mid",
+      "artwork": "Super_Mario_Bros._-_Main_Theme.jpg",
+      "tags": [
+        "Mario",
+        "Nintendo"
+      ],
+      "noteCount": 1042,
+      "songLengthMS": 113283
+    },
+    {
+      "name": "Raining Tacos",
+      "artists": [
+        "Parry Gripp & BooneBum"
+      ],
+      "midiFile": "Its_Raining_Tacos.mid",
+      "artwork": "Its_Raining_Tacos.jpg",
+      "tags": [
+        "It's Raining Tacos"
+      ],
+      "noteCount": 520,
+      "songLengthMS": 103687
+    },
+    {
+      "name": "River flows in you",
+      "artists": [
+        "Yiruma"
+      ],
+      "midiFile": "River_Flows_In_You.mid",
+      "artwork": "Yiruma.jpg",
+      "tags": [],
+      "noteCount": 840,
+      "songLengthMS": 166985
+    },
+    {
+      "name": "Rockefeller Street",
+      "artists": [
+        "Nightcore"
+      ],
+      "midiFile": "Rockefeller_Street.mid",
+      "artwork": "Rockefeller_Street.jpg",
+      "tags": [
+        "1 2 sell a tree",
+        "nightcore",
+        "one two sell a tree"
+      ],
+      "noteCount": 1389,
+      "songLengthMS": 143221
+    },
+    {
+      "name": "sans.",
+      "artists": [
+        "Toby Fox"
+      ],
+      "midiFile": "sans.mid",
+      "artwork": "bonetrousle.jpg",
+      "tags": [
+        "Undertale"
+      ],
+      "songLengthMS": 69375,
+      "noteCount": 515
+    },
+    {
+      "name": "Secret Piano Battle",
+      "artists": [
+        "Frédéric Chopin",
+        "Jay Chou",
+        "Yuri Chan",
+        "bensonby"
+      ],
+      "midiFile": "secret-piano-battle.mid",
+      "artwork": "secret-piano-battle.jpg",
+      "tags": [
+        "Bùnéng shuō de·mìmì",
+        "The Secret That Cannot Be Told",
+        "不能說的·秘密",
+        "不能说的·秘密"
+      ],
+      "noteCount": 2874,
+      "songLengthMS": 150529
+    },
+    {
+      "name": "Space Song",
+      "artists": [
+        "Beach House"
+      ],
+      "tags": [
+        "sad"
+      ],
+      "midiFile": "Space Song.mid",
+      "artwork": "spacesong.png",
+      "songLengthMS": 178010,
+      "noteCount": 850
+    },
+    {
+      "name": "Spider Dance",
+      "artists": [
+        "Toby Fox"
+      ],
+      "midiFile": "Spider_Dance.mid",
+      "artwork": "bonetrousle.jpg",
+      "tags": [
+        "Undertale"
+      ],
+      "songLengthMS": 105312,
+      "noteCount": 1221
+    },
+    {
+      "name": "Still Alive",
+      "artists": [
+        "Portal"
+      ],
+      "midiFile": "Portal_-_Still_Alive.mid",
+      "artwork": "Portal_-_Still_Alive.jpg",
+      "tags": [],
+      "noteCount": 1344,
+      "songLengthMS": 174500
+    },
+    {
+      "name": "Sweden",
+      "artists": [
+        "C418"
+      ],
+      "midiFile": "Sweden_Minecraft.mid",
+      "artwork": "Sweden_Minecraft.jpg",
+      "tags": [
+        "Minecraft"
+      ],
+      "noteCount": 271,
+      "songLengthMS": 125045
+    },
+    {
+      "name": "The Real Slim Shady",
+      "artists": [
+        "Eminem"
+      ],
+      "midiFile": "The_Real_Slim_Shady_-_Eminem_Piano_.mid",
+      "artwork": "Eminem-TheMarshallMathers.jpg",
+      "tags": [
+        "The Marshall Mathers LP"
+      ],
+      "noteCount": 1943,
+      "songLengthMS": 283971
+    },
+    {
+      "name": "The Son of Flynn",
+      "artists": [
+        "Daft Punk"
+      ],
+      "midiFile": "The_Son_of_Flynn.mid",
+      "artwork": "DaftPunk-Tron.jpg",
+      "tags": [
+        "Tron Legacy"
+      ],
+      "songLengthMS": 90558,
+      "noteCount": 1090
+    },
+    {
+      "name": "Velours",
+      "artists": [
+        "Anomalie"
+      ],
+      "midiFile": "velours.mid",
+      "artwork": "velours.jpg",
+      "tags": [
+        "jazz"
+      ],
+      "songLengthMS": 256178,
+      "noteCount": 1991
+    },
+    {
+      "name": "Venom",
+      "artists": [
+        "Kairiki Bear"
+      ],
+      "midiFile": "Venom.mid",
+      "artwork": "Kairiki-Bear.jpg",
+      "tags": [
+        "Hatsune Miku",
+        "VOCALOID"
+      ],
+      "noteCount": 2519,
+      "songLengthMS": 195779
+    },
+    {
+      "name": "Viva La Vida",
+      "artists": [
+        "Coldplay"
+      ],
+      "midiFile": "Viva_La_Vida.mid",
+      "artwork": "Viva_La_Vida.jpg",
+      "tags": [],
+      "noteCount": 5890,
+      "songLengthMS": 286005
+    },
+    {
+      "name": "We Don't Talk About Bruno",
+      "artists": [
+        "Encanto"
+      ],
+      "midiFile": "We_Dont_Talk_About_Bruno.mid",
+      "artwork": "We_Dont_Talk_About_Bruno.jpg",
+      "tags": [],
+      "noteCount": 1435,
+      "songLengthMS": 206213
+    },
+    {
+      "name": "Welcome to the Internet",
+      "artists": [
+        "Bo Burnham"
+      ],
+      "midiFile": "Welcome_to_the_Internet_-_Bo_Burnham.mid",
+      "artwork": "welcome-to-the-internet.jpg",
+      "tags": [],
+      "songLengthMS": 272059,
+      "noteCount": 2983
+    },
+    {
+      "name": "Wellerman",
+      "artists": [
+        "Nathan Evans",
+        "Santiano"
+      ],
+      "midiFile": "Wellerman.mid",
+      "artwork": "Wellerman.jpg",
+      "tags": [
+        "Sea Shanty"
+      ],
+      "noteCount": 968,
+      "songLengthMS": 242505
+    },
+    {
+      "name": "Wii Shop Channel Theme",
+      "artists": [
+        "Kazumi Totaka"
+      ],
+      "midiFile": "Wii_Shop_Channel_Theme.mid",
+      "artwork": "Wii_Shop_Channel.jpeg",
+      "tags": [
+        "Nintendo"
+      ],
+      "noteCount": 544,
+      "songLengthMS": 99752
+    },
+    {
+      "name": "WORTH NOTHING",
+      "artists": [
+        "TWISTED"
+      ],
+      "midiFile": "Worth_Nothing_Twisted.mid",
+      "artwork": "WorthNothing.jpg",
+      "tags": [],
+      "noteCount": 1677,
+      "songLengthMS": 208005
+    },
+    {
+        "name": "Nocturne in E flat major, Op. 9 No. 2",
         "artists": [
-            "TWISTED"
+            "Chopin"
         ],
-        "midiFile": "TWISTED_-_WORTH_NOTHING_PIANO_BY_THEADMINHAMMER_AND_PIANOROBLOX_OMG_SUSBRCRIB_DO_NOT_SHARE_PLZ_PLZ_PLZ_PLZ_PZL_PZL_THIS_COST_69_PER_COPY.mid",
-        "artwork": "TWISTED_-_WORTH_NOTHING_PIANO_BY_THEADMINHAMMER_AND_PIANOROBLOX_OMG_SUSBRCRIB_DO_NOT_SHARE_PLZ_PLZ_PLZ_PLZ_PZL_PZL_THIS_COST_69_PER_COPY.jpg",
-        "tags": []
+        "midiFile": "nocturne.mid",
+        "artwork": "nocturne.jpg",
+        "tags": ["classical"]
+    },
+    {
+        "name": "Clair De Lune",
+        "artists": [
+            "Debussy"
+        ],
+        "midiFile": "clairdelune.mid",
+        "artwork": "clairdelune.jpg",
+        "tags": ["classical"]
+    },
+    {
+        "name": "Arabesque No. 1 in E major",
+        "artists": [
+            "Debussy"
+        ],
+        "midiFile": "arabesque.mid",
+        "artwork": "arabesque.jpg",
+        "tags": ["classical"]
     }
-]
+  ]
