@@ -304,32 +304,5 @@
         "midiFile": "TWISTED_-_WORTH_NOTHING_PIANO_BY_THEADMINHAMMER_AND_PIANOROBLOX_OMG_SUSBRCRIB_DO_NOT_SHARE_PLZ_PLZ_PLZ_PLZ_PZL_PZL_THIS_COST_69_PER_COPY.mid",
         "artwork": "TWISTED_-_WORTH_NOTHING_PIANO_BY_THEADMINHAMMER_AND_PIANOROBLOX_OMG_SUSBRCRIB_DO_NOT_SHARE_PLZ_PLZ_PLZ_PLZ_PZL_PZL_THIS_COST_69_PER_COPY.jpg",
         "tags": []
-    },
-    {
-        "name": "Nocturne in E flat major, Op. 9 No. 2",
-        "artists": [
-            "Chopin"
-        ],
-        "midiFile": "nocturne.mid",
-        "artwork": "nocturne.jpg",
-        "tags": ["classical"]
-    },
-    {
-        "name": "Clair De Lune",
-        "artists": [
-            "Debussy"
-        ],
-        "midiFile": "clairdelune.mid",
-        "artwork": "clairdelune.jpg",
-        "tags": ["classical"]
-    },
-    {
-        "name": "Arabesque No. 1 in E major",
-        "artists": [
-            "Debussy"
-        ],
-        "midiFile": "arabesque.mid",
-        "artwork": "arabesque.jpg",
-        "tags": ["classical"]
     }
 ]
