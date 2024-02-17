@@ -355,7 +355,7 @@
     "noteCount": 1024
   },
   {
-    "name": "Giorno Theme",
+    "name": "Giorno's Theme",
     "artists": [
       "JoJo's Bizarre Adventure"
     ],
@@ -396,7 +396,7 @@
     "songLengthMS": 113415
   },
   {
-    "name": "Harder Better Faster Stronger",
+    "name": "Harder, Better, Faster, Stronger",
     "artists": [
       "Daft Punk"
     ],
@@ -410,7 +410,7 @@
     "noteCount": 804
   },
   {
-    "name": "Hes a pirate",
+    "name": "He's a Pirate",
     "artists": [
       "Pirates of the Caribbean"
     ],
@@ -432,7 +432,7 @@
     "noteCount": 1382
   },
   {
-    "name": "Im Blue",
+    "name": "I'm Blue",
     "artists": [
       "Eiffell 65"
     ],
@@ -456,7 +456,7 @@
     "noteCount": 890
   },
   {
-    "name": "Its Been So Long",
+    "name": "It's Been So Long",
     "artists": [
       "The Living Tombstone"
     ],
@@ -599,7 +599,7 @@
     "songLengthMS": 103687
   },
   {
-    "name": "River flows in you",
+    "name": "River Flows In You",
     "artists": [
       "Yiruma"
     ],
@@ -829,5 +829,17 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
+  },
+  {
+    "name": "Gwyn, Lord of Cinder",
+    "artists": [
+      "Motoi Sakuraba"
+    ],
+    "midiFile": "gwyn.mid",
+    "artwork": "darksouls.jpg",
+    "tags": [
+      "Video Game",
+      "Dark Souls"
+    ]
   }
 ]
