@@ -835,11 +835,12 @@
     "artists": [
       "Motoi Sakuraba"
     ],
-    "midiFile": "gwyn.mid",
+    "midiFile": "gwyn.MID",
     "artwork": "darksouls.jpg",
     "tags": [
       "Video Game",
-      "Dark Souls"
+      "Dark Souls",
+      "gaming"
     ]
   }
 ]
