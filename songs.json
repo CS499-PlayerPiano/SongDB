@@ -396,6 +396,21 @@
     "songLengthMS": 113415
   },
   {
+    "name": "Gwyn, Lord of Cinder",
+    "artists": [
+      "Motoi Sakuraba"
+    ],
+    "midiFile": "gwyn.MID",
+    "artwork": "darksouls.jpg",
+    "tags": [
+      "Video Game",
+      "Dark Souls",
+      "gaming"
+    ],
+    "songLengthMS": 216000,
+    "noteCount": 1658
+  },
+  {
     "name": "Harder, Better, Faster, Stronger",
     "artists": [
       "Daft Punk"
@@ -829,18 +844,5 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
-  },
-  {
-    "name": "Gwyn, Lord of Cinder",
-    "artists": [
-      "Motoi Sakuraba"
-    ],
-    "midiFile": "gwyn.MID",
-    "artwork": "darksouls.jpg",
-    "tags": [
-      "Video Game",
-      "Dark Souls",
-      "gaming"
-    ]
   }
 ]
