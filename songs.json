@@ -844,5 +844,182 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
-  }
+  },
+  [
+    {
+      "name": "World's Smallest Violin",
+      "artists": ["AJR"],
+      "midiFile": "AJR_-_Worlds_Smallest_Violin.mid",
+      "artwork": "AJR_-_Worlds_Smallest_Violin.jpeg",
+      "tags": []
+    },
+    {
+      "name": "At the Speed of Light",
+      "artists": ["Dimrain47"],
+      "midiFile": "At_the_Speed_of_Light.mid",
+      "artwork": "At_the_Speed_of_Light.jpg",
+      "tags": []
+    },
+    {
+      "name": "My Time",
+      "artists": ["bo en"],
+      "midiFile": "bo_en_-_My_Time.mid",
+      "artwork": "bo_en_-_My_Time.jpg",
+      "tags": []
+    },
+    {
+      "name": "By Your Side",
+      "artists": ["Pedro Silva"],
+      "midiFile": "By_Your_Side.mid",
+      "artwork": "By_Your_Side.jpg",
+      "tags": []
+    },
+    {
+      "name": "La Campanella",
+      "artists": ["Liszt"],
+      "midiFile": "campanella.mid",
+      "artwork": "campanella.jpg",
+      "tags": []
+    },
+    {
+      "name": "Etude Op. 10 No. 3 E Major (Tristesse)",
+      "artists": ["Chopin"],
+      "midiFile": "Chopin_Etude_Op._10_No._3_E_MajorTristesse.mid",
+      "artwork": "Chopin_Etude_Op._10_No._3_E_MajorTristesse.jpg",
+      "tags": []
+    },
+    {
+      "name": "Cruel Angel's Thesis",
+      "artists": ["Yoko Takahashi"],
+      "midiFile": "Cruel_Angels_Thesis_-_Piano_Cover_by_Theishter.mid",
+      "artwork": "Cruel_Angels_Thesis_-_Piano_Cover_by_Theishter.jpg",
+      "tags": []
+    },
+    {
+      "name": "Fantasie Impromptu",
+      "artists": ["Chopin"],
+      "midiFile": "Fantasie-Impromptu_by_Chopin.mid",
+      "artwork": "Fantasie-Impromptu_by_Chopin.jpg",
+      "tags": []
+    },
+    {
+      "name": "Flower Dance",
+      "artists": ["DJ Okawari"],
+      "midiFile": "Flower_Dance.mid",
+      "artwork": "Flower_Dance.jpg",
+      "tags": []
+    },
+    {
+      "name": "From the Start",
+      "artists": ["Laufey"],
+      "midiFile": "From_The_Start__Laufey.mid",
+      "artwork": "From_The_Start__Laufey.jpg",
+      "tags": []
+    },
+    {
+      "name": "Idol",
+      "artists": ["YOASOBI"],
+      "midiFile": "FULL_YOASOBI_-_Idol__-_Oshi_no_Ko_Opening_Piano.mid",
+      "artwork": "FULL_YOASOBI_-_Idol__-_Oshi_no_Ko_Opening_Piano.png",
+      "tags": []
+    },
+    {
+      "name": "Great Fairy Fountain",
+      "artists": ["Koji Kondo"],
+      "midiFile": "Great_Fairy_Fountain_Etude.mid",
+      "artwork": "Great_Fairy_Fountain_Etude.jpg",
+      "tags": []
+    },
+    {
+      "name": "Kaikai Kitan",
+      "artists": ["Eve"],
+      "midiFile": "Kaikai_Kitan_-_Jujutsu_Kaisen_OP.mid",
+      "artwork": "Kaikai_Kitan_-_Jujutsu_Kaisen_OP.png",
+      "tags": []
+    },
+    {
+      "name": "KICK BACK",
+      "artists": ["Kenshi Yonezu"],
+      "midiFile": "KICK_BACK_Full_Version__Chainsaw_Man_OP_Chaotic_Piano_Solo.mid",
+      "artwork": "KICK_BACK_Full_Version__Chainsaw_Man_OP_Chaotic_Piano_Solo.png",
+      "tags": []
+    },
+    {
+      "name": "Liebestraum No. 3 in A Major",
+      "artists": ["Liszt"],
+      "midiFile": "Liebestraum_No._3_in_A_Major.mid",
+      "artwork": "Liebestraum_No._3_in_A_Major.jpg",
+      "tags": []
+    },
+    {
+      "name": "Duet",
+      "artists": ["Pedro Silva"],
+      "midiFile": "Omori_-_Duet_Spoilers.mid",
+      "artwork": "pure_imagination.jpg",
+      "tags": []
+    },
+    {
+      "name": "Pure Imagination",
+      "artists": ["Gene Wilder"],
+      "midiFile": "pure_imagination.mid",
+      "artwork": "pure_imagination.jpg",
+      "tags": []
+    },
+    {
+      "name": "Rush E",
+      "artists": ["SheetMusicBoss"],
+      "midiFile": "Rush_E_but_its_as_difficult_as_humanly_possible.mid",
+      "artwork": "Rush_E_but_its_as_difficult_as_humanly_possible.jpg",
+      "tags": []
+    },
+    {
+      "name": "Space Oddity",
+      "artists": ["David Bowie"],
+      "midiFile": "Space_Oddity_-_David_Bowie.mid",
+      "artwork": "Space_Oddity_-_David_Bowie.jpg",
+      "tags": []
+    },
+    {
+      "name": "Sweet Child O' Mine",
+      "artists": ["Guns N' Roses"],
+      "midiFile": "Sweet_Child_o_Mine.mid",
+      "artwork": "Sweet_Child_o_Mine.png",
+      "tags": []
+    },
+    {
+      "name": "Tetris Theme",
+      "artists": ["Hirokazu Tanaka"],
+      "midiFile": "Tetris_Ragtime.mid",
+      "artwork": "Tetris_Ragtime.jpg",
+      "tags": []
+    },
+    {
+      "name": "Tree Among Shrubs",
+      "artists": ["Men I Trust"],
+      "midiFile": "Tree_Among_Shrubs_-_Men_I_Trust.mid",
+      "artwork": "Tree_Among_Shrubs_-_Men_I_Trust.jpg",
+      "tags": []
+    },
+    {
+      "name": "Black Catcher",
+      "artists": ["Vickeblanka"],
+      "midiFile": "Vickeblanka-Black_Catcher.mid",
+      "artwork": "Vickeblanka-Black_Catcher.jpg",
+      "tags": []
+    },
+    {
+      "name": "Virtual Insanity",
+      "artists": ["Jamiroquai"],
+      "midiFile": "Virtual_Insanity.mid",
+      "artwork": "Virtual_Insanity.jpg",
+      "tags": []
+    },
+    {
+      "name": "World's End Valentine",
+      "artists": ["Pedro Silva"],
+      "midiFile": "Worlds_End_Valentine.mid",
+      "artwork": "Worlds_End_Valentine.jpg",
+      "tags": []
+    }
+  ]
 ]
