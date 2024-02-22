@@ -1196,5 +1196,28 @@
     "tags": [],
     "noteCount": 1677,
     "songLengthMS": 208005
+  },
+  {
+    "name": "Your Reality",
+    "artists": [
+      "Dan Salvato"
+    ],
+    "midiFile": "Your Reality.mid",
+    "artwork": "your reality.jpg",
+    "tags": [
+      "video game",
+      "anime"
+    ]
+  },
+  {
+    "name": "Cynthia's Theme",
+    "artists": [
+      "Junichi Masuda"
+    ],
+    "midiFile": "cynthiastheme.mid",
+    "artwork": "cynthiastheme.jpg",
+    "tags": [
+      "video game"
+    ]
   }
 ]
