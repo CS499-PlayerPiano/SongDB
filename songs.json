@@ -293,6 +293,19 @@
     "noteCount": 941
   },
   {
+    "name": "Cynthia's Theme",
+    "artists": [
+      "Junichi Masuda"
+    ],
+    "midiFile": "cynthiastheme.mid",
+    "artwork": "cynthiastheme.jpg",
+    "tags": [
+      "video game"
+    ],
+    "songLengthMS": 163533,
+    "noteCount": 3424
+  },
+  {
     "name": "Dance Monkey",
     "artists": [
       "Tones And I"
@@ -1207,17 +1220,8 @@
     "tags": [
       "video game",
       "anime"
-    ]
-  },
-  {
-    "name": "Cynthia's Theme",
-    "artists": [
-      "Junichi Masuda"
     ],
-    "midiFile": "cynthiastheme.mid",
-    "artwork": "cynthiastheme.jpg",
-    "tags": [
-      "video game"
-    ]
+    "songLengthMS": 165290,
+    "noteCount": 1065
   }
 ]
