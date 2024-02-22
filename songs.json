@@ -46,8 +46,9 @@
     "midiFile": "All_Star.mid",
     "artwork": "All_Star.jpg",
     "tags": [
-      "shreck",
-      "somebody once told me"
+      "shrek",
+      "somebody once told me",
+      "meme"
     ],
     "noteCount": 1900,
     "songLengthMS": 200488
@@ -71,7 +72,9 @@
     ],
     "midiFile": "Angry_Birds_Theme.mid",
     "artwork": "Angry_Birds_OST.jpg",
-    "tags": [],
+    "tags": [
+      "video game"
+    ],
     "noteCount": 2541,
     "songLengthMS": 155435
   },
@@ -120,7 +123,8 @@
     "midiFile": "COFFIN_DANCE.mid",
     "artwork": "COFFIN_DANCE.jpg",
     "tags": [
-      "Coffin Dance"
+      "Coffin Dance",
+      "meme"
     ],
     "noteCount": 1203,
     "songLengthMS": 179993
@@ -132,7 +136,9 @@
     ],
     "midiFile": "At_the_Speed_of_Light.mid",
     "artwork": "At_the_Speed_of_Light.jpg",
-    "tags": [],
+    "tags": [
+      "video game"
+    ],
     "songLengthMS": 245265,
     "noteCount": 3452
   },
@@ -144,7 +150,8 @@
     "midiFile": "Bad_Piggies_Theme.mid",
     "artwork": "Bad_Piggies_Theme.jpg",
     "tags": [
-      "Angry birds"
+      "Angry birds",
+      "video game"
     ],
     "noteCount": 1616,
     "songLengthMS": 121935
@@ -159,7 +166,8 @@
     "midiFile": "Beethovens_Virus.mid",
     "artwork": "Ludwig-van-Beethoven.png",
     "tags": [
-      "Remix"
+      "Remix",
+      "classical"
     ],
     "noteCount": 2671,
     "songLengthMS": 216731
@@ -182,7 +190,9 @@
     ],
     "midiFile": "Vickeblanka-Black_Catcher.mid",
     "artwork": "Vickeblanka-Black_Catcher.jpg",
-    "tags": [],
+    "tags": [
+      "anime"
+    ],
     "songLengthMS": 197076,
     "noteCount": 2835
   },
@@ -217,7 +227,8 @@
       "Toby Fox"
     ],
     "tags": [
-      "undertale"
+      "undertale",
+      "video game"
     ],
     "midiFile": "Bonetrousle.mid",
     "artwork": "bonetrousle.jpg",
@@ -231,7 +242,10 @@
     ],
     "midiFile": "By_Your_Side.mid",
     "artwork": "By_Your_Side.jpg",
-    "tags": [],
+    "tags": [
+      "omori",
+      "video game"
+    ],
     "songLengthMS": 174528,
     "noteCount": 1590
   },
@@ -258,7 +272,9 @@
     "tags": [
       "Nintendo",
       "mario kart",
-      "wii"
+      "wii",
+      "meme",
+      "video game"
     ],
     "noteCount": 1808,
     "songLengthMS": 123632
@@ -270,7 +286,9 @@
     ],
     "midiFile": "Cruel_Angels_Thesis_-_Piano_Cover_by_Theishter.mid",
     "artwork": "Cruel_Angels_Thesis_-_Piano_Cover_by_Theishter.jpg",
-    "tags": [],
+    "tags": [
+      "anime"
+    ],
     "songLengthMS": 92954,
     "noteCount": 941
   },
@@ -303,7 +321,9 @@
     ],
     "midiFile": "Despacito.mid",
     "artwork": "Despacito.jpg",
-    "tags": [],
+    "tags": [
+      "meme"
+    ],
     "noteCount": 1423,
     "songLengthMS": 219724
   },
@@ -328,7 +348,10 @@
     ],
     "midiFile": "Omori_-_Duet_Spoilers.mid",
     "artwork": "pure_imagination.jpg",
-    "tags": [],
+    "tags": [
+      "omori",
+      "video game"
+    ],
     "songLengthMS": 128629,
     "noteCount": 691
   },
@@ -339,7 +362,10 @@
     ],
     "midiFile": "Dumb_Ways_to_Die.mid",
     "artwork": "Dumb_Ways_to_Die.jpg",
-    "tags": [],
+    "tags": [
+      "video game",
+      "meme"
+    ],
     "noteCount": 1303,
     "songLengthMS": 274755
   },
@@ -350,7 +376,9 @@
     ],
     "midiFile": "Chopin_Etude_Op._10_No._3_E_MajorTristesse.mid",
     "artwork": "Chopin_Etude_Op._10_No._3_E_MajorTristesse.jpg",
-    "tags": [],
+    "tags": [
+      "classical"
+    ],
     "songLengthMS": 221964,
     "noteCount": 1931
   },
@@ -361,7 +389,9 @@
     ],
     "midiFile": "Fantasie-Impromptu_by_Chopin.mid",
     "artwork": "Fantasie-Impromptu_by_Chopin.jpg",
-    "tags": [],
+    "tags": [
+      "classical"
+    ],
     "songLengthMS": 307392,
     "noteCount": 3044
   },
@@ -374,7 +404,9 @@
     "artwork": "Five_Nights_At_Freddys_Song_FNAF_1.jpg",
     "tags": [
       "FNAF",
-      "TLT"
+      "TLT",
+      "meme",
+      "video game"
     ],
     "noteCount": 1530,
     "songLengthMS": 159277
@@ -396,7 +428,8 @@
       "Xi"
     ],
     "tags": [
-      "osu"
+      "osu",
+      "video game"
     ],
     "midiFile": "Freedom Dive.mid",
     "artwork": "freedomdive.jpg",
@@ -422,7 +455,7 @@
     "midiFile": "Beethoven_Fur_Elise.mid",
     "artwork": "Ludwig-van-Beethoven.png",
     "tags": [
-      "Classical"
+      "classical"
     ],
     "noteCount": 2102,
     "songLengthMS": 157612
@@ -461,7 +494,9 @@
     "midiFile": "Giornos_Theme.mid",
     "artwork": "Giornos_Theme.jpg",
     "tags": [
-      "il vento d'oro"
+      "il vento d'oro",
+      "meme",
+      "anime"
     ],
     "noteCount": 2890,
     "songLengthMS": 289466
@@ -501,7 +536,9 @@
     ],
     "midiFile": "Great_Fairy_Fountain_Etude.mid",
     "artwork": "Great_Fairy_Fountain_Etude.jpg",
-    "tags": [],
+    "tags": [
+      "video game"
+    ],
     "songLengthMS": 149062,
     "noteCount": 1767
   },
@@ -563,7 +600,9 @@
     ],
     "midiFile": "Im_Blue_by_Eiffel_65_for_Piano.mid",
     "artwork": "Im_Blue_by_Eiffel_65_for_Piano.jpg",
-    "tags": [],
+    "tags": [
+      "meme"
+    ],
     "noteCount": 1075,
     "songLengthMS": 181831
   },
@@ -574,7 +613,9 @@
     ],
     "midiFile": "FULL_YOASOBI_-_Idol__-_Oshi_no_Ko_Opening_Piano.mid",
     "artwork": "FULL_YOASOBI_-_Idol__-_Oshi_no_Ko_Opening_Piano.png",
-    "tags": [],
+    "tags": [
+      "anime"
+    ],
     "songLengthMS": 210698,
     "noteCount": 3424
   },
@@ -601,7 +642,8 @@
     "tags": [
       "FNAF",
       "TLT",
-      "Five nights at freddys"
+      "Five nights at freddys",
+      "video game"
     ],
     "noteCount": 1162,
     "songLengthMS": 171875
@@ -613,7 +655,9 @@
     ],
     "midiFile": "Kahoot.mid",
     "artwork": "Kahoot.png",
-    "tags": [],
+    "tags": [
+      "meme"
+    ],
     "noteCount": 572,
     "songLengthMS": 63875
   },
@@ -624,7 +668,9 @@
     ],
     "midiFile": "Kaikai_Kitan_-_Jujutsu_Kaisen_OP.mid",
     "artwork": "Kaikai_Kitan_-_Jujutsu_Kaisen_OP.png",
-    "tags": [],
+    "tags": [
+      "anime"
+    ],
     "songLengthMS": 164659,
     "noteCount": 2275
   },
@@ -635,7 +681,9 @@
     ],
     "midiFile": "KICK_BACK_Full_Version__Chainsaw_Man_OP_Chaotic_Piano_Solo.mid",
     "artwork": "KICK_BACK_Full_Version__Chainsaw_Man_OP_Chaotic_Piano_Solo.png",
-    "tags": [],
+    "tags": [
+      "anime"
+    ],
     "songLengthMS": 197439,
     "noteCount": 3136
   },
@@ -659,7 +707,9 @@
     ],
     "midiFile": "campanella.mid",
     "artwork": "campanella.jpg",
-    "tags": [],
+    "tags": [
+      "classical"
+    ],
     "songLengthMS": 327760,
     "noteCount": 4077
   },
@@ -681,7 +731,9 @@
     ],
     "midiFile": "Liebestraum_No._3_in_A_Major.mid",
     "artwork": "Liebestraum_No._3_in_A_Major.jpg",
-    "tags": [],
+    "tags": [
+      "classical"
+    ],
     "songLengthMS": 230295,
     "noteCount": 1885
   },
@@ -718,7 +770,10 @@
     ],
     "midiFile": "bo_en_-_My_Time.mid",
     "artwork": "bo_en_-_My_Time.jpg",
-    "tags": [],
+    "tags": [
+      "omori",
+      "video game"
+    ],
     "songLengthMS": 239500,
     "noteCount": 1980
   },
@@ -730,7 +785,8 @@
     "midiFile": "Never_gonna_give_you_up.mid",
     "artwork": "Never_gonna_give_you_up.jpg",
     "tags": [
-      "Rick Roll"
+      "Rick Roll",
+      "meme"
     ],
     "noteCount": 1789,
     "songLengthMS": 191917
@@ -771,7 +827,8 @@
     "artwork": "Super_Mario_Bros._-_Main_Theme.jpg",
     "tags": [
       "Mario",
-      "Nintendo"
+      "Nintendo",
+      "video game"
     ],
     "noteCount": 1042,
     "songLengthMS": 113283
@@ -795,7 +852,8 @@
     "midiFile": "Its_Raining_Tacos.mid",
     "artwork": "Its_Raining_Tacos.jpg",
     "tags": [
-      "It's Raining Tacos"
+      "It's Raining Tacos",
+      "meme"
     ],
     "noteCount": 520,
     "songLengthMS": 103687
@@ -833,7 +891,9 @@
     ],
     "midiFile": "Rush_E_but_its_as_difficult_as_humanly_possible.mid",
     "artwork": "Rush_E_but_its_as_difficult_as_humanly_possible.jpg",
-    "tags": [],
+    "tags": [
+      "meme"
+    ],
     "songLengthMS": 141807,
     "noteCount": 6076
   },
@@ -845,7 +905,9 @@
     "midiFile": "sans.mid",
     "artwork": "bonetrousle.jpg",
     "tags": [
-      "Undertale"
+      "Undertale",
+      "video game",
+      "meme"
     ],
     "songLengthMS": 69375,
     "noteCount": 515
@@ -901,7 +963,8 @@
     "midiFile": "Spider_Dance.mid",
     "artwork": "bonetrousle.jpg",
     "tags": [
-      "Undertale"
+      "Undertale",
+      "video game"
     ],
     "songLengthMS": 105312,
     "noteCount": 1221
@@ -913,7 +976,9 @@
     ],
     "midiFile": "Portal_-_Still_Alive.mid",
     "artwork": "Portal_-_Still_Alive.jpg",
-    "tags": [],
+    "tags": [
+      "video game"
+    ],
     "noteCount": 1344,
     "songLengthMS": 174500
   },
@@ -925,7 +990,8 @@
     "midiFile": "Sweden_Minecraft.mid",
     "artwork": "Sweden_Minecraft.jpg",
     "tags": [
-      "Minecraft"
+      "Minecraft",
+      "video game"
     ],
     "noteCount": 271,
     "songLengthMS": 125045
@@ -948,7 +1014,9 @@
     ],
     "midiFile": "Tetris_Ragtime.mid",
     "artwork": "Tetris_Ragtime.jpg",
-    "tags": [],
+    "tags": [
+      "video game"
+    ],
     "songLengthMS": 135992,
     "noteCount": 2029
   },
@@ -1023,7 +1091,10 @@
     ],
     "midiFile": "Virtual_Insanity.mid",
     "artwork": "Virtual_Insanity.jpg",
-    "tags": [],
+    "tags": [
+      "family guy",
+      "meme"
+    ],
     "songLengthMS": 199663,
     "noteCount": 2624
   },
@@ -1082,7 +1153,8 @@
     "midiFile": "Wii_Shop_Channel_Theme.mid",
     "artwork": "Wii_Shop_Channel.jpeg",
     "tags": [
-      "Nintendo"
+      "Nintendo",
+      "video game"
     ],
     "noteCount": 544,
     "songLengthMS": 99752
@@ -1094,7 +1166,10 @@
     ],
     "midiFile": "Worlds_End_Valentine.mid",
     "artwork": "Worlds_End_Valentine.jpg",
-    "tags": [],
+    "tags": [
+      "omori",
+      "video game"
+    ],
     "songLengthMS": 236681,
     "noteCount": 2968
   },
@@ -1105,7 +1180,9 @@
     ],
     "midiFile": "AJR_-_Worlds_Smallest_Violin.mid",
     "artwork": "AJR_-_Worlds_Smallest_Violin.jpeg",
-    "tags": [],
+    "tags": [
+      "meme"
+    ],
     "songLengthMS": 172226,
     "noteCount": 1788
   },
