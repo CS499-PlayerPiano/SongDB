@@ -556,6 +556,22 @@
     "noteCount": 1767
   },
   {
+    "name": "Gusty Garden",
+    "artists": [
+      "Mahito Yokota, Avi Mittal"
+    ],
+    "midiFile": "Gusty_Garden_Piano.mid",
+    "artwork": "SuperMarioGalaxy.png",
+    "tags": [
+      "video game",
+      "Nintendo",
+      "mario",
+      "wii"
+    ],
+    "songLengthMS": 118342,
+    "noteCount": 981
+  },
+  {
     "name": "Gwyn, Lord of Cinder",
     "artists": [
       "Motoi Sakuraba"
@@ -1223,19 +1239,5 @@
     ],
     "songLengthMS": 165290,
     "noteCount": 1065
-  },
-  {
-    "name": "Gusty Garden",
-    "artists": [
-      "Mahito Yokota, Avi Mittal"
-    ],
-    "midiFile": "Gusty_Garden_Piano.mid",
-    "artwork": "SuperMarioGalaxy.png",
-    "tags": [
-      "video game",
-      "Nintendo",
-      "mario",
-      "wii"
-    ]
   }
 ]
