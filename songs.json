@@ -1239,5 +1239,104 @@
     ],
     "songLengthMS": 165290,
     "noteCount": 1065
+  },
+  {
+    "name": "Owen Was Her",
+    "artists": [
+      "ZUN"
+    ],
+    "midiFile": "Owen Was Her.mid",
+    "artwork": "Flandre.jpg",
+    "tags": [
+      "video game",
+      "Touhou",
+      "Death Waltz",
+      "U.N. Owen Was Her?",
+      "U.N.オーエンは彼女なのか？",
+      "Flandre's Theme"
+    ]
+  },
+  {
+    "name": "Bad Apple!!",
+    "artists": [
+      "ZUN"
+    ],
+    "midiFile": "BadApple.mid",
+    "artwork": "BadApple.jpg",
+    "tags": [
+      "video game",
+      "Touhou"
+    ]
+  },
+  {
+    "name": "Lone Digger",
+    "artists": [
+      "Caravan Palace",
+      "LyricWulf"
+    ],
+    "midiFile": "Lone Digger.mid",
+    "artwork": "CaravanPalace.jpg",
+    "tags": [
+      "electroswing"
+    ]
+  },
+  {
+    "name": "MEGALOVANIA",
+    "artists": [
+      "Toxy Fox",
+      "LyricWulf"
+    ],
+    "midiFile": "MEGALOVANIA.mid",
+    "artwork": "bonetrousle.jpg",
+    "tags": [
+      "video game",
+      "Undertale"
+    ]
+  },
+  {
+    "name": "Spooky Scary Skeletons",
+    "artists": [
+      "Andrew Gold",
+      "LyricWulf"
+    ],
+    "midiFile": "Spooky Scary Skeletons.mid",
+    "artwork": "SpookyScarySkeletons.jpg",
+    "tags": [
+      "meme",
+      "Halloween",
+      "Disney"
+    ]
+  },
+  {
+    "name": "Through the Fire and Flames",
+    "artists": [
+      "DragonForce",
+      "LyricWulf"
+    ],
+    "midiFile": "Through the Fire and Flames.mid",
+    "artwork": "DragonForce.jpg",
+    "tags": [
+      "video game",
+      "Guitar Hero",
+      "meme",
+      "impossable"
+    ]
+  },
+  {
+    "name": "We Are Number One",
+    "artists": [
+      "Lazy Town",
+      "Máni Svavarsson",
+      "LyricWulf"
+    ],
+    "midiFile": "We Are Number One.mid",
+    "artwork": "WeAreNumberOne.jpg",
+    "tags": [
+      "meme",
+      "Lazy Town",
+      "Robbie Rotten",
+      "Villain Number One",
+      "Stefán Karl Stefánsson"
+    ]
   }
 ]
