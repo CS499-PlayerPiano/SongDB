@@ -1237,7 +1237,7 @@
       "video game",
       "Guitar Hero",
       "meme",
-      "impossable"
+      "impossible"
     ],
     "songLengthMS": 722005,
     "noteCount": 12724
@@ -1432,10 +1432,23 @@
       "Beethoven"
     ],
     "midiFile": "SonateNo14Moonlight1stMovement.mid",
-    "artwork": "SonateNo14Moonlight1stMovement.jpg",
+    "artwork": "Ludwig-van-Beethoven.png",
     "tags": [
       "classical",
       "Moonlight Sonata"
+    ]
+  },
+  {
+    "name": "Jingle Bells (Impossible)",
+    "artists": [
+      "James Lord Pierpont"
+    ],
+    "midiFile": "JingleBellsImpossible.mid",
+    "artwork": "null",
+    "tags": [
+      "Christmas",
+      "meme",
+      "impossible"
     ]
   }
 ]
