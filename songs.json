@@ -1352,5 +1352,17 @@
     ],
     "songLengthMS": 165290,
     "noteCount": 1065
+  },
+  {
+    "name": "Insane",
+    "artists": [
+      "Black Gryph0n",
+      "Baasik"
+    ],
+    "midiFile": "Insane__Black_Gryph0n.mid",
+    "artwork": "Insane__Black_Gryph0n.jpg",
+    "tags": [
+      "Hazbin Hotel"
+    ]
   }
 ]
