@@ -1386,5 +1386,14 @@
     "tags": [
       "pop"
     ]
+  },
+  {
+    "name": "Kids",
+    "artists": [
+      "MGMT"
+    ],
+    "midiFile": "MGMT_-_Kids.mid",
+    "artwork": "mgmt.jpg",
+    "tags": []
   }
 ]
