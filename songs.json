@@ -1470,5 +1470,19 @@
     "midiFile": "Purity_Ring_-_begin_again.mid",
     "artwork": "PurityRing.jpg",
     "tags": []
+  },
+  {
+    "name": "Overworld Theme (Impossible)",
+    "artists": [
+      "Super Mario Bros"
+    ],
+    "midiFile": "SuperMarioBrosMainThemeImpossible.mid",
+    "artwork": "Super_Mario_Bros._-_Main_Theme.jpg",
+    "tags": [
+      "Mario",
+      "Nintendo",
+      "video game",
+      "impossible"
+    ]
   }
 ]
