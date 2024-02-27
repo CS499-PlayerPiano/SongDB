@@ -1364,5 +1364,16 @@
     "tags": [
       "Hazbin Hotel"
     ]
+  },
+  {
+    "name": "Dota",
+    "artists": [
+      "Basshunter"
+    ],
+    "midiFile": "BasshunterDota.mid",
+    "artwork": "Basshunter.jpg",
+    "tags": [
+      "meme"
+    ]
   }
 ]
