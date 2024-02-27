@@ -1461,5 +1461,14 @@
     "tags": [
       "Christmas"
     ]
+  },
+  {
+    "name": "begin again",
+    "artists": [
+      "Purity Ring"
+    ],
+    "midiFile": "Purity_Ring_-_begin_again.mid",
+    "artwork": "PurityRing.jpg",
+    "tags": []
   }
 ]
