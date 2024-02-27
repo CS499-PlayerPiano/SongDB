@@ -1450,5 +1450,16 @@
       "meme",
       "impossible"
     ]
+  },
+  {
+    "name": "Carol of the Bells",
+    "artists": [
+      "Mykola Leontovych"
+    ],
+    "midiFile": "Carol_of_the_Bells.mid",
+    "artwork": "null",
+    "tags": [
+      "Christmas"
+    ]
   }
 ]
