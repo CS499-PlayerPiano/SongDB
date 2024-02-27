@@ -1404,5 +1404,14 @@
     "midiFile": "Ashes.mid",
     "artwork": "Steller.jpg",
     "tags": []
+  },
+  {
+    "name": "Seven Nation Army",
+    "artists": [
+      "The White Stripes"
+    ],
+    "midiFile": "Seven_Nation_Army.mid",
+    "artwork": "TheWhiteStripes.jpg",
+    "tags": []
   }
 ]
