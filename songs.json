@@ -1375,5 +1375,16 @@
     "tags": [
       "meme"
     ]
+  },
+  {
+    "name": "Bad Romance",
+    "artists": [
+      "Lady Gaga"
+    ],
+    "midiFile": "Bad_Romance.mid",
+    "artwork": "Lady_Gaga_-_Bad_Romance.png",
+    "tags": [
+      "pop"
+    ]
   }
 ]
