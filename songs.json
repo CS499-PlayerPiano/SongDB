@@ -380,6 +380,22 @@
     "noteCount": 1590
   },
   {
+    "name": "Cannon in D",
+    "artists": [
+      "Johann Pachelbel"
+    ],
+    "midiFile": "Canon_in_D.mid",
+    "artwork": "Pachelbel.jpeg",
+    "genre": [
+      "Classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "songLengthMS": 244679,
+    "noteCount": 1589
+  },
+  {
     "name": "Carol of the Bells",
     "artists": [
       "Mykola Leontovych"
@@ -1565,6 +1581,22 @@
     "noteCount": 2029
   },
   {
+    "name": "The Entertainer",
+    "artists": [
+      "Scott Joplin"
+    ],
+    "midiFile": "The_Entertainer.mid",
+    "artwork": "joplin.jpg",
+    "genre": [
+      "Classical"
+    ],
+    "tags": [
+      "classical"
+    ],
+    "songLengthMS": 260141,
+    "noteCount": 1993
+  },
+  {
     "name": "The Real Slim Shady",
     "artists": [
       "Eminem"
@@ -1830,33 +1862,5 @@
     ],
     "songLengthMS": 165290,
     "noteCount": 1065
-  },
-  {
-    "name": "The Entertainer",
-    "artists": [
-      "Scott Joplin"
-    ],
-    "midiFile": "The_Entertainer.mid",
-    "artwork": "joplin.jpg",
-    "genre": [
-      "Classical"
-    ],
-    "tags": [
-      "classical"
-    ]
-  },
-  {
-    "name": "Cannon in D",
-    "artists": [
-      "Johann Pachelbel"
-    ],
-    "midiFile": "Canon_in_D.mid",
-    "artwork": "Pachelbel.jpeg",
-    "genre": [
-      "Classical"
-    ],
-    "tags": [
-      "classical"
-    ]
   }
 ]
