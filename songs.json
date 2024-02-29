@@ -7,6 +7,10 @@
     ],
     "midiFile": "12th_Street_Rag.mid",
     "artwork": "12th_Street_Rag.png",
+    "genre": [
+      "Jazz",
+      "Ragtime"
+    ],
     "tags": [
       "The Joe Franklin Show",
       "Chuck E. Cheese in the Galaxy 5000",
@@ -23,9 +27,15 @@
     ],
     "midiFile": "ABCDEFU_-_GAYLE.mid",
     "artwork": "ABCDEFU_-_GAYLE.jpg",
+    "genre": [
+      "Rock",
+      "Pop",
+      "Vocal",
+      "Pop Rock"
+    ],
     "tags": [],
-    "noteCount": 695,
-    "songLengthMS": 169153
+    "songLengthMS": 169153,
+    "noteCount": 695
   },
   {
     "name": "Airplanes",
@@ -34,9 +44,16 @@
     ],
     "midiFile": "Bob-_Airplanes.mid",
     "artwork": "Bob-_Airplanes.jpg",
+    "genre": [
+      "Hip Hop",
+      "Rock",
+      "Pop",
+      "Pop Rap",
+      "Pop Rock"
+    ],
     "tags": [],
-    "noteCount": 1143,
-    "songLengthMS": 183832
+    "songLengthMS": 183832,
+    "noteCount": 1143
   },
   {
     "name": "All Star",
@@ -45,13 +62,17 @@
     ],
     "midiFile": "All_Star.mid",
     "artwork": "All_Star.jpg",
+    "genre": [
+      "Rock",
+      "Pop Rock"
+    ],
     "tags": [
       "shrek",
       "somebody once told me",
       "meme"
     ],
-    "noteCount": 1900,
-    "songLengthMS": 200487
+    "songLengthMS": 200487,
+    "noteCount": 1900
   },
   {
     "name": "Alone",
@@ -60,9 +81,15 @@
     ],
     "midiFile": "Alan_Walker_-_Alone.mid",
     "artwork": "Alan_Walker_-_Alone.jpg",
+    "genre": [
+      "Electronic",
+      "Pop",
+      "Downtempo",
+      "Electro House"
+    ],
     "tags": [],
-    "noteCount": 924,
-    "songLengthMS": 154873
+    "songLengthMS": 154873,
+    "noteCount": 924
   },
   {
     "name": "Angry Birds Theme",
@@ -72,11 +99,12 @@
     ],
     "midiFile": "Angry_Birds_Theme.mid",
     "artwork": "Angry_Birds_OST.jpg",
+    "genre": [],
     "tags": [
       "video game"
     ],
-    "noteCount": 2541,
-    "songLengthMS": 155434
+    "songLengthMS": 155434,
+    "noteCount": 2541
   },
   {
     "name": "Arabesque No. 1 in E major",
@@ -85,6 +113,7 @@
     ],
     "midiFile": "arabesque.mid",
     "artwork": "arabesque.jpg",
+    "genre": [],
     "tags": [
       "classical"
     ],
@@ -98,6 +127,10 @@
     ],
     "midiFile": "Around_the_World_-_Daft_Punk_-_Piano_Version.mid",
     "artwork": "DaftPunk-Homework.jpg",
+    "genre": [
+      "Electronic",
+      "House"
+    ],
     "tags": [
       "Homework"
     ],
@@ -111,6 +144,9 @@
     ],
     "midiFile": "As The World Caves In.mid",
     "artwork": "astheworldcavesin.jpg",
+    "genre": [
+      "Pop"
+    ],
     "tags": [],
     "songLengthMS": 124500,
     "noteCount": 442
@@ -122,6 +158,7 @@
     ],
     "midiFile": "Ashes.mid",
     "artwork": "Steller.jpg",
+    "genre": [],
     "tags": [],
     "songLengthMS": 164204,
     "noteCount": 1168
@@ -133,12 +170,16 @@
     ],
     "midiFile": "COFFIN_DANCE.mid",
     "artwork": "COFFIN_DANCE.jpg",
+    "genre": [
+      "Electronic",
+      "Deep House"
+    ],
     "tags": [
       "Coffin Dance",
       "meme"
     ],
-    "noteCount": 1203,
-    "songLengthMS": 179992
+    "songLengthMS": 179992,
+    "noteCount": 1203
   },
   {
     "name": "At the Speed of Light",
@@ -147,6 +188,10 @@
     ],
     "midiFile": "At_the_Speed_of_Light.mid",
     "artwork": "At_the_Speed_of_Light.jpg",
+    "genre": [
+      "Electronic",
+      "Trance"
+    ],
     "tags": [
       "video game"
     ],
@@ -160,6 +205,7 @@
     ],
     "midiFile": "BadApple.mid",
     "artwork": "BadApple.jpg",
+    "genre": [],
     "tags": [
       "video game",
       "Touhou"
@@ -174,12 +220,13 @@
     ],
     "midiFile": "Bad_Piggies_Theme.mid",
     "artwork": "Bad_Piggies_Theme.jpg",
+    "genre": [],
     "tags": [
       "Angry birds",
       "video game"
     ],
-    "noteCount": 1616,
-    "songLengthMS": 121934
+    "songLengthMS": 121934,
+    "noteCount": 1616
   },
   {
     "name": "Bad Romance",
@@ -188,6 +235,14 @@
     ],
     "midiFile": "Bad_Romance.mid",
     "artwork": "Lady_Gaga_-_Bad_Romance.png",
+    "genre": [
+      "Electronic",
+      "Hip Hop",
+      "Pop",
+      "Electro",
+      "Synth-pop",
+      "Hip Hop"
+    ],
     "tags": [
       "pop"
     ],
@@ -203,12 +258,13 @@
     ],
     "midiFile": "Beethovens_Virus.mid",
     "artwork": "Ludwig-van-Beethoven.png",
+    "genre": [],
     "tags": [
       "Remix",
       "classical"
     ],
-    "noteCount": 2671,
-    "songLengthMS": 216730
+    "songLengthMS": 216730,
+    "noteCount": 2671
   },
   {
     "name": "begin again",
@@ -217,6 +273,12 @@
     ],
     "midiFile": "Purity_Ring_-_begin_again.mid",
     "artwork": "PurityRing.jpg",
+    "genre": [
+      "Electronic",
+      "Pop",
+      "Indie Pop",
+      "Glitch"
+    ],
     "tags": [],
     "songLengthMS": 196558,
     "noteCount": 967
@@ -228,9 +290,10 @@
     ],
     "midiFile": "Believer.mid",
     "artwork": "Evolve.jpg",
+    "genre": [],
     "tags": [],
-    "noteCount": 1468,
-    "songLengthMS": 192000
+    "songLengthMS": 192000,
+    "noteCount": 1468
   },
   {
     "name": "Black Catcher",
@@ -239,6 +302,7 @@
     ],
     "midiFile": "Vickeblanka-Black_Catcher.mid",
     "artwork": "Vickeblanka-Black_Catcher.jpg",
+    "genre": [],
     "tags": [
       "anime"
     ],
@@ -252,21 +316,36 @@
     ],
     "midiFile": "Blinding_Lights_1.mid",
     "artwork": "Blinding_Lights_1.jpg",
+    "genre": [
+      "Electronic",
+      "Pop",
+      "Synthwave",
+      "Synth-pop",
+      "New Wave"
+    ],
     "tags": [],
-    "noteCount": 1632,
-    "songLengthMS": 180705
+    "songLengthMS": 180705,
+    "noteCount": 1632
   },
   {
     "name": "Bloody Stream",
     "artists": [
       "Coda"
     ],
+    "midiFile": "Bloody Stream.mid",
+    "artwork": "bloodystream.jpg",
+    "genre": [
+      "Rock",
+      "Pop",
+      "Stage & Screen",
+      "J-pop",
+      "J-Rock",
+      "Anison"
+    ],
     "tags": [
       "jojo's",
       "anime"
     ],
-    "midiFile": "Bloody Stream.mid",
-    "artwork": "bloodystream.jpg",
     "songLengthMS": 258643,
     "noteCount": 2862
   },
@@ -275,12 +354,13 @@
     "artists": [
       "Toby Fox"
     ],
+    "midiFile": "Bonetrousle.mid",
+    "artwork": "bonetrousle.jpg",
+    "genre": [],
     "tags": [
       "undertale",
       "video game"
     ],
-    "midiFile": "Bonetrousle.mid",
-    "artwork": "bonetrousle.jpg",
     "songLengthMS": 90999,
     "noteCount": 1204
   },
@@ -291,6 +371,7 @@
     ],
     "midiFile": "By_Your_Side.mid",
     "artwork": "By_Your_Side.jpg",
+    "genre": [],
     "tags": [
       "omori",
       "video game"
@@ -305,6 +386,7 @@
     ],
     "midiFile": "Carol_of_the_Bells.mid",
     "artwork": "Christmas.jpg",
+    "genre": [],
     "tags": [
       "Christmas"
     ],
@@ -318,6 +400,10 @@
     ],
     "midiFile": "clairdelune.mid",
     "artwork": "clairdelune.jpg",
+    "genre": [
+      "Classical",
+      "Classical"
+    ],
     "tags": [
       "classical"
     ],
@@ -331,6 +417,7 @@
     ],
     "midiFile": "Coconut_Mall.mid",
     "artwork": "Mario_Kart_Wii_OST.jpg",
+    "genre": [],
     "tags": [
       "Nintendo",
       "mario kart",
@@ -338,8 +425,8 @@
       "meme",
       "video game"
     ],
-    "noteCount": 1808,
-    "songLengthMS": 123631
+    "songLengthMS": 123631,
+    "noteCount": 1808
   },
   {
     "name": "Cruel Angel's Thesis",
@@ -348,6 +435,7 @@
     ],
     "midiFile": "Cruel_Angels_Thesis_-_Piano_Cover_by_Theishter.mid",
     "artwork": "Cruel_Angels_Thesis_-_Piano_Cover_by_Theishter.jpg",
+    "genre": [],
     "tags": [
       "anime"
     ],
@@ -361,6 +449,7 @@
     ],
     "midiFile": "cynthiastheme.mid",
     "artwork": "cynthiastheme.jpg",
+    "genre": [],
     "tags": [
       "video game"
     ],
@@ -374,9 +463,14 @@
     ],
     "midiFile": "Dance_Monkey.mid",
     "artwork": "Dance_Monkey.jpg",
+    "genre": [
+      "Electronic",
+      "Pop",
+      "Electro"
+    ],
     "tags": [],
-    "noteCount": 1056,
-    "songLengthMS": 206294
+    "songLengthMS": 206294,
+    "noteCount": 1056
   },
   {
     "name": "Dark Side",
@@ -385,6 +479,7 @@
     ],
     "midiFile": "Dark_Side__Tim_Minchin.mid",
     "artwork": "TimMinchin-Darkside.jpg",
+    "genre": [],
     "tags": [],
     "songLengthMS": 189538,
     "noteCount": 2504
@@ -396,11 +491,17 @@
     ],
     "midiFile": "Despacito.mid",
     "artwork": "Despacito.jpg",
+    "genre": [
+      "Latin",
+      "Pop",
+      "Latin",
+      "Reggaeton"
+    ],
     "tags": [
       "meme"
     ],
-    "noteCount": 1423,
-    "songLengthMS": 219723
+    "songLengthMS": 219723,
+    "noteCount": 1423
   },
   {
     "name": "Digital Love",
@@ -409,6 +510,10 @@
     ],
     "midiFile": "Digital_Love_-_Daft_Punk.mid",
     "artwork": "DaftPunk-Discovery.jpg",
+    "genre": [
+      "Electronic",
+      "House"
+    ],
     "tags": [
       "Interstella 5555",
       "Discovery"
@@ -423,6 +528,10 @@
     ],
     "midiFile": "BasshunterDota.mid",
     "artwork": "Basshunter.jpg",
+    "genre": [
+      "Electronic",
+      "Dance-pop"
+    ],
     "tags": [
       "meme"
     ],
@@ -436,6 +545,7 @@
     ],
     "midiFile": "Omori_-_Duet_Spoilers.mid",
     "artwork": "Omori_-_Duet_Spoilers.jpg",
+    "genre": [],
     "tags": [
       "omori",
       "video game"
@@ -450,12 +560,17 @@
     ],
     "midiFile": "Dumb_Ways_to_Die.mid",
     "artwork": "Dumb_Ways_to_Die.jpg",
+    "genre": [
+      "Pop",
+      "Acoustic",
+      "Lo-Fi"
+    ],
     "tags": [
       "video game",
       "meme"
     ],
-    "noteCount": 1276,
-    "songLengthMS": 274755
+    "songLengthMS": 274755,
+    "noteCount": 1276
   },
   {
     "name": "Etude Op. 10 No. 3 E Major (Tristesse)",
@@ -464,6 +579,7 @@
     ],
     "midiFile": "Chopin_Etude_Op._10_No._3_E_MajorTristesse.mid",
     "artwork": "Chopin_Etude_Op._10_No._3_E_MajorTristesse.jpg",
+    "genre": [],
     "tags": [
       "classical"
     ],
@@ -477,6 +593,10 @@
     ],
     "midiFile": "Fantasie-Impromptu_by_Chopin.mid",
     "artwork": "Fantasie-Impromptu_by_Chopin.jpg",
+    "genre": [
+      "Classical",
+      "Romantic"
+    ],
     "tags": [
       "classical"
     ],
@@ -490,14 +610,15 @@
     ],
     "midiFile": "Five_Nights_At_Freddys_Song_FNAF_1.mid",
     "artwork": "Five_Nights_At_Freddys_Song_FNAF_1.jpg",
+    "genre": [],
     "tags": [
       "FNAF",
       "TLT",
       "meme",
       "video game"
     ],
-    "noteCount": 1530,
-    "songLengthMS": 159276
+    "songLengthMS": 159276,
+    "noteCount": 1530
   },
   {
     "name": "Flower Dance",
@@ -506,6 +627,7 @@
     ],
     "midiFile": "Flower_Dance.mid",
     "artwork": "Flower_Dance.jpg",
+    "genre": [],
     "tags": [],
     "songLengthMS": 261766,
     "noteCount": 2499
@@ -515,12 +637,13 @@
     "artists": [
       "Xi"
     ],
+    "midiFile": "Freedom Dive.mid",
+    "artwork": "freedomdive.jpg",
+    "genre": [],
     "tags": [
       "osu",
       "video game"
     ],
-    "midiFile": "Freedom Dive.mid",
-    "artwork": "freedomdive.jpg",
     "songLengthMS": 136354,
     "noteCount": 3937
   },
@@ -531,6 +654,10 @@
     ],
     "midiFile": "From_The_Start__Laufey.mid",
     "artwork": "From_The_Start__Laufey.jpg",
+    "genre": [
+      "Jazz",
+      "Contemporary Jazz"
+    ],
     "tags": [],
     "songLengthMS": 166166,
     "noteCount": 1458
@@ -542,11 +669,16 @@
     ],
     "midiFile": "Beethoven_Fur_Elise.mid",
     "artwork": "Ludwig-van-Beethoven.png",
+    "genre": [
+      "Classical",
+      "Romantic",
+      "Classical"
+    ],
     "tags": [
       "classical"
     ],
-    "noteCount": 2102,
-    "songLengthMS": 157612
+    "songLengthMS": 157612,
+    "noteCount": 2102
   },
   {
     "name": "Get Lucky",
@@ -555,6 +687,13 @@
     ],
     "midiFile": "Get_Lucky_-_Daft_Punk.mid",
     "artwork": "DaftPunk-RandomAccessMemories.png",
+    "genre": [
+      "Electronic",
+      "Funk / Soul",
+      "Pop",
+      "Funk",
+      "Electro"
+    ],
     "tags": [
       "Random Access Memories"
     ],
@@ -568,6 +707,10 @@
     ],
     "midiFile": "Giorgio_by_Moroder_Daft_Punk.mid",
     "artwork": "DaftPunk-RandomAccessMemories.png",
+    "genre": [
+      "Electronic",
+      "Drum n Bass"
+    ],
     "tags": [
       "Random Access Memories"
     ],
@@ -581,13 +724,14 @@
     ],
     "midiFile": "Giornos_Theme.mid",
     "artwork": "Giornos_Theme.jpg",
+    "genre": [],
     "tags": [
       "il vento d'oro",
       "meme",
       "anime"
     ],
-    "noteCount": 2890,
-    "songLengthMS": 289465
+    "songLengthMS": 289465,
+    "noteCount": 2890
   },
   {
     "name": "Grains of Sand",
@@ -596,6 +740,7 @@
     ],
     "midiFile": "Grains of Sand.mid",
     "artwork": "grainsofsand.jpg",
+    "genre": [],
     "tags": [
       "impossible"
     ],
@@ -610,12 +755,13 @@
     ],
     "midiFile": "Gravity_Falls_Opening_Theme.mid",
     "artwork": "GravityFalls.jpg",
+    "genre": [],
     "tags": [
       "Disney",
       "Gravity Falls"
     ],
-    "noteCount": 873,
-    "songLengthMS": 113412
+    "songLengthMS": 113412,
+    "noteCount": 873
   },
   {
     "name": "Great Fairy Fountain",
@@ -624,6 +770,7 @@
     ],
     "midiFile": "Great_Fairy_Fountain_Etude.mid",
     "artwork": "Great_Fairy_Fountain_Etude.jpg",
+    "genre": [],
     "tags": [
       "video game"
     ],
@@ -637,6 +784,7 @@
     ],
     "midiFile": "Gusty_Garden_Piano.mid",
     "artwork": "SuperMarioGalaxy.png",
+    "genre": [],
     "tags": [
       "video game",
       "Nintendo",
@@ -653,6 +801,7 @@
     ],
     "midiFile": "gwyn.mid",
     "artwork": "darksouls.jpg",
+    "genre": [],
     "tags": [
       "Video Game",
       "Dark Souls",
@@ -668,6 +817,12 @@
     ],
     "midiFile": "Harder_better_faster_stronger__Daft_Punk.mid",
     "artwork": "DaftPunk-Discovery.jpg",
+    "genre": [
+      "Electronic",
+      "Hip Hop",
+      "Breakbeat",
+      "House"
+    ],
     "tags": [
       "Interstella 5555",
       "Discovery"
@@ -682,9 +837,10 @@
     ],
     "midiFile": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.mid",
     "artwork": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.jpg",
+    "genre": [],
     "tags": [],
-    "noteCount": 1109,
-    "songLengthMS": 81425
+    "songLengthMS": 81425,
+    "noteCount": 1109
   },
   {
     "name": "Hot Milk",
@@ -693,6 +849,7 @@
     ],
     "midiFile": "hotmilk.mid",
     "artwork": "hotmilk.jpg",
+    "genre": [],
     "tags": [],
     "songLengthMS": 231990,
     "noteCount": 1382
@@ -704,11 +861,12 @@
     ],
     "midiFile": "Im_Blue_by_Eiffel_65_for_Piano.mid",
     "artwork": "Im_Blue_by_Eiffel_65_for_Piano.jpg",
+    "genre": [],
     "tags": [
       "meme"
     ],
-    "noteCount": 1075,
-    "songLengthMS": 181830
+    "songLengthMS": 181830,
+    "noteCount": 1075
   },
   {
     "name": "Idol",
@@ -717,6 +875,7 @@
     ],
     "midiFile": "FULL_YOASOBI_-_Idol__-_Oshi_no_Ko_Opening_Piano.mid",
     "artwork": "FULL_YOASOBI_-_Idol__-_Oshi_no_Ko_Opening_Piano.png",
+    "genre": [],
     "tags": [
       "anime"
     ],
@@ -731,6 +890,7 @@
     ],
     "midiFile": "Insane__Black_Gryph0n.mid",
     "artwork": "Insane__Black_Gryph0n.jpg",
+    "genre": [],
     "tags": [
       "Hazbin Hotel"
     ],
@@ -744,6 +904,11 @@
     ],
     "midiFile": "Instant_crush__Daft_Punk.mid",
     "artwork": "DaftPunk-RandomAccessMemories.png",
+    "genre": [
+      "Electronic",
+      "House",
+      "Disco"
+    ],
     "tags": [
       "Random Access Memories"
     ],
@@ -757,14 +922,18 @@
     ],
     "midiFile": "The_Living_Tombstone_-_fnaf_its__be_so_long.mid",
     "artwork": "livingtombstone.jpg",
+    "genre": [
+      "Electronic",
+      "Electro"
+    ],
     "tags": [
       "FNAF",
       "TLT",
       "Five nights at freddys",
       "video game"
     ],
-    "noteCount": 1162,
-    "songLengthMS": 171873
+    "songLengthMS": 171873,
+    "noteCount": 1162
   },
   {
     "name": "Jingle Bells (Impossible)",
@@ -773,6 +942,7 @@
     ],
     "midiFile": "JingleBellsImpossible.mid",
     "artwork": "Christmas.jpg",
+    "genre": [],
     "tags": [
       "Christmas",
       "meme",
@@ -788,11 +958,12 @@
     ],
     "midiFile": "Kahoot.mid",
     "artwork": "Kahoot.png",
+    "genre": [],
     "tags": [
       "meme"
     ],
-    "noteCount": 572,
-    "songLengthMS": 63873
+    "songLengthMS": 63873,
+    "noteCount": 572
   },
   {
     "name": "Kaikai Kitan",
@@ -801,6 +972,7 @@
     ],
     "midiFile": "Kaikai_Kitan_-_Jujutsu_Kaisen_OP.mid",
     "artwork": "Kaikai_Kitan_-_Jujutsu_Kaisen_OP.png",
+    "genre": [],
     "tags": [
       "anime"
     ],
@@ -814,6 +986,17 @@
     ],
     "midiFile": "KICK_BACK_Full_Version__Chainsaw_Man_OP_Chaotic_Piano_Solo.mid",
     "artwork": "KICK_BACK_Full_Version__Chainsaw_Man_OP_Chaotic_Piano_Solo.png",
+    "genre": [
+      "Rock",
+      "Funk / Soul",
+      "Pop",
+      "Stage & Screen",
+      "J-Rock",
+      "J-pop",
+      "Alternative Rock",
+      "Theme",
+      "Anison"
+    ],
     "tags": [
       "anime"
     ],
@@ -827,6 +1010,11 @@
     ],
     "midiFile": "MGMT_-_Kids.mid",
     "artwork": "mgmt.jpg",
+    "genre": [
+      "Electronic",
+      "House",
+      "Electro"
+    ],
     "tags": [],
     "songLengthMS": 191987,
     "noteCount": 1396
@@ -838,6 +1026,10 @@
     ],
     "midiFile": "Kill_Bill.mid",
     "artwork": "sza.jpg",
+    "genre": [
+      "Funk / Soul",
+      "Contemporary R&B"
+    ],
     "tags": [
       "pop"
     ],
@@ -851,6 +1043,10 @@
     ],
     "midiFile": "campanella.mid",
     "artwork": "campanella.jpg",
+    "genre": [
+      "Classical",
+      "Romantic"
+    ],
     "tags": [
       "classical"
     ],
@@ -864,9 +1060,10 @@
     ],
     "midiFile": "Levan_Polkka.mid",
     "artwork": "Levan_Polkka.jpg",
+    "genre": [],
     "tags": [],
-    "noteCount": 1924,
-    "songLengthMS": 129286
+    "songLengthMS": 129286,
+    "noteCount": 1924
   },
   {
     "name": "Liebestraum No. 3 in A Major",
@@ -875,6 +1072,9 @@
     ],
     "midiFile": "Liebestraum_No._3_in_A_Major.mid",
     "artwork": "Liebestraum_No._3_in_A_Major.jpg",
+    "genre": [
+      "Classical"
+    ],
     "tags": [
       "classical"
     ],
@@ -889,6 +1089,14 @@
     ],
     "midiFile": "Lone Digger.mid",
     "artwork": "CaravanPalace.jpg",
+    "genre": [
+      "Electronic",
+      "Jazz",
+      "Folk, World, & Country",
+      "Swing",
+      "Gypsy Jazz",
+      "Dance-pop"
+    ],
     "tags": [
       "electroswing"
     ],
@@ -902,6 +1110,11 @@
     ],
     "midiFile": "Lose_Yourself_to_Dance__Daft_Punk.mid",
     "artwork": "DaftPunk-RandomAccessMemories.png",
+    "genre": [
+      "Electronic",
+      "Funk / Soul",
+      "Disco"
+    ],
     "tags": [
       "Random Access Memories"
     ],
@@ -916,6 +1129,7 @@
     ],
     "midiFile": "MEGALOVANIA.mid",
     "artwork": "bonetrousle.jpg",
+    "genre": [],
     "tags": [
       "video game",
       "Undertale"
@@ -930,11 +1144,21 @@
     ],
     "midiFile": "Montero__Call_me_by_your_name__-_Lil_nas_X.mid",
     "artwork": "Montero__Call_me_by_your_name__-_Lil_nas_X.jpg",
+    "genre": [
+      "Hip Hop",
+      "Rock",
+      "Pop",
+      "Contemporary R&B",
+      "Alternative Rock",
+      "Pop Rock",
+      "Pop Rap",
+      "Trap"
+    ],
     "tags": [
       "Call me by your name"
     ],
-    "noteCount": 847,
-    "songLengthMS": 133649
+    "songLengthMS": 133649,
+    "noteCount": 847
   },
   {
     "name": "My Time",
@@ -943,6 +1167,13 @@
     ],
     "midiFile": "bo_en_-_My_Time.mid",
     "artwork": "bo_en_-_My_Time.jpg",
+    "genre": [
+      "Electronic",
+      "Pop",
+      "Downtempo",
+      "J-pop",
+      "Gamelan"
+    ],
     "tags": [
       "omori",
       "video game"
@@ -957,12 +1188,17 @@
     ],
     "midiFile": "Never_gonna_give_you_up.mid",
     "artwork": "Never_gonna_give_you_up.jpg",
+    "genre": [
+      "Electronic",
+      "Pop",
+      "Euro-Disco"
+    ],
     "tags": [
       "Rick Roll",
       "meme"
     ],
-    "noteCount": 1789,
-    "songLengthMS": 191916
+    "songLengthMS": 191916,
+    "noteCount": 1789
   },
   {
     "name": "Nocturne in E flat major, Op. 9 No. 2",
@@ -971,6 +1207,9 @@
     ],
     "midiFile": "nocturne.mid",
     "artwork": "nocturne.jpg",
+    "genre": [
+      "Classical"
+    ],
     "tags": [
       "classical"
     ],
@@ -984,6 +1223,11 @@
     ],
     "midiFile": "Daft_Punk_-_One_more_Time.mid",
     "artwork": "DaftPunk-Discovery.jpg",
+    "genre": [
+      "Electronic",
+      "House",
+      "Disco"
+    ],
     "tags": [
       "Interstella 5555",
       "Discovery"
@@ -998,13 +1242,14 @@
     ],
     "midiFile": "Super_Mario_Bros._-_Main_Theme.mid",
     "artwork": "Super_Mario_Bros._-_Main_Theme.jpg",
+    "genre": [],
     "tags": [
       "Mario",
       "Nintendo",
       "video game"
     ],
-    "noteCount": 1042,
-    "songLengthMS": 113282
+    "songLengthMS": 113282,
+    "noteCount": 1042
   },
   {
     "name": "Overworld Theme (Impossible)",
@@ -1013,6 +1258,7 @@
     ],
     "midiFile": "SuperMarioBrosMainThemeImpossible.mid",
     "artwork": "Super_Mario_Bros._-_Main_Theme.jpg",
+    "genre": [],
     "tags": [
       "Mario",
       "Nintendo",
@@ -1029,6 +1275,10 @@
     ],
     "midiFile": "Owen Was Her.mid",
     "artwork": "Flandre.jpg",
+    "genre": [
+      "Electronic",
+      "J-Core"
+    ],
     "tags": [
       "video game",
       "Touhou",
@@ -1047,6 +1297,12 @@
     ],
     "midiFile": "pure_imagination.mid",
     "artwork": "pure_imagination.jpg",
+    "genre": [
+      "Children's",
+      "Stage & Screen",
+      "Soundtrack",
+      "Musical"
+    ],
     "tags": [],
     "songLengthMS": 100990,
     "noteCount": 504
@@ -1058,12 +1314,13 @@
     ],
     "midiFile": "Its_Raining_Tacos.mid",
     "artwork": "Its_Raining_Tacos.jpg",
+    "genre": [],
     "tags": [
       "It's Raining Tacos",
       "meme"
     ],
-    "noteCount": 520,
-    "songLengthMS": 103686
+    "songLengthMS": 103686,
+    "noteCount": 520
   },
   {
     "name": "River Flows In You",
@@ -1072,9 +1329,14 @@
     ],
     "midiFile": "River_Flows_In_You.mid",
     "artwork": "Yiruma.jpg",
+    "genre": [
+      "Classical",
+      "Romantic",
+      "Classical"
+    ],
     "tags": [],
-    "noteCount": 840,
-    "songLengthMS": 166983
+    "songLengthMS": 166983,
+    "noteCount": 840
   },
   {
     "name": "Rockefeller Street",
@@ -1083,13 +1345,14 @@
     ],
     "midiFile": "Rockefeller_Street.mid",
     "artwork": "Rockefeller_Street.jpg",
+    "genre": [],
     "tags": [
       "1 2 sell a tree",
       "nightcore",
       "one two sell a tree"
     ],
-    "noteCount": 1389,
-    "songLengthMS": 143221
+    "songLengthMS": 143221,
+    "noteCount": 1389
   },
   {
     "name": "Rush E",
@@ -1098,6 +1361,7 @@
     ],
     "midiFile": "Rush_E_but_its_as_difficult_as_humanly_possible.mid",
     "artwork": "Rush_E_but_its_as_difficult_as_humanly_possible.jpg",
+    "genre": [],
     "tags": [
       "meme"
     ],
@@ -1111,6 +1375,7 @@
     ],
     "midiFile": "sans.mid",
     "artwork": "bonetrousle.jpg",
+    "genre": [],
     "tags": [
       "Undertale",
       "video game",
@@ -1129,14 +1394,15 @@
     ],
     "midiFile": "secret-piano-battle.mid",
     "artwork": "secret-piano-battle.jpg",
+    "genre": [],
     "tags": [
       "Bùnéng shuō de·mìmì",
       "The Secret That Cannot Be Told",
       "不能說的·秘密",
       "不能说的·秘密"
     ],
-    "noteCount": 2874,
-    "songLengthMS": 149129
+    "songLengthMS": 149129,
+    "noteCount": 2874
   },
   {
     "name": "Seven Nation Army",
@@ -1145,6 +1411,12 @@
     ],
     "midiFile": "Seven_Nation_Army.mid",
     "artwork": "TheWhiteStripes.jpg",
+    "genre": [
+      "Rock",
+      "Alternative Rock",
+      "Garage Rock",
+      "Indie Rock"
+    ],
     "tags": [],
     "songLengthMS": 144202,
     "noteCount": 1291
@@ -1156,6 +1428,7 @@
     ],
     "midiFile": "SonateNo14Moonlight1stMovement.mid",
     "artwork": "Ludwig-van-Beethoven.png",
+    "genre": [],
     "tags": [
       "classical",
       "Moonlight Sonata"
@@ -1170,6 +1443,11 @@
     ],
     "midiFile": "Space_Oddity_-_David_Bowie.mid",
     "artwork": "Space_Oddity_-_David_Bowie.jpg",
+    "genre": [
+      "Rock",
+      "Pop",
+      "Pop Rock"
+    ],
     "tags": [],
     "songLengthMS": 261032,
     "noteCount": 2226
@@ -1179,11 +1457,17 @@
     "artists": [
       "Beach House"
     ],
+    "midiFile": "Space Song.mid",
+    "artwork": "spacesong.png",
+    "genre": [
+      "Rock",
+      "Pop",
+      "Indie Rock",
+      "Dream Pop"
+    ],
     "tags": [
       "sad"
     ],
-    "midiFile": "Space Song.mid",
-    "artwork": "spacesong.png",
     "songLengthMS": 178010,
     "noteCount": 850
   },
@@ -1194,6 +1478,7 @@
     ],
     "midiFile": "Spider_Dance.mid",
     "artwork": "bonetrousle.jpg",
+    "genre": [],
     "tags": [
       "Undertale",
       "video game"
@@ -1209,6 +1494,7 @@
     ],
     "midiFile": "Spooky Scary Skeletons.mid",
     "artwork": "SpookyScarySkeletons.jpg",
+    "genre": [],
     "tags": [
       "meme",
       "Halloween",
@@ -1224,11 +1510,12 @@
     ],
     "midiFile": "Portal_-_Still_Alive.mid",
     "artwork": "Portal_-_Still_Alive.jpg",
+    "genre": [],
     "tags": [
       "video game"
     ],
-    "noteCount": 1344,
-    "songLengthMS": 174498
+    "songLengthMS": 174498,
+    "noteCount": 1344
   },
   {
     "name": "Sweden",
@@ -1237,12 +1524,16 @@
     ],
     "midiFile": "Sweden_Minecraft.mid",
     "artwork": "Sweden_Minecraft.jpg",
+    "genre": [
+      "Electronic",
+      "Chiptune"
+    ],
     "tags": [
       "Minecraft",
       "video game"
     ],
-    "noteCount": 271,
-    "songLengthMS": 125042
+    "songLengthMS": 125042,
+    "noteCount": 271
   },
   {
     "name": "Sweet Child O' Mine",
@@ -1251,6 +1542,10 @@
     ],
     "midiFile": "Sweet_Child_o_Mine.mid",
     "artwork": "Sweet_Child_o_Mine.png",
+    "genre": [
+      "Rock",
+      "Hard Rock"
+    ],
     "tags": [],
     "songLengthMS": 315764,
     "noteCount": 2339
@@ -1262,6 +1557,7 @@
     ],
     "midiFile": "Tetris_Ragtime.mid",
     "artwork": "Tetris_Ragtime.jpg",
+    "genre": [],
     "tags": [
       "video game"
     ],
@@ -1275,11 +1571,14 @@
     ],
     "midiFile": "The_Real_Slim_Shady_-_Eminem_Piano_.mid",
     "artwork": "Eminem-TheMarshallMathers.jpg",
+    "genre": [
+      "Hip Hop"
+    ],
     "tags": [
       "The Marshall Mathers LP"
     ],
-    "noteCount": 1943,
-    "songLengthMS": 283970
+    "songLengthMS": 283970,
+    "noteCount": 1943
   },
   {
     "name": "The Son of Flynn",
@@ -1288,6 +1587,7 @@
     ],
     "midiFile": "The_Son_of_Flynn.mid",
     "artwork": "DaftPunk-Tron.jpg",
+    "genre": [],
     "tags": [
       "Tron Legacy"
     ],
@@ -1302,6 +1602,10 @@
     ],
     "midiFile": "Through the Fire and Flames.mid",
     "artwork": "DragonForce.jpg",
+    "genre": [
+      "Rock",
+      "Power Metal"
+    ],
     "tags": [
       "video game",
       "Guitar Hero",
@@ -1318,6 +1622,7 @@
     ],
     "midiFile": "Tree_Among_Shrubs_-_Men_I_Trust.mid",
     "artwork": "Tree_Among_Shrubs_-_Men_I_Trust.jpg",
+    "genre": [],
     "tags": [],
     "songLengthMS": 183896,
     "noteCount": 1423
@@ -1329,6 +1634,10 @@
     ],
     "midiFile": "velours.mid",
     "artwork": "velours.jpg",
+    "genre": [
+      "Electronic",
+      "Dubstep"
+    ],
     "tags": [
       "jazz"
     ],
@@ -1342,12 +1651,13 @@
     ],
     "midiFile": "Venom.mid",
     "artwork": "Kairiki-Bear.jpg",
+    "genre": [],
     "tags": [
       "Hatsune Miku",
       "VOCALOID"
     ],
-    "noteCount": 2519,
-    "songLengthMS": 195778
+    "songLengthMS": 195778,
+    "noteCount": 2519
   },
   {
     "name": "Virtual Insanity",
@@ -1356,6 +1666,12 @@
     ],
     "midiFile": "Virtual_Insanity.mid",
     "artwork": "Virtual_Insanity.jpg",
+    "genre": [
+      "Electronic",
+      "Funk / Soul",
+      "House",
+      "Acid Jazz"
+    ],
     "tags": [
       "family guy",
       "meme"
@@ -1370,9 +1686,13 @@
     ],
     "midiFile": "Viva_La_Vida.mid",
     "artwork": "Viva_La_Vida.jpg",
+    "genre": [
+      "Rock",
+      "Pop Rock"
+    ],
     "tags": [],
-    "noteCount": 5782,
-    "songLengthMS": 286005
+    "songLengthMS": 286005,
+    "noteCount": 5782
   },
   {
     "name": "We Are Number One",
@@ -1383,6 +1703,7 @@
     ],
     "midiFile": "We Are Number One.mid",
     "artwork": "WeAreNumberOne.jpg",
+    "genre": [],
     "tags": [
       "meme",
       "Lazy Town",
@@ -1400,9 +1721,13 @@
     ],
     "midiFile": "We_Dont_Talk_About_Bruno.mid",
     "artwork": "We_Dont_Talk_About_Bruno.jpg",
+    "genre": [
+      "Stage & Screen",
+      "Soundtrack"
+    ],
     "tags": [],
-    "noteCount": 1435,
-    "songLengthMS": 206212
+    "songLengthMS": 206212,
+    "noteCount": 1435
   },
   {
     "name": "Welcome to the Internet",
@@ -1411,6 +1736,7 @@
     ],
     "midiFile": "Welcome_to_the_Internet_-_Bo_Burnham.mid",
     "artwork": "welcome-to-the-internet.jpg",
+    "genre": [],
     "tags": [],
     "songLengthMS": 272059,
     "noteCount": 2983
@@ -1423,11 +1749,16 @@
     ],
     "midiFile": "Wellerman.mid",
     "artwork": "Wellerman.jpg",
+    "genre": [
+      "Pop",
+      "Folk, World, & Country",
+      "Sea Shanties"
+    ],
     "tags": [
       "Sea Shanty"
     ],
-    "noteCount": 968,
-    "songLengthMS": 242505
+    "songLengthMS": 242505,
+    "noteCount": 968
   },
   {
     "name": "Wii Shop Channel Theme",
@@ -1436,12 +1767,13 @@
     ],
     "midiFile": "Wii_Shop_Channel_Theme.mid",
     "artwork": "Wii_Shop_Channel.jpeg",
+    "genre": [],
     "tags": [
       "Nintendo",
       "video game"
     ],
-    "noteCount": 544,
-    "songLengthMS": 99752
+    "songLengthMS": 99752,
+    "noteCount": 544
   },
   {
     "name": "World's End Valentine",
@@ -1450,6 +1782,7 @@
     ],
     "midiFile": "Worlds_End_Valentine.mid",
     "artwork": "Worlds_End_Valentine.jpg",
+    "genre": [],
     "tags": [
       "omori",
       "video game"
@@ -1464,6 +1797,7 @@
     ],
     "midiFile": "AJR_-_Worlds_Smallest_Violin.mid",
     "artwork": "AJR_-_Worlds_Smallest_Violin.jpeg",
+    "genre": [],
     "tags": [
       "meme"
     ],
@@ -1477,9 +1811,10 @@
     ],
     "midiFile": "Worth_Nothing_Twisted.mid",
     "artwork": "WorthNothing.jpg",
+    "genre": [],
     "tags": [],
-    "noteCount": 1677,
-    "songLengthMS": 208005
+    "songLengthMS": 208005,
+    "noteCount": 1677
   },
   {
     "name": "Your Reality",
@@ -1488,6 +1823,7 @@
     ],
     "midiFile": "Your Reality.mid",
     "artwork": "your reality.jpg",
+    "genre": [],
     "tags": [
       "video game",
       "anime"
