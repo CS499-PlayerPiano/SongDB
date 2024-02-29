@@ -1830,5 +1830,33 @@
     ],
     "songLengthMS": 165290,
     "noteCount": 1065
+  },
+  {
+    "name": "The Entertainer",
+    "artists": [
+      "Scott Joplin"
+    ],
+    "midiFile": "The_Entertainer.mid",
+    "artwork": "joplin.jpg",
+    "genre": [
+      "Classical"
+    ],
+    "tags": [
+      "classical"
+    ]
+  },
+  {
+    "name": "Cannon in D",
+    "artists": [
+      "Johann Pachelbel"
+    ],
+    "midiFile": "Canon_in_D.mid",
+    "artwork": "Pachelbel.jpeg",
+    "genre": [
+      "Classical"
+    ],
+    "tags": [
+      "classical"
+    ]
   }
 ]
