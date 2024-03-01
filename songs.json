@@ -1,5 +1,20 @@
 [
   {
+    "name": "1 note per second",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_1nps.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false,
+    "songLengthMS": 5000,
+    "noteCount": 10
+  },
+  {
     "name": "12th Street Rag",
     "artists": [
       "Euday L. Bowman",
@@ -20,6 +35,66 @@
     "songLengthMS": 109287,
     "noteCount": 2785,
     "favorite": true
+  },
+  {
+    "name": "2 notes per second",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_2nps.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false,
+    "songLengthMS": 5000,
+    "noteCount": 20
+  },
+  {
+    "name": "4 notes per second",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_4nps.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false,
+    "songLengthMS": 5000,
+    "noteCount": 40
+  },
+  {
+    "name": "6 notes per second",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_6nps.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false,
+    "songLengthMS": 5000,
+    "noteCount": 60
+  },
+  {
+    "name": "8 note per second",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_8nps.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false,
+    "songLengthMS": 5000,
+    "noteCount": 81
   },
   {
     "name": "abcdefu",
@@ -658,6 +733,21 @@
     "favorite": false
   },
   {
+    "name": "Fast full scale",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_fast_full_scale.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false,
+    "songLengthMS": 44000,
+    "noteCount": 136
+  },
+  {
     "name": "Five Nights at Freddy's 1 Song",
     "artists": [
       "The Living Tombstone"
@@ -719,6 +809,21 @@
     "songLengthMS": 166167,
     "noteCount": 1458,
     "favorite": false
+  },
+  {
+    "name": "Full scale",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_full_scale.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false,
+    "songLengthMS": 44000,
+    "noteCount": 88
   },
   {
     "name": "Fur Elise",
@@ -1525,6 +1630,21 @@
     "favorite": false
   },
   {
+    "name": "Slow double note full scale",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_slow_double_note_full_scale.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false,
+    "songLengthMS": 176000,
+    "noteCount": 176
+  },
+  {
     "name": "Sonate No.14 Moonlight 1st Movement",
     "artists": [
       "Beethoven"
@@ -1573,9 +1693,24 @@
     "tags": [
       "sad"
     ],
-    "songLengthMS": 178010,
-    "noteCount": 850,
+    "songLengthMS": 166401,
+    "noteCount": 1326,
     "favorite": false
+  },
+  {
+    "name": "Speed slider",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_speedslider.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false,
+    "songLengthMS": 94000,
+    "noteCount": 224
   },
   {
     "name": "Spider Dance",
