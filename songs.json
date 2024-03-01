@@ -150,7 +150,7 @@
     "artists": [
       "Matt Maltese"
     ],
-    "midiFile": "As The World Caves In.mid",
+    "midiFile": "As_the_World_Caves_In.mid",
     "artwork": "astheworldcavesin.jpg",
     "genre": [
       "Pop"
@@ -702,14 +702,14 @@
     ],
     "songLengthMS": 136354,
     "noteCount": 3937,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "From the Start",
     "artists": [
       "Laufey"
     ],
-    "midiFile": "From_The_Start__Laufey.mid",
+    "midiFile": "fromthestart.mid",
     "artwork": "From_The_Start__Laufey.jpg",
     "genre": [
       "Jazz",
@@ -800,7 +800,7 @@
     "artists": [
       "Andrew Huang"
     ],
-    "midiFile": "Grains of Sand.mid",
+    "midiFile": "grains of sand possible.mid",
     "artwork": "grainsofsand.jpg",
     "genre": [],
     "tags": [
