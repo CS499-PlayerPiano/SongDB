@@ -18,7 +18,8 @@
       "SpongeBob SquarePants"
     ],
     "songLengthMS": 109287,
-    "noteCount": 2785
+    "noteCount": 2785,
+    "favorite": false
   },
   {
     "name": "abcdefu",
@@ -35,7 +36,8 @@
     ],
     "tags": [],
     "songLengthMS": 169153,
-    "noteCount": 695
+    "noteCount": 695,
+    "favorite": false
   },
   {
     "name": "Airplanes",
@@ -53,7 +55,8 @@
     ],
     "tags": [],
     "songLengthMS": 183832,
-    "noteCount": 1143
+    "noteCount": 1143,
+    "favorite": false
   },
   {
     "name": "All Star",
@@ -72,7 +75,8 @@
       "meme"
     ],
     "songLengthMS": 200487,
-    "noteCount": 1900
+    "noteCount": 1900,
+    "favorite": false
   },
   {
     "name": "Alone",
@@ -89,7 +93,8 @@
     ],
     "tags": [],
     "songLengthMS": 154873,
-    "noteCount": 924
+    "noteCount": 924,
+    "favorite": false
   },
   {
     "name": "Angry Birds Theme",
@@ -104,7 +109,8 @@
       "video game"
     ],
     "songLengthMS": 155434,
-    "noteCount": 2541
+    "noteCount": 2541,
+    "favorite": false
   },
   {
     "name": "Arabesque No. 1 in E major",
@@ -118,7 +124,8 @@
       "classical"
     ],
     "songLengthMS": 240558,
-    "noteCount": 1802
+    "noteCount": 1802,
+    "favorite": false
   },
   {
     "name": "Around The World",
@@ -135,7 +142,8 @@
       "Homework"
     ],
     "songLengthMS": 96180,
-    "noteCount": 810
+    "noteCount": 810,
+    "favorite": false
   },
   {
     "name": "As the World Caves In",
@@ -149,7 +157,8 @@
     ],
     "tags": [],
     "songLengthMS": 124500,
-    "noteCount": 442
+    "noteCount": 442,
+    "favorite": false
   },
   {
     "name": "Ashes",
@@ -161,7 +170,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 164204,
-    "noteCount": 1168
+    "noteCount": 1168,
+    "favorite": false
   },
   {
     "name": "Astronomia",
@@ -179,7 +189,8 @@
       "meme"
     ],
     "songLengthMS": 179992,
-    "noteCount": 1203
+    "noteCount": 1203,
+    "favorite": false
   },
   {
     "name": "At the Speed of Light",
@@ -196,7 +207,8 @@
       "video game"
     ],
     "songLengthMS": 245264,
-    "noteCount": 3452
+    "noteCount": 3452,
+    "favorite": false
   },
   {
     "name": "Bad Apple!!",
@@ -211,7 +223,8 @@
       "Touhou"
     ],
     "songLengthMS": 213912,
-    "noteCount": 2655
+    "noteCount": 2655,
+    "favorite": false
   },
   {
     "name": "Bad Piggies Theme",
@@ -226,7 +239,8 @@
       "video game"
     ],
     "songLengthMS": 121934,
-    "noteCount": 1616
+    "noteCount": 1616,
+    "favorite": false
   },
   {
     "name": "Bad Romance",
@@ -247,7 +261,8 @@
       "pop"
     ],
     "songLengthMS": 284237,
-    "noteCount": 3526
+    "noteCount": 3526,
+    "favorite": false
   },
   {
     "name": "Beethovens Virus",
@@ -264,7 +279,8 @@
       "classical"
     ],
     "songLengthMS": 216730,
-    "noteCount": 2671
+    "noteCount": 2671,
+    "favorite": false
   },
   {
     "name": "begin again",
@@ -281,7 +297,8 @@
     ],
     "tags": [],
     "songLengthMS": 196558,
-    "noteCount": 967
+    "noteCount": 967,
+    "favorite": false
   },
   {
     "name": "Believer",
@@ -293,7 +310,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 192000,
-    "noteCount": 1468
+    "noteCount": 1468,
+    "favorite": false
   },
   {
     "name": "Black Catcher",
@@ -307,7 +325,8 @@
       "anime"
     ],
     "songLengthMS": 197075,
-    "noteCount": 2835
+    "noteCount": 2835,
+    "favorite": false
   },
   {
     "name": "Blinding Lights",
@@ -325,7 +344,8 @@
     ],
     "tags": [],
     "songLengthMS": 180705,
-    "noteCount": 1632
+    "noteCount": 1632,
+    "favorite": false
   },
   {
     "name": "Bloody Stream",
@@ -347,7 +367,8 @@
       "anime"
     ],
     "songLengthMS": 258643,
-    "noteCount": 2862
+    "noteCount": 2862,
+    "favorite": false
   },
   {
     "name": "Bonetrousle",
@@ -362,7 +383,8 @@
       "video game"
     ],
     "songLengthMS": 90999,
-    "noteCount": 1204
+    "noteCount": 1204,
+    "favorite": false
   },
   {
     "name": "By Your Side",
@@ -377,7 +399,8 @@
       "video game"
     ],
     "songLengthMS": 174526,
-    "noteCount": 1590
+    "noteCount": 1590,
+    "favorite": false
   },
   {
     "name": "Cannon in D",
@@ -393,7 +416,8 @@
       "classical"
     ],
     "songLengthMS": 244679,
-    "noteCount": 1589
+    "noteCount": 1589,
+    "favorite": false
   },
   {
     "name": "Carol of the Bells",
@@ -407,7 +431,8 @@
       "Christmas"
     ],
     "songLengthMS": 120753,
-    "noteCount": 1264
+    "noteCount": 1264,
+    "favorite": false
   },
   {
     "name": "Clair De Lune",
@@ -424,7 +449,8 @@
       "classical"
     ],
     "songLengthMS": 286705,
-    "noteCount": 1506
+    "noteCount": 1506,
+    "favorite": false
   },
   {
     "name": "Coconut Mall",
@@ -442,7 +468,8 @@
       "video game"
     ],
     "songLengthMS": 123631,
-    "noteCount": 1808
+    "noteCount": 1808,
+    "favorite": false
   },
   {
     "name": "Cruel Angel's Thesis",
@@ -456,7 +483,8 @@
       "anime"
     ],
     "songLengthMS": 92953,
-    "noteCount": 941
+    "noteCount": 941,
+    "favorite": false
   },
   {
     "name": "Cynthia's Theme",
@@ -470,7 +498,8 @@
       "video game"
     ],
     "songLengthMS": 163533,
-    "noteCount": 3424
+    "noteCount": 3424,
+    "favorite": false
   },
   {
     "name": "Dance Monkey",
@@ -486,7 +515,8 @@
     ],
     "tags": [],
     "songLengthMS": 206294,
-    "noteCount": 1056
+    "noteCount": 1056,
+    "favorite": false
   },
   {
     "name": "Dark Side",
@@ -498,7 +528,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 189538,
-    "noteCount": 2504
+    "noteCount": 2504,
+    "favorite": false
   },
   {
     "name": "Despacito",
@@ -517,7 +548,8 @@
       "meme"
     ],
     "songLengthMS": 219723,
-    "noteCount": 1423
+    "noteCount": 1423,
+    "favorite": false
   },
   {
     "name": "Digital Love",
@@ -535,7 +567,8 @@
       "Discovery"
     ],
     "songLengthMS": 245895,
-    "noteCount": 2070
+    "noteCount": 2070,
+    "favorite": false
   },
   {
     "name": "Dota",
@@ -552,7 +585,8 @@
       "meme"
     ],
     "songLengthMS": 89987,
-    "noteCount": 738
+    "noteCount": 738,
+    "favorite": false
   },
   {
     "name": "Duet",
@@ -567,7 +601,8 @@
       "video game"
     ],
     "songLengthMS": 129719,
-    "noteCount": 691
+    "noteCount": 691,
+    "favorite": false
   },
   {
     "name": "Dumb Ways to Die",
@@ -586,7 +621,8 @@
       "meme"
     ],
     "songLengthMS": 274755,
-    "noteCount": 1276
+    "noteCount": 1276,
+    "favorite": false
   },
   {
     "name": "Etude Op. 10 No. 3 E Major (Tristesse)",
@@ -600,7 +636,8 @@
       "classical"
     ],
     "songLengthMS": 221960,
-    "noteCount": 1931
+    "noteCount": 1931,
+    "favorite": false
   },
   {
     "name": "Fantasie Impromptu",
@@ -617,7 +654,8 @@
       "classical"
     ],
     "songLengthMS": 307391,
-    "noteCount": 3044
+    "noteCount": 3044,
+    "favorite": false
   },
   {
     "name": "Five Nights at Freddy's 1 Song",
@@ -634,7 +672,8 @@
       "video game"
     ],
     "songLengthMS": 159276,
-    "noteCount": 1530
+    "noteCount": 1530,
+    "favorite": false
   },
   {
     "name": "Flower Dance",
@@ -646,7 +685,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 261766,
-    "noteCount": 2499
+    "noteCount": 2499,
+    "favorite": false
   },
   {
     "name": "Freedom Dive",
@@ -661,7 +701,8 @@
       "video game"
     ],
     "songLengthMS": 136354,
-    "noteCount": 3937
+    "noteCount": 3937,
+    "favorite": false
   },
   {
     "name": "From the Start",
@@ -676,7 +717,8 @@
     ],
     "tags": [],
     "songLengthMS": 166166,
-    "noteCount": 1458
+    "noteCount": 1458,
+    "favorite": false
   },
   {
     "name": "Fur Elise",
@@ -694,7 +736,8 @@
       "classical"
     ],
     "songLengthMS": 157612,
-    "noteCount": 2102
+    "noteCount": 2102,
+    "favorite": false
   },
   {
     "name": "Get Lucky",
@@ -714,7 +757,8 @@
       "Random Access Memories"
     ],
     "songLengthMS": 239898,
-    "noteCount": 2231
+    "noteCount": 2231,
+    "favorite": false
   },
   {
     "name": "Giorgio by Moroder",
@@ -731,7 +775,8 @@
       "Random Access Memories"
     ],
     "songLengthMS": 135928,
-    "noteCount": 1024
+    "noteCount": 1024,
+    "favorite": false
   },
   {
     "name": "Giorno's Theme",
@@ -747,7 +792,8 @@
       "anime"
     ],
     "songLengthMS": 289465,
-    "noteCount": 2890
+    "noteCount": 2890,
+    "favorite": false
   },
   {
     "name": "Grains of Sand",
@@ -761,7 +807,8 @@
       "impossible"
     ],
     "songLengthMS": 179200,
-    "noteCount": 245344
+    "noteCount": 245344,
+    "favorite": false
   },
   {
     "name": "Gravity Falls Opening Theme",
@@ -777,7 +824,8 @@
       "Gravity Falls"
     ],
     "songLengthMS": 113412,
-    "noteCount": 873
+    "noteCount": 873,
+    "favorite": false
   },
   {
     "name": "Great Fairy Fountain",
@@ -791,7 +839,8 @@
       "video game"
     ],
     "songLengthMS": 149059,
-    "noteCount": 1767
+    "noteCount": 1767,
+    "favorite": false
   },
   {
     "name": "Gusty Garden",
@@ -808,7 +857,8 @@
       "wii"
     ],
     "songLengthMS": 118341,
-    "noteCount": 980
+    "noteCount": 980,
+    "favorite": false
   },
   {
     "name": "Gwyn, Lord of Cinder",
@@ -824,7 +874,8 @@
       "gaming"
     ],
     "songLengthMS": 216000,
-    "noteCount": 1658
+    "noteCount": 1658,
+    "favorite": false
   },
   {
     "name": "Harder, Better, Faster, Stronger",
@@ -844,7 +895,8 @@
       "Discovery"
     ],
     "songLengthMS": 103986,
-    "noteCount": 804
+    "noteCount": 804,
+    "favorite": false
   },
   {
     "name": "He's a Pirate",
@@ -856,7 +908,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 81425,
-    "noteCount": 1109
+    "noteCount": 1109,
+    "favorite": false
   },
   {
     "name": "Hot Milk",
@@ -868,7 +921,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 231990,
-    "noteCount": 1382
+    "noteCount": 1382,
+    "favorite": false
   },
   {
     "name": "I'm Blue",
@@ -882,7 +936,8 @@
       "meme"
     ],
     "songLengthMS": 181830,
-    "noteCount": 1075
+    "noteCount": 1075,
+    "favorite": false
   },
   {
     "name": "Idol",
@@ -896,7 +951,8 @@
       "anime"
     ],
     "songLengthMS": 210697,
-    "noteCount": 3424
+    "noteCount": 3424,
+    "favorite": false
   },
   {
     "name": "Insane",
@@ -911,7 +967,8 @@
       "Hazbin Hotel"
     ],
     "songLengthMS": 133392,
-    "noteCount": 1479
+    "noteCount": 1479,
+    "favorite": false
   },
   {
     "name": "Instant Crush",
@@ -929,7 +986,8 @@
       "Random Access Memories"
     ],
     "songLengthMS": 109986,
-    "noteCount": 890
+    "noteCount": 890,
+    "favorite": false
   },
   {
     "name": "It's Been So Long",
@@ -949,7 +1007,8 @@
       "video game"
     ],
     "songLengthMS": 171873,
-    "noteCount": 1162
+    "noteCount": 1162,
+    "favorite": false
   },
   {
     "name": "Jingle Bells (Impossible)",
@@ -965,7 +1024,8 @@
       "impossible"
     ],
     "songLengthMS": 56948,
-    "noteCount": 1659
+    "noteCount": 1659,
+    "favorite": false
   },
   {
     "name": "Kahoot Theme",
@@ -979,7 +1039,8 @@
       "meme"
     ],
     "songLengthMS": 63873,
-    "noteCount": 572
+    "noteCount": 572,
+    "favorite": false
   },
   {
     "name": "Kaikai Kitan",
@@ -993,7 +1054,8 @@
       "anime"
     ],
     "songLengthMS": 164659,
-    "noteCount": 2275
+    "noteCount": 2275,
+    "favorite": false
   },
   {
     "name": "KICK BACK",
@@ -1017,7 +1079,8 @@
       "anime"
     ],
     "songLengthMS": 197437,
-    "noteCount": 3136
+    "noteCount": 3136,
+    "favorite": false
   },
   {
     "name": "Kids",
@@ -1033,7 +1096,8 @@
     ],
     "tags": [],
     "songLengthMS": 191987,
-    "noteCount": 1396
+    "noteCount": 1396,
+    "favorite": false
   },
   {
     "name": "Kill Bill",
@@ -1050,7 +1114,8 @@
       "pop"
     ],
     "songLengthMS": 153537,
-    "noteCount": 1088
+    "noteCount": 1088,
+    "favorite": false
   },
   {
     "name": "La Campanella",
@@ -1067,7 +1132,8 @@
       "classical"
     ],
     "songLengthMS": 327598,
-    "noteCount": 4077
+    "noteCount": 4077,
+    "favorite": false
   },
   {
     "name": "Levan Polkka",
@@ -1079,7 +1145,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 129286,
-    "noteCount": 1924
+    "noteCount": 1924,
+    "favorite": false
   },
   {
     "name": "Liebestraum No. 3 in A Major",
@@ -1095,7 +1162,8 @@
       "classical"
     ],
     "songLengthMS": 230292,
-    "noteCount": 1885
+    "noteCount": 1885,
+    "favorite": false
   },
   {
     "name": "Lone Digger",
@@ -1117,7 +1185,8 @@
       "electroswing"
     ],
     "songLengthMS": 238005,
-    "noteCount": 3770
+    "noteCount": 3770,
+    "favorite": false
   },
   {
     "name": "Lose Yourself to Dance",
@@ -1135,7 +1204,8 @@
       "Random Access Memories"
     ],
     "songLengthMS": 345591,
-    "noteCount": 4531
+    "noteCount": 4531,
+    "favorite": false
   },
   {
     "name": "MEGALOVANIA",
@@ -1151,7 +1221,8 @@
       "Undertale"
     ],
     "songLengthMS": 320010,
-    "noteCount": 2137
+    "noteCount": 2137,
+    "favorite": false
   },
   {
     "name": "MONTERO",
@@ -1174,7 +1245,8 @@
       "Call me by your name"
     ],
     "songLengthMS": 133649,
-    "noteCount": 847
+    "noteCount": 847,
+    "favorite": false
   },
   {
     "name": "My Time",
@@ -1195,7 +1267,8 @@
       "video game"
     ],
     "songLengthMS": 239493,
-    "noteCount": 1980
+    "noteCount": 1980,
+    "favorite": false
   },
   {
     "name": "Never Gonna Give You Up",
@@ -1214,7 +1287,8 @@
       "meme"
     ],
     "songLengthMS": 191916,
-    "noteCount": 1789
+    "noteCount": 1789,
+    "favorite": false
   },
   {
     "name": "Nocturne in E flat major, Op. 9 No. 2",
@@ -1230,7 +1304,8 @@
       "classical"
     ],
     "songLengthMS": 240636,
-    "noteCount": 1298
+    "noteCount": 1298,
+    "favorite": false
   },
   {
     "name": "One More Time",
@@ -1249,7 +1324,8 @@
       "Discovery"
     ],
     "songLengthMS": 304863,
-    "noteCount": 2570
+    "noteCount": 2570,
+    "favorite": false
   },
   {
     "name": "Overworld Theme",
@@ -1265,7 +1341,8 @@
       "video game"
     ],
     "songLengthMS": 113282,
-    "noteCount": 1042
+    "noteCount": 1042,
+    "favorite": false
   },
   {
     "name": "Overworld Theme (Impossible)",
@@ -1282,7 +1359,8 @@
       "impossible"
     ],
     "songLengthMS": 252936,
-    "noteCount": 5958
+    "noteCount": 5958,
+    "favorite": false
   },
   {
     "name": "Owen Was Her",
@@ -1304,7 +1382,8 @@
       "Flandre's Theme"
     ],
     "songLengthMS": 197882,
-    "noteCount": 14564
+    "noteCount": 14564,
+    "favorite": false
   },
   {
     "name": "Pure Imagination",
@@ -1321,7 +1400,8 @@
     ],
     "tags": [],
     "songLengthMS": 100990,
-    "noteCount": 504
+    "noteCount": 504,
+    "favorite": false
   },
   {
     "name": "Raining Tacos",
@@ -1336,7 +1416,8 @@
       "meme"
     ],
     "songLengthMS": 103686,
-    "noteCount": 520
+    "noteCount": 520,
+    "favorite": false
   },
   {
     "name": "River Flows In You",
@@ -1352,7 +1433,8 @@
     ],
     "tags": [],
     "songLengthMS": 166983,
-    "noteCount": 840
+    "noteCount": 840,
+    "favorite": false
   },
   {
     "name": "Rockefeller Street",
@@ -1368,7 +1450,8 @@
       "one two sell a tree"
     ],
     "songLengthMS": 143221,
-    "noteCount": 1389
+    "noteCount": 1389,
+    "favorite": false
   },
   {
     "name": "Rush E",
@@ -1382,7 +1465,8 @@
       "meme"
     ],
     "songLengthMS": 171882,
-    "noteCount": 998261
+    "noteCount": 998261,
+    "favorite": false
   },
   {
     "name": "sans.",
@@ -1398,7 +1482,8 @@
       "meme"
     ],
     "songLengthMS": 48398,
-    "noteCount": 515
+    "noteCount": 515,
+    "favorite": false
   },
   {
     "name": "Secret Piano Battle",
@@ -1418,7 +1503,8 @@
       "不能说的·秘密"
     ],
     "songLengthMS": 149129,
-    "noteCount": 2874
+    "noteCount": 2874,
+    "favorite": false
   },
   {
     "name": "Seven Nation Army",
@@ -1435,7 +1521,8 @@
     ],
     "tags": [],
     "songLengthMS": 144202,
-    "noteCount": 1291
+    "noteCount": 1291,
+    "favorite": false
   },
   {
     "name": "Sonate No.14 Moonlight 1st Movement",
@@ -1450,7 +1537,8 @@
       "Moonlight Sonata"
     ],
     "songLengthMS": 376360,
-    "noteCount": 1147
+    "noteCount": 1147,
+    "favorite": false
   },
   {
     "name": "Space Oddity",
@@ -1466,7 +1554,8 @@
     ],
     "tags": [],
     "songLengthMS": 261032,
-    "noteCount": 2226
+    "noteCount": 2226,
+    "favorite": false
   },
   {
     "name": "Space Song",
@@ -1485,7 +1574,8 @@
       "sad"
     ],
     "songLengthMS": 178010,
-    "noteCount": 850
+    "noteCount": 850,
+    "favorite": false
   },
   {
     "name": "Spider Dance",
@@ -1500,7 +1590,8 @@
       "video game"
     ],
     "songLengthMS": 105311,
-    "noteCount": 1221
+    "noteCount": 1221,
+    "favorite": false
   },
   {
     "name": "Spooky Scary Skeletons",
@@ -1517,7 +1608,8 @@
       "Disney"
     ],
     "songLengthMS": 162005,
-    "noteCount": 1478
+    "noteCount": 1478,
+    "favorite": false
   },
   {
     "name": "Still Alive",
@@ -1531,7 +1623,8 @@
       "video game"
     ],
     "songLengthMS": 174498,
-    "noteCount": 1344
+    "noteCount": 1344,
+    "favorite": false
   },
   {
     "name": "Sweden",
@@ -1549,7 +1642,8 @@
       "video game"
     ],
     "songLengthMS": 125042,
-    "noteCount": 271
+    "noteCount": 271,
+    "favorite": false
   },
   {
     "name": "Sweet Child O' Mine",
@@ -1564,7 +1658,8 @@
     ],
     "tags": [],
     "songLengthMS": 315764,
-    "noteCount": 2339
+    "noteCount": 2339,
+    "favorite": false
   },
   {
     "name": "Tetris Theme",
@@ -1578,7 +1673,8 @@
       "video game"
     ],
     "songLengthMS": 135991,
-    "noteCount": 2029
+    "noteCount": 2029,
+    "favorite": false
   },
   {
     "name": "The Entertainer",
@@ -1594,7 +1690,8 @@
       "classical"
     ],
     "songLengthMS": 260141,
-    "noteCount": 1993
+    "noteCount": 1993,
+    "favorite": false
   },
   {
     "name": "The Real Slim Shady",
@@ -1610,7 +1707,8 @@
       "The Marshall Mathers LP"
     ],
     "songLengthMS": 283970,
-    "noteCount": 1943
+    "noteCount": 1943,
+    "favorite": false
   },
   {
     "name": "The Son of Flynn",
@@ -1624,7 +1722,8 @@
       "Tron Legacy"
     ],
     "songLengthMS": 90557,
-    "noteCount": 1090
+    "noteCount": 1090,
+    "favorite": false
   },
   {
     "name": "Through the Fire and Flames",
@@ -1645,7 +1744,8 @@
       "impossible"
     ],
     "songLengthMS": 722005,
-    "noteCount": 12724
+    "noteCount": 12724,
+    "favorite": false
   },
   {
     "name": "Tree Among Shrubs",
@@ -1657,7 +1757,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 183896,
-    "noteCount": 1423
+    "noteCount": 1423,
+    "favorite": false
   },
   {
     "name": "Velours",
@@ -1674,7 +1775,8 @@
       "jazz"
     ],
     "songLengthMS": 256178,
-    "noteCount": 1990
+    "noteCount": 1990,
+    "favorite": false
   },
   {
     "name": "Venom",
@@ -1689,7 +1791,8 @@
       "VOCALOID"
     ],
     "songLengthMS": 195778,
-    "noteCount": 2519
+    "noteCount": 2519,
+    "favorite": false
   },
   {
     "name": "Virtual Insanity",
@@ -1709,7 +1812,8 @@
       "meme"
     ],
     "songLengthMS": 199663,
-    "noteCount": 2624
+    "noteCount": 2624,
+    "favorite": false
   },
   {
     "name": "Viva La Vida",
@@ -1724,7 +1828,8 @@
     ],
     "tags": [],
     "songLengthMS": 286005,
-    "noteCount": 5782
+    "noteCount": 5782,
+    "favorite": false
   },
   {
     "name": "We Are Number One",
@@ -1744,7 +1849,8 @@
       "Stefán Karl Stefánsson"
     ],
     "songLengthMS": 188005,
-    "noteCount": 1831
+    "noteCount": 1831,
+    "favorite": false
   },
   {
     "name": "We Don't Talk About Bruno",
@@ -1759,7 +1865,8 @@
     ],
     "tags": [],
     "songLengthMS": 206212,
-    "noteCount": 1435
+    "noteCount": 1435,
+    "favorite": false
   },
   {
     "name": "Welcome to the Internet",
@@ -1771,7 +1878,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 272059,
-    "noteCount": 2983
+    "noteCount": 2983,
+    "favorite": false
   },
   {
     "name": "Wellerman",
@@ -1790,7 +1898,8 @@
       "Sea Shanty"
     ],
     "songLengthMS": 242505,
-    "noteCount": 968
+    "noteCount": 968,
+    "favorite": false
   },
   {
     "name": "Wii Shop Channel Theme",
@@ -1805,7 +1914,8 @@
       "video game"
     ],
     "songLengthMS": 99752,
-    "noteCount": 544
+    "noteCount": 544,
+    "favorite": false
   },
   {
     "name": "World's End Valentine",
@@ -1820,7 +1930,8 @@
       "video game"
     ],
     "songLengthMS": 236680,
-    "noteCount": 2968
+    "noteCount": 2968,
+    "favorite": false
   },
   {
     "name": "World's Smallest Violin",
@@ -1834,7 +1945,8 @@
       "meme"
     ],
     "songLengthMS": 172225,
-    "noteCount": 1788
+    "noteCount": 1788,
+    "favorite": false
   },
   {
     "name": "WORTH NOTHING",
@@ -1846,7 +1958,8 @@
     "genre": [],
     "tags": [],
     "songLengthMS": 208005,
-    "noteCount": 1677
+    "noteCount": 1677,
+    "favorite": false
   },
   {
     "name": "Your Reality",
@@ -1861,6 +1974,7 @@
       "anime"
     ],
     "songLengthMS": 165290,
-    "noteCount": 1065
+    "noteCount": 1065,
+    "favorite": false
   }
 ]
