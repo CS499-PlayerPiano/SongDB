@@ -1976,5 +1976,115 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
-  }
+  },
+  {
+    "name": "1 note per second",
+    "artists": [
+      "Camden Hunt"
+    ],
+    "midiFile": "TEST_1nps.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ]
+  },
+  [
+    {
+      "name": "2 notes per second",
+      "artists": [
+        "Camden Hunt"
+      ],
+      "midiFile": "TEST_2nps.mid",
+      "artwork": "PianoDebugging.png",
+      "genre": [],
+      "tags": [
+        "debugging"
+      ]
+    },
+    {
+      "name": "4 notes per second",
+      "artists": [
+        "Camden Hunt"
+      ],
+      "midiFile": "TEST_4nps.mid",
+      "artwork": "PianoDebugging.png",
+      "genre": [],
+      "tags": [
+        "debugging"
+      ]
+    },
+    {
+      "name": "6 notes per second",
+      "artists": [
+        "Camden Hunt"
+      ],
+      "midiFile": "TEST_6nps.mid",
+      "artwork": "PianoDebugging.png",
+      "genre": [],
+      "tags": [
+        "debugging"
+      ]
+    },
+    {
+      "name": "8 note per second",
+      "artists": [
+        "Camden Hunt"
+      ],
+      "midiFile": "TEST_8nps.mid",
+      "artwork": "PianoDebugging.png",
+      "genre": [],
+      "tags": [
+        "debugging"
+      ]
+    },
+    {
+      "name": "Fast full scale",
+      "artists": [
+        "Camden Hunt"
+      ],
+      "midiFile": "TEST_fast_full_scale.mid",
+      "artwork": "PianoDebugging.png",
+      "genre": [],
+      "tags": [
+        "debugging"
+      ]
+    },
+    {
+      "name": "Full scale",
+      "artists": [
+        "Camden Hunt"
+      ],
+      "midiFile": "TEST_full_scale.mid",
+      "artwork": "PianoDebugging.png",
+      "genre": [],
+      "tags": [
+        "debugging"
+      ]
+    },
+    {
+      "name": "Speed slider",
+      "artists": [
+        "Camden Hunt"
+      ],
+      "midiFile": "TEST_speedslider.mid",
+      "artwork": "PianoDebugging.png",
+      "genre": [],
+      "tags": [
+        "debugging"
+      ]
+    },
+    {
+      "name": "Slow double note full scale",
+      "artists": [
+        "Camden Hunt"
+      ],
+      "midiFile": "TEST_slow_double_note_full_scale.mid",
+      "artwork": "PianoDebugging.png",
+      "genre": [],
+      "tags": [
+        "debugging"
+      ]
+    }
+  ]
 ]
