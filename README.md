@@ -8,6 +8,7 @@ This repo contains all the songs for the piano to play.
 * genre: `string[]` - A list of genres for the song. **Can be empty**
 * midiFile: `string` - The name of the midi file.
 * artwork: `string` - The name of the artwork file. **null if there is no artwork.**
+* favorite: `boolean` - If we think it works very well on piano.
 * noteCount: `number` - The number of notes in the song. **AUTO GENERATED**
 * songLengthMS: `number` - The length of the song in milliseconds. **AUTO GENERATED**
 
@@ -19,6 +20,7 @@ This repo contains all the songs for the piano to play.
     "genre": [],
     "midiFile": "its-been-so-long.mid",
     "artwork": "TheLivingTombstone.jpg",
+    "favorite": false,
     "noteCount": 1162,
     "songLengthMS": 171875
 }
