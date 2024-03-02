@@ -15,19 +15,6 @@
     "noteCount": 10
   },
   {
-    "name": "10000",
-    "artists": [
-      "Colbreakz"
-    ],
-    "midiFile": "10000.mid",
-    "artwork": "10000.jpg",
-    "tags": [],
-    "genre": [],
-    "favorite": false,
-    "songLengthMS": 245168,
-    "noteCount": 8682
-  },
-  {
     "name": "12th Street Rag",
     "artists": [
       "Euday L. Bowman",
@@ -926,19 +913,6 @@
     "songLengthMS": 307391,
     "noteCount": 3044,
     "favorite": false
-  },
-  {
-    "name": "Fantasy",
-    "artists": [
-      "Eternity Forever"
-    ],
-    "midiFile": "Fantasy.mid",
-    "artwork": "Fantasy.jpg",
-    "tags": [],
-    "genre": [],
-    "favorite": false,
-    "songLengthMS": 43636,
-    "noteCount": 1322
   },
   {
     "name": "Fast full scale",
