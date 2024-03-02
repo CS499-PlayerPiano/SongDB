@@ -530,9 +530,7 @@
     ],
     "midiFile": "Bluey_Theme_Tune_Extended_From_Ludo_Studios_Bluey.mid",
     "artwork": "Bluey_Theme_Tune_Extended_From_Ludo_Studios_Bluey.jpeg",
-    "tags": [
-      "noel"
-    ],
+    "tags": ["noel"],
     "genre": [],
     "favorite": false,
     "songLengthMS": 62228,
@@ -2635,7 +2633,7 @@
       "DragonForce",
       "LyricWulf"
     ],
-    "midiFile": "ttfatf.mid",
+    "midiFile": "ttfaf.mid",
     "artwork": "DragonForce.jpg",
     "genre": [
       "Rock",
