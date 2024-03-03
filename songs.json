@@ -989,6 +989,19 @@
     "noteCount": 3578
   },
   {
+    "name": "For Lovers",
+    "artists": [
+      "Lamp"
+    ],
+    "midiFile": "_For_Lovers.mid",
+    "artwork": "_For_Lovers.jpg",
+    "tags": [],
+    "genre": [],
+    "favorite": false,
+    "songLengthMS": 67974,
+    "noteCount": 295
+  },
+  {
     "name": "For the Damaged Coda",
     "artists": [
       "Blonde Redhead"
@@ -2959,18 +2972,5 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
-  },
-  {
-    "name": "For Lovers",
-    "artists": [
-      "Lamp"
-    ],
-    "midiFile": "_For_Lovers.mid",
-    "artwork": "_For_Lovers.jpg",
-    "tags": [],
-    "genre": [],
-    "favorite": false,
-    "songLengthMS": 67974,
-    "noteCount": 295
   }
 ]
