@@ -2972,5 +2972,17 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Nyan Cat",
+    "artists": [
+      "Chris Torres"
+    ],
+    "midiFile": "nyancat.mid",
+    "artwork": "nyancat.png",
+    "genre": [],
+    "tags": [
+      "meme"
+    ]
   }
 ]
