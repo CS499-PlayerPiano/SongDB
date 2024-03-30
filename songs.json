@@ -800,7 +800,10 @@
     "genre": [
       "Ragtime"
     ],
-    "tags": [],
+    "tags": [
+      "undertale",
+      "video game"
+    ],
     "favorite": false,
     "songLengthMS": 34943,
     "noteCount": 339
@@ -867,7 +870,10 @@
     "midiFile": "Dummy.mid",
     "artwork": "undertale.jpg",
     "genre": [],
-    "tags": [],
+    "tags": [
+      "undertale",
+      "video game"
+    ],
     "favorite": false,
     "songLengthMS": 147965,
     "noteCount": 1800
@@ -892,7 +898,9 @@
     ],
     "midiFile": "Electrodynamix.mid",
     "artwork": "Electrodynamix.jpg",
-    "tags": [],
+    "tags": [
+      "video game"
+    ],
     "genre": [],
     "favorite": false,
     "songLengthMS": 86000,
@@ -1139,7 +1147,9 @@
     "genre": [
       "Ragtime"
     ],
-    "tags": [],
+    "tags": [
+      "video game"
+    ],
     "favorite": false,
     "songLengthMS": 103368,
     "noteCount": 2078
@@ -1496,8 +1506,12 @@
     ],
     "midiFile": "Jump_Up_Superstar.mid",
     "artwork": "Jump_Up_Superstar.jpg",
-    "genre": [],
-    "tags": [],
+    "genre": [
+      "Ragtime"
+    ],
+    "tags": [
+      "video game"
+    ],
     "favorite": false,
     "songLengthMS": 252372,
     "noteCount": 4124
@@ -1526,7 +1540,11 @@
     "genre": [
       "Ragtime"
     ],
-    "tags": [],
+    "tags": [
+      "video game",
+      "nintendo",
+      "animal crossing"
+    ],
     "favorite": false,
     "songLengthMS": 134267,
     "noteCount": 1437
@@ -1650,7 +1668,7 @@
     ],
     "songLengthMS": 327598,
     "noteCount": 4077,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Le Festin",
@@ -1764,7 +1782,10 @@
     ],
     "midiFile": "Lonely_Rolling_Star_-_Katamari_Damacy_cover.mid",
     "artwork": "Lonely_Rolling_Star_-_Katamari_Damacy_cover.jpg",
-    "tags": [],
+    "tags": [
+      "video game",
+      "katamari"
+    ],
     "genre": [],
     "favorite": false,
     "songLengthMS": 318005,
@@ -1796,7 +1817,9 @@
     ],
     "midiFile": "Love_Like_You_Steven_Universe.mid",
     "artwork": "Love_Like_You_Steven_Universe.jpg",
-    "tags": [],
+    "tags": [
+      "steven universe"
+    ],
     "genre": [],
     "favorite": false,
     "songLengthMS": 124846,
@@ -1836,7 +1859,9 @@
     "midiFile": "Maple_Leaf_Rag_Scott_Joplin.mid",
     "artwork": "Maple_Leaf_Rag_Scott_Joplin.jpg",
     "tags": [],
-    "genre": [],
+    "genre": [
+      "Ragtime"
+    ],
     "favorite": false,
     "songLengthMS": 172799,
     "noteCount": 2568
@@ -1867,7 +1892,7 @@
     "artwork": "merrygoround.jpg",
     "genre": [],
     "tags": [],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 351899,
     "noteCount": 3274
   },
@@ -1891,7 +1916,10 @@
     ],
     "midiFile": "Mii_Channel_piano.mscz.mid",
     "artwork": "Mii_Channel_piano.mscz.jpg",
-    "tags": [],
+    "tags": [
+      "video game",
+      "nintendo"
+    ],
     "genre": [],
     "favorite": false,
     "songLengthMS": 104868,
@@ -1941,7 +1969,10 @@
     ],
     "midiFile": "Moon_Theme_Ducktales.mid",
     "artwork": "Moon_Theme_Ducktales.jpg",
-    "tags": [],
+    "tags": [
+      "video game",
+      "ducktales"
+    ],
     "genre": [],
     "favorite": false,
     "songLengthMS": 130600,
@@ -2171,7 +2202,8 @@
       "Death Waltz",
       "U.N. Owen Was Her?",
       "U.N.オーエンは彼女なのか？",
-      "Flandre's Theme"
+      "Flandre's Theme",
+      "impossible"
     ],
     "songLengthMS": 202829,
     "noteCount": 14305,
@@ -2187,8 +2219,13 @@
     "genre": [
       "Ragtime"
     ],
-    "tags": [],
-    "favorite": false,
+    "tags": [
+      "nintendo",
+      "super mario sunshine",
+      "mario",
+      "gamecube"
+    ],
+    "favorite": true,
     "songLengthMS": 177595,
     "noteCount": 3020
   },
@@ -2347,7 +2384,8 @@
     "artwork": "Rush_E_but_its_as_difficult_as_humanly_possible.jpg",
     "genre": [],
     "tags": [
-      "meme"
+      "meme",
+      "impossible"
     ],
     "songLengthMS": 171882,
     "noteCount": 998261,
@@ -2474,7 +2512,10 @@
     "midiFile": "Song_That_Might_Play_When_You_Fight_Sans.mid",
     "artwork": "undertale.jpg",
     "genre": [],
-    "tags": [],
+    "tags": [
+      "video game",
+      "undertale"
+    ],
     "favorite": false,
     "songLengthMS": 56000,
     "noteCount": 922
@@ -2629,7 +2670,11 @@
     "genre": [
       "Ragtime"
     ],
-    "tags": [],
+    "tags": [
+      "video game",
+      "nintendo",
+      "mario"
+    ],
     "favorite": false,
     "songLengthMS": 94799,
     "noteCount": 867
@@ -2644,7 +2689,11 @@
     "genre": [
       "Ragtime"
     ],
-    "tags": [],
+    "tags": [
+      "video game",
+      "nintendo",
+      "mario"
+    ],
     "favorite": false,
     "songLengthMS": 301121,
     "noteCount": 4821
@@ -2710,7 +2759,7 @@
       "Classical"
     ],
     "tags": [
-      "classical"
+      "ragtime"
     ],
     "songLengthMS": 260141,
     "noteCount": 1993,
@@ -2829,7 +2878,10 @@
     ],
     "midiFile": "La_Caution_-_Th__la_Menthe.mid",
     "artwork": "La_Caution_-_Th__la_Menthe.jpg",
-    "tags": [],
+    "tags": [
+      "csgo",
+      "bhop"
+    ],
     "genre": [],
     "favorite": false,
     "songLengthMS": 249600,
@@ -3124,7 +3176,11 @@
     "genre": [
       "Ragtime"
     ],
-    "tags": [],
+    "tags": [
+      "video game",
+      "nintendo",
+      "mario"
+    ],
     "favorite": false,
     "songLengthMS": 126800,
     "noteCount": 2261
