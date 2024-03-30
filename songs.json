@@ -521,7 +521,7 @@
     ],
     "songLengthMS": 258643,
     "noteCount": 2862,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Bluey Theme Song",
@@ -552,7 +552,7 @@
     ],
     "songLengthMS": 90999,
     "noteCount": 1204,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "By Your Side",
@@ -568,7 +568,7 @@
     ],
     "songLengthMS": 174526,
     "noteCount": 1590,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Canon in D",
@@ -637,7 +637,7 @@
     ],
     "songLengthMS": 123631,
     "noteCount": 1808,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "cold weather",
@@ -1134,7 +1134,7 @@
     ],
     "songLengthMS": 289465,
     "noteCount": 2890,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Glimpse of Us",
@@ -1740,7 +1740,7 @@
     "artwork": "PIANO_CHALLENGE_Ludicrous_Speed_F-777.jpg",
     "tags": [],
     "genre": [],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 172047,
     "noteCount": 2542
   },
@@ -1985,7 +1985,7 @@
     "artwork": "__Oddloop.jpg",
     "tags": [],
     "genre": [],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 245485,
     "noteCount": 5404
   },
@@ -2446,7 +2446,7 @@
     ],
     "songLengthMS": 105311,
     "noteCount": 1221,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Spooky Scary Skeletons",
@@ -2555,7 +2555,7 @@
     ],
     "songLengthMS": 135991,
     "noteCount": 2029,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "The Entertainer",
@@ -2987,5 +2987,129 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Dog Song",
+    "artists": [
+      "Toby Fox"
+    ],
+    "midiFile": "Dog_Song.mid",
+    "artwork": "bonetrousle.jpg",
+    "genre": [
+	"Ragtime"
+	],
+    "tags": []
+  },
+  {
+    "name": "Dummy!",
+    "artists": [
+      "Toby Fox"
+    ],
+    "midiFile": "Dummy.mid",
+    "artwork": "bonetrousle.jpg",
+    "genre": [],
+    "tags": []
+  },
+  {
+    "name": "Ghosts 'n Goblins",
+    "artists": [
+      "Ayako Mori"
+    ],
+    "midiFile": "Ghosts_n_Goblins.mid",
+    "artwork": "Ghosts_n_Goblins.jpg",
+    "genre": [
+	"Ragtime"
+	],
+    "tags": []
+  },
+  {
+    "name": "Jump Up, Super Star!",
+    "artists": [
+      "Naoto Kubo"
+    ],
+    "midiFile": "Jump_Up_Superstar.mid",
+    "artwork": "Jump_Up_Superstar.jpg",
+    "genre": [],
+    "tags": []
+  },
+  {
+    "name": "K.K. Ragtime",
+    "artists": [
+      "Toru Minegishi"
+    ],
+    "midiFile": "KK_Ragtime.mid",
+    "artwork": "KK_Ragtime.png",
+    "genre": [
+	"Ragtime"
+	],
+    "tags": []
+  },
+  {
+    "name": "Merry-Go-Round of Life",
+    "artists": [
+      "Joe Hisaishi"
+    ],
+    "midiFile": "Merry_go_round_of_life.mid",
+    "artwork": "merrygoround.jpg",
+    "genre": [],
+    "tags": []
+  },
+  {
+    "name": "Pinna Park",
+    "artists": [
+      "Koji Kondo"
+    ],
+    "midiFile": "Pinna_Park.mid",
+    "artwork": "pinnapark.jpg",
+    "genre": [
+	"Ragtime"
+	],
+    "tags": []
+  },
+  {
+    "name": "Song That Might Play When You Fight Sans",
+    "artists": [
+      "Toby Fox"
+    ],
+    "midiFile": "Song_That_Might_Play_When_You_Fight_Sans.mid",
+    "artwork": "bonetrousle.jpg",
+    "genre": [],
+    "tags": []
+  },
+  {
+    "name": "Super Bell Hill",
+    "artists": [
+      "Dan Salvato"
+    ],
+    "midiFile": "Super_Bell_Hill.mid",
+    "artwork": "your reality.jpg",
+    "genre": [
+	"Ragtime"
+	],
+    "tags": []
+  },
+  {
+    "name": "Super Mario World Ending Theme",
+    "artists": [
+      "Koji Kondo"
+    ],
+    "midiFile": "Super_Mario_World_Ending_Theme.mid",
+    "artwork": "smw.png",
+    "genre": [
+	"Ragtime"
+	],
+    "tags": []
+  },
+  {
+    "name": "Yoshi's Island Athletic Theme",
+    "artists": [
+      "Koji Kondo"
+    ],
+    "midiFile": "Yoshis_Island_Athletic.mid",
+    "artwork": "yoshis island.jpg",
+    "genre": [
+	"Ragtime"
+	],
+    "tags": []
   }
 ]
