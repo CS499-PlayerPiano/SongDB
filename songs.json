@@ -2704,7 +2704,7 @@
       "C418"
     ],
     "midiFile": "Sweden_Minecraft.mid",
-    "artwork": "Sweden_Minecraft.jpg",
+    "artwork": "Minecraft.jpg",
     "genre": [
       "Electronic",
       "Chiptune"
@@ -3199,6 +3199,166 @@
     ],
     "songLengthMS": 165290,
     "noteCount": 1065,
+    "favorite": false
+  },
+  {
+    "name": "I will Survive",
+    "artists": [
+      "Gloria Gaynor"
+    ],
+    "midiFile": "I_Will_Survive_-_Gloria_Gaynor.mid",
+    "artwork": "Gloria Gaynor.jpg",
+    "genre": [
+      "Electronic",
+      "Disco",
+      "Rock"
+    ],
+    "tags": [
+      "Halloween"
+    ],
+    "favorite": false
+  },
+  {
+    "name": "Flowers",
+    "artists": [
+      "Miley Cyrus"
+    ],
+    "midiFile": "Flowers_-_Miley_Cyrus.mid",
+    "artwork": "Miley Cyrus Endless Summer Vacation.jpg",
+    "genre": [
+      "Pop",
+      "Rock",
+      "Alternative Rock",
+      "Pop Rock",
+      "Dance-pop"
+    ],
+    "tags": [],
+    "favorite": false
+  },
+  {
+    "name": "100 Years",
+    "artists": [
+      "Five for Fighting"
+    ],
+    "midiFile": "100_Years_Five_for_Fighting_Piano_Solo.mid",
+    "artwork": "100Years.jpg",
+    "genre": [
+      "Alternative Rock"
+    ],
+    "tags": [],
+    "favorite": false
+  },
+  {
+    "name": "Mariage d'Amour",
+    "artists": [
+      "Richard Clayderman",
+      "Paul de Senneville"
+    ],
+    "midiFile": "Mariage_dAmour.mid",
+    "artwork": "Richard Clayderman.jpg",
+    "genre": [
+      "Classical",
+      "Romantic",
+      "Pop"
+    ],
+    "tags": [
+      "Delphine"
+    ],
+    "favorite": false
+  },
+  {
+    "name": "Wet Hands",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Wet_Hands_Minecraft.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [
+      "Electronic",
+      "Chiptune"
+    ],
+    "tags": [
+      "Minecraft",
+      "video game"
+    ],
+    "favorite": false
+  },
+  {
+    "name": "All I want for Christmas is You",
+    "artists": [
+      "Mariah Carey"
+    ],
+    "midiFile": "All_I_Want_For_Christmas_Is_You_-_Mariah_Carey.mid",
+    "artwork": "Mariah_Carey.jpg",
+    "genre": [
+      "Funk / Soul",
+      "Pop",
+      "R&B",
+      "Swing",
+      "Holiday"
+    ],
+    "tags": [
+      "Christmas"
+    ],
+    "favorite": false
+  },
+  {
+    "name": "Stereo Madness",
+    "artists": [
+      "ForeverBound"
+    ],
+    "midiFile": "Stereo Madness.mid",
+    "artwork": "Geometry_Dash_Logo.png",
+    "genre": [
+      "Electronic",
+      "Chiptune"
+    ],
+    "tags": [
+      "Geometry Dash",
+      "video game"
+    ],
+    "favorite": false
+  },
+  {
+    "name": "In The Hall Of The Mountain King",
+    "artists": [
+      "Edvard Grieg"
+    ],
+    "midiFile": "Mountain King.mid",
+    "artwork": "Edvard Grieg.jpg",
+    "genre": [
+      "Classical"
+    ],
+    "tags": [],
+    "favorite": false
+  },
+  {
+    "name": "Gonna Fly Now",
+    "artists": [
+      "Bill Conti"
+    ],
+    "midiFile": "Rocky_Theme.mid",
+    "artwork": "Gonna_Fly_Now_cover.jpg",
+    "genre": [],
+    "tags": [
+      "Rocky Theme",
+      "Soundtrack"
+    ],
+    "favorite": false
+  },
+  {
+    "name": "Dance of the Sugar Plum Fairy",
+    "artists": [
+      "Pyotr Ilyich Tchaikovsky"
+    ],
+    "midiFile": "Dance_of_the_sugar_plum_fairy.mid",
+    "artwork": "tchaikovsky-pyotr-ilyich.jpg",
+    "genre": [
+      "Classical"
+    ],
+    "tags": [
+      "Nutcracker"
+    ],
     "favorite": false
   }
 ]
