@@ -732,6 +732,21 @@
     "favorite": false
   },
   {
+    "name": "Daisy Bell",
+    "artists": [
+      "Harry Dacre"
+    ],
+    "midiFile": "daisybell.mid",
+    "artwork": "daisybell.jpeg",
+    "genre": [],
+    "tags": [
+      "ibm"
+    ],
+    "favorite": true,
+    "songLengthMS": 103846,
+    "noteCount": 708
+  },
+  {
     "name": "Dance Monkey",
     "artists": [
       "Tones And I"
@@ -3303,6 +3318,28 @@
     "favorite": false
   },
   {
+    "name": "Wizards in Winter",
+    "artists": [
+      "Trans-Siberian Orchestra"
+    ],
+    "genre": [
+      "Holiday",
+      "Symphonic metal",
+      "progressive metal",
+      "heavy metal",
+      "hard rock",
+      "neoclassical metal"
+    ],
+    "midiFile": "Wizards_in_Winter_for_eight_hands.mid",
+    "artwork": "Wizards_in_Winter.jpg",
+    "tags": [
+      "Christmas"
+    ],
+    "favorite": false,
+    "songLengthMS": 158667,
+    "noteCount": 3449
+  },
+  {
     "name": "World's End Valentine",
     "artists": [
       "Pedro Silva"
@@ -3380,37 +3417,5 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
-  },
-  {
-    "name": "Daisy Bell",
-    "artists": [
-      "Harry Dacre"
-    ],
-    "midiFile": "daisybell.mid",
-    "artwork": "daisybell.jpeg",
-    "genre": [],
-    "tags": [
-      "ibm"
-    ],
-    "favorite": true
-  },
-  {
-    "name": "Wizards in Winter",
-    "artists": [
-      "Trans-Siberian Orchestra"
-    ],
-    "genre": [
-      "Holiday",
-      "Symphonic metal",
-      "progressive metal",
-      "heavy metal",
-      "hard rock",
-      "neoclassical metal"
-    ],
-    "midiFile": "Wizards_in_Winter_for_eight_hands.mid",
-    "artwork": "Wizards_in_Winter.jpg",
-    "tags": [
-      "Christmas"
-    ]
   }
 ]
