@@ -3393,5 +3393,24 @@
       "ibm"
     ],
     "favorite": true
+  },
+  {
+    "name": "Wizards in Winter",
+    "artists": [
+      "Trans-Siberian Orchestra"
+    ],
+    "genre": [
+      "Holiday",
+      "Symphonic metal",
+      "progressive metal",
+      "heavy metal",
+      "hard rock",
+      "neoclassical metal"
+    ],
+    "midiFile": "Wizards_in_Winter_for_eight_hands.mid",
+    "artwork": "Wizards_in_Winter.jpg",
+    "tags": [
+      "Christmas"
+    ]
   }
 ]
