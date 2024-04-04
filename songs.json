@@ -2045,10 +2045,12 @@
     "artists": [
       "Joe Hisaishi"
     ],
-    "midiFile": "Merry_go_round_of_life.mid",
+    "midiFile": "merrygoround.mid",
     "artwork": "merrygoround.jpg",
     "genre": [],
-    "tags": [],
+    "tags": [
+      "anime"
+    ],
     "favorite": true,
     "songLengthMS": 351899,
     "noteCount": 3274
