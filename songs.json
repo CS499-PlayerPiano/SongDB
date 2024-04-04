@@ -36,7 +36,7 @@
       "p7urple"
     ],
     "midiFile": "12th_Street_Rag.mid",
-    "artwork": "12th_Street_Rag.png",
+    "artwork": "12thstreet.jpg",
     "genre": [
       "Jazz",
       "Ragtime"
@@ -1343,7 +1343,7 @@
       "Mahito Yokota, Avi Mittal"
     ],
     "midiFile": "Gusty_Garden_Piano.mid",
-    "artwork": "SuperMarioGalaxy.png",
+    "artwork": "galaxy.jpg",
     "genre": [],
     "tags": [
       "video game",
@@ -1677,7 +1677,7 @@
       "Alf Inge Wang"
     ],
     "midiFile": "Kahoot.mid",
-    "artwork": "Kahoot.png",
+    "artwork": "kahoot.jpg",
     "genre": [],
     "tags": [
       "meme"
@@ -2780,7 +2780,7 @@
       "ForeverBound"
     ],
     "midiFile": "Stereo Madness.mid",
-    "artwork": "Geometry_Dash_Logo.png",
+    "artwork": "gd.jpg",
     "genre": [
       "Electronic",
       "Chiptune"
