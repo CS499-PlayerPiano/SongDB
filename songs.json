@@ -351,7 +351,7 @@
     ],
     "songLengthMS": 245264,
     "noteCount": 3452,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Autumn Leaves",
@@ -393,7 +393,7 @@
     ],
     "songLengthMS": 213912,
     "noteCount": 2655,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Bad Piggies Theme",
@@ -409,7 +409,7 @@
     ],
     "songLengthMS": 121934,
     "noteCount": 1616,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Bad Romance",
@@ -431,7 +431,7 @@
     ],
     "songLengthMS": 284237,
     "noteCount": 3526,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Beethovens Virus",
@@ -1495,7 +1495,7 @@
     ],
     "songLengthMS": 81425,
     "noteCount": 1109,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Homage",
@@ -1564,7 +1564,7 @@
     "tags": [
       "Halloween"
     ],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 124481,
     "noteCount": 1197
   },
@@ -1627,7 +1627,7 @@
     ],
     "songLengthMS": 133392,
     "noteCount": 1479,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Instant Crush",
@@ -2619,7 +2619,7 @@
     "tags": [],
     "songLengthMS": 166983,
     "noteCount": 840,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Rockefeller Street",
@@ -2636,7 +2636,7 @@
     ],
     "songLengthMS": 143221,
     "noteCount": 1389,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Rocket Barrel 1",
@@ -3534,7 +3534,7 @@
     "tags": [
       "Christmas"
     ],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 158667,
     "noteCount": 3449
   },
