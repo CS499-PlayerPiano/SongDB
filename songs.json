@@ -367,7 +367,8 @@
       "Trance"
     ],
     "tags": [
-      "video game"
+      "video game",
+      "Geometry Dash"
     ],
     "songLengthMS": 245264,
     "noteCount": 3452,
@@ -967,7 +968,8 @@
     "midiFile": "Electrodynamix.mid",
     "artwork": "Electrodynamix.jpg",
     "tags": [
-      "video game"
+      "video game",
+      "Geometry Dash"
     ],
     "genre": [],
     "favorite": false,
@@ -1424,12 +1426,16 @@
   {
     "name": "He's a Pirate",
     "artists": [
-      "Pirates of the Caribbean"
+      "Klaus Badelt",
+      "Geoff Zanelli",
+      "Hans Zimmer" 
     ],
     "midiFile": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.mid",
     "artwork": "Pirates_of_the_Caribbean_The_Curse_of_the_Black_Pearl_-_Hes_A_Pirate__Piano_Solo.jpg",
     "genre": [],
-    "tags": [],
+    "tags": [
+      "Pirates of the Caribbean"
+    ],
     "songLengthMS": 81425,
     "noteCount": 1109,
     "favorite": false
@@ -1969,7 +1975,10 @@
     ],
     "midiFile": "PIANO_CHALLENGE_Ludicrous_Speed_F-777.mid",
     "artwork": "PIANO_CHALLENGE_Ludicrous_Speed_F-777.jpg",
-    "tags": [],
+    "tags": [
+      "Geometry Dash",
+      "Video Game"
+    ],
     "genre": [],
     "favorite": true,
     "songLengthMS": 172047,
@@ -3432,5 +3441,136 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Buddy Holly",
+    "artists": [
+      "Weezer"
+    ],
+    "midiFile": "BuddyHolly.mid",
+    "artwork": "weezer.jpg",
+    "genre": [],
+    "tags": [
+      "anime",
+      "meme"
+    ]
+  },
+  {
+    "name": "Gang Plank Galleon",
+    "artists": [
+      "Shogo Sakai"
+    ],
+    "midiFile": "GangPlankGalleon.mid",
+    "artwork": "GangPlankGalleon.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "nintendo"
+    ]
+  },
+  {
+    "name": "Davy Jones",
+    "artists": [
+      "Hans Zimmer"
+    ],
+    "midiFile": "DavyJones.mid",
+    "artwork": "DavyJones.jpg",
+    "genre": [],
+    "tags": [
+      "Pirates of the Caribbean"
+    ]
+  },
+  {
+    "name": "Castle Vein",
+    "artists": [
+      "Heaven Pierce Her"
+    ],
+    "midiFile": "HeavenPierceHer.mid",
+    "artwork": "HeavenPierceHer.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "ULTRAKILL"
+    ]
+  },
+  {
+    "name": "Mario Kart Wii Credits",
+    "artists": [
+      "Asuka Ohta"
+    ],
+    "midiFile": "MKWCredits.mid",
+    "artwork": "Mario_Kart_Wii_OST.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "Nintendo",
+      "Mario Kart"
+    ]
+  },
+  {
+    "name": "Rainbow Road",
+    "artists": [
+      "Shinobu Tanaka",
+      "Asuka Ohta"
+    ],
+    "midiFile": "RainbowRoad.mid",
+    "artwork": "Mario_Kart_Wii_OST.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "Nintendo",
+      "Mario Kart"
+    ]
+  },
+  {
+    "name": "Rocket Barrel 1",
+    "artists": [
+      "Kenji Yamamoto"
+    ],
+    "midiFile": "RocketBarrel.mid",
+    "artwork": "DKC.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "Nintendo"
+    ]
+  },
+  {
+    "name": "Say It Ain't So",
+    "artists": [
+      "Weezer"
+    ],
+    "midiFile": "SayItAintSo.mid",
+    "artwork": "Weezer.jpg",
+    "genre": [],
+    "tags": [
+    ]
+  },
+  {
+    "name": "Super Metroid Theme",
+    "artists": [
+      "Kenji Yamamoto",
+      "Minako Hamano"
+    ],
+    "midiFile": "SuperMetroidTheme.mid",
+    "artwork": "metroid.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "nintendo"      
+    ]
+  },
+  {
+    "name": "The Fire Is Gone",
+    "artists": [
+      "Heaven Pierce Her"
+    ],
+    "midiFile": "TheFireIsGone.mid",
+    "artwork": "fireisgone.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "ULTRAKILL"
+    ]
   }
 ]
