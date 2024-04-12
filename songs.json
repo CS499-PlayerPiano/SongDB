@@ -1555,7 +1555,9 @@
     "tags": [
       "classical"
     ],
-    "favorite": false
+    "favorite": false,
+    "songLengthMS": 499062,
+    "noteCount": 6793
   },
   {
     "name": "I Got No Time",
