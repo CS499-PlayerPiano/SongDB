@@ -1545,21 +1545,6 @@
     "favorite": false
   },
   {
-    "name": "Hungarian Rhapsody No. 2",
-    "artists": [
-      "Franz Liszt"
-    ],
-    "midiFile": "Hungarian_Rhapsody_No._2.mid",
-    "artwork": "franzliszt.jpg",
-    "genre": [],
-    "tags": [
-      "classical"
-    ],
-    "favorite": false,
-    "songLengthMS": 499062,
-    "noteCount": 6793
-  },
-  {
     "name": "I Got No Time",
     "artists": [
       "The Living Tombstone"
