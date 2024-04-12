@@ -39,16 +39,6 @@ java -jar PianoController.jar help
 java -jar PianoController.jar run-server
 ```
 
-### Convert MIDI to Piano file
-```bash
-java -jar PianoController.jar parse-midi --input input.mid --output output.piano
-java -jar PianoController.jar parse-midi -i input.mid -o output.piano
-
-# Version defaults to latest
-java -jar PianoController.jar parse-midi --input input.mid --output output.piano --version 6
-java -jar PianoController.jar parse-midi -i input.mid -o output.piano -v 6
-```
-
 ### SongDB Verification
 ```bash
 java -jar PianoController.jar songdb-verification
