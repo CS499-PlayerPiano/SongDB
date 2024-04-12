@@ -2662,7 +2662,7 @@
     "artists": [
       "SheetMusicBoss"
     ],
-    "midiFile": "RUSH_E_FINAL.mid",
+    "midiFile": "rush e no note slams 2.mid",
     "artwork": "Rush_E_but_its_as_difficult_as_humanly_possible.jpg",
     "genre": [],
     "tags": [
@@ -3600,6 +3600,62 @@
     ],
     "songLengthMS": 165290,
     "noteCount": 1065,
+    "favorite": false
+  },
+  {
+    "name": "Sonate No.14 Moonlight 1st Movement Nightmare",
+    "artists": [
+      "Beethoven"
+    ],
+    "midiFile": "Moonlight_Sonata_Nightmare.mid",
+    "artwork": "Ludwig-van-Beethoven-cool.png",
+    "genre": [],
+    "tags": [
+      "classical",
+      "Moonlight Sonata",
+      "nightmare",
+      "Remix"
+    ],
+    "favorite": false
+  },
+  {
+    "name": "Night of Nights",
+    "artists": [
+      "ZUN"
+    ],
+    "midiFile": "beatMARIO - Night of Nights.mid",
+    "artwork": "night-of-nights.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "Touhou"
+    ],
+    "favorite": false
+  },
+  {
+    "name": "Circus Galop",
+    "artists": [
+      "Marc-André Hamelin"
+    ],
+    "midiFile": "Circus_Galop__Marc-Andr_Hamelin_score_edited.mid",
+    "artwork": "NULL.jpg",
+    "genre": [],
+    "tags": [
+      "impossible"
+    ],
+    "favorite": false
+  },
+  {
+    "name": "Hungarian Rhapsody No. 2",
+    "artists": [
+      "Franz Liszt"
+    ],
+    "midiFile": "Hungarian_Rhapsody_No._2.mid",
+    "artwork": "franzliszt.jpg",
+    "genre": [],
+    "tags": [
+      "classical"
+    ],
     "favorite": false
   }
 ]
