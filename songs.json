@@ -672,6 +672,21 @@
     "noteCount": 1843
   },
   {
+    "name": "Circus Galop",
+    "artists": [
+      "Marc-André Hamelin"
+    ],
+    "midiFile": "Circus_Galop__Marc-Andr_Hamelin_score_edited.mid",
+    "artwork": "NULL.jpg",
+    "genre": [],
+    "tags": [
+      "impossible"
+    ],
+    "favorite": false,
+    "songLengthMS": 266462,
+    "noteCount": 18024
+  },
+  {
     "name": "Clair De Lune",
     "artists": [
       "Debussy"
@@ -1530,6 +1545,21 @@
     "favorite": false
   },
   {
+    "name": "Hungarian Rhapsody No. 2",
+    "artists": [
+      "Franz Liszt"
+    ],
+    "midiFile": "Hungarian_Rhapsody_No._2.mid",
+    "artwork": "franzliszt.jpg",
+    "genre": [],
+    "tags": [
+      "classical"
+    ],
+    "favorite": false,
+    "songLengthMS": -932842,
+    "noteCount": 6793
+  },
+  {
     "name": "I Got No Time",
     "artists": [
       "The Living Tombstone"
@@ -2308,6 +2338,22 @@
     "favorite": false
   },
   {
+    "name": "Night of Nights",
+    "artists": [
+      "ZUN"
+    ],
+    "midiFile": "beatMARIO - Night of Nights.mid",
+    "artwork": "night-of-nights.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "Touhou"
+    ],
+    "favorite": false,
+    "songLengthMS": 189333,
+    "noteCount": 3131
+  },
+  {
     "name": "Nocturne in E flat major, Op. 9 No. 2",
     "artists": [
       "Chopin"
@@ -2669,8 +2715,8 @@
       "meme",
       "impossible"
     ],
-    "songLengthMS": 171882,
-    "noteCount": 998261,
+    "songLengthMS": 139997,
+    "noteCount": 20571,
     "favorite": false
   },
   {
@@ -2798,6 +2844,24 @@
     "songLengthMS": 376360,
     "noteCount": 1147,
     "favorite": false
+  },
+  {
+    "name": "Sonate No.14 Moonlight 1st Movement Nightmare",
+    "artists": [
+      "Beethoven"
+    ],
+    "midiFile": "Moonlight_Sonata_Nightmare.mid",
+    "artwork": "Ludwig-van-Beethoven-cool.png",
+    "genre": [],
+    "tags": [
+      "classical",
+      "Moonlight Sonata",
+      "nightmare",
+      "Remix"
+    ],
+    "favorite": false,
+    "songLengthMS": 315539,
+    "noteCount": 4719
   },
   {
     "name": "Song That Might Play When You Fight Sans",
@@ -3600,62 +3664,6 @@
     ],
     "songLengthMS": 165290,
     "noteCount": 1065,
-    "favorite": false
-  },
-  {
-    "name": "Sonate No.14 Moonlight 1st Movement Nightmare",
-    "artists": [
-      "Beethoven"
-    ],
-    "midiFile": "Moonlight_Sonata_Nightmare.mid",
-    "artwork": "Ludwig-van-Beethoven-cool.png",
-    "genre": [],
-    "tags": [
-      "classical",
-      "Moonlight Sonata",
-      "nightmare",
-      "Remix"
-    ],
-    "favorite": false
-  },
-  {
-    "name": "Night of Nights",
-    "artists": [
-      "ZUN"
-    ],
-    "midiFile": "beatMARIO - Night of Nights.mid",
-    "artwork": "night-of-nights.jpg",
-    "genre": [],
-    "tags": [
-      "video game",
-      "Touhou"
-    ],
-    "favorite": false
-  },
-  {
-    "name": "Circus Galop",
-    "artists": [
-      "Marc-André Hamelin"
-    ],
-    "midiFile": "Circus_Galop__Marc-Andr_Hamelin_score_edited.mid",
-    "artwork": "NULL.jpg",
-    "genre": [],
-    "tags": [
-      "impossible"
-    ],
-    "favorite": false
-  },
-  {
-    "name": "Hungarian Rhapsody No. 2",
-    "artists": [
-      "Franz Liszt"
-    ],
-    "midiFile": "Hungarian_Rhapsody_No._2.mid",
-    "artwork": "franzliszt.jpg",
-    "genre": [],
-    "tags": [
-      "classical"
-    ],
     "favorite": false
   }
 ]
