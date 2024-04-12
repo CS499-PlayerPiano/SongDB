@@ -188,27 +188,6 @@
     "favorite": false
   },
   {
-    "name": "All I want for Christmas is You",
-    "artists": [
-      "Mariah Carey"
-    ],
-    "midiFile": "All_I_Want_For_Christmas_Is_You_-_Mariah_Carey.mid",
-    "artwork": "Mariah_Carey.jpg",
-    "genre": [
-      "Funk / Soul",
-      "Pop",
-      "R&B",
-      "Swing",
-      "Holiday"
-    ],
-    "tags": [
-      "Christmas"
-    ],
-    "favorite": false,
-    "songLengthMS": 192859,
-    "noteCount": 2076
-  },
-  {
     "name": "All Star",
     "artists": [
       "Smash Mouth"
