@@ -3629,5 +3629,172 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "What is Love",
+    "artists": [
+      "Haddaway"
+    ],
+    "midiFile": "What_Is_Love.mid",
+    "artwork": "Haddaway-WhatIsLove.jpg",
+    "genre": [
+      "Dance",
+      "Eurodance",
+      "House",
+      "Techno"
+    ],
+    "tags": [
+      "Baby Don't Hurt Me",
+      "Baby Dont Hurt Me",
+      "Hurt me no more"
+    ]
+  },
+  {
+    "name": "Thunderstruck",
+    "artists": [
+      "AC/DC"
+    ],
+    "midiFile": "Thunderstruck.mid",
+    "artwork": "Thunderstruck.jpg",
+    "genre": [
+      "Rock",
+      "Hard Rock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rasputin",
+    "artists": [
+      "Boney M."
+    ],
+    "midiFile": "Ra_Ra_Rasputin.mid",
+    "artwork": "Rasputin.jpg",
+    "genre": [
+      "Disco",
+      "Pop"
+    ],
+    "tags": [
+      "Video Game",
+      "Just Dance",
+      "Ra Ra Rasputin"
+    ]
+  },
+  {
+    "name": "Looboon",
+    "artists": [
+      "Laura Shigihara",
+      "Plants vs. Zombies"
+    ],
+    "midiFile": "PVZ_Looboon_Mini_Games_WIP.mid",
+    "artwork": "PVZ.jpg",
+    "genre": [
+      "Video Game",
+      "Soundtrack",
+      "OST"
+    ],
+    "tags": [
+      "Plants vs. Zombies",
+      "PVZ",
+      "Looboon",
+      "Mini Games"
+    ]
+  },
+  {
+    "name": "O Come All Ye Faithful",
+    "artists": [
+      "John Francis Wade",
+      "Adeste Fideles"
+    ],
+    "midiFile": "O_Come_All_Ye_Faithful.mid",
+    "artwork": "Christmas.jpg",
+    "genre": [
+      "Christmas",
+      "Holiday",
+      "Carols"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Freebird",
+    "artists": [
+      "Lynyrd Skynyrd"
+    ],
+    "midiFile": "Free_Bird.mid",
+    "artwork": "freebird.jpg",
+    "genre": [
+      "Rock",
+      "Southern Rock",
+      "Blues Rock",
+      "Hard Rock"
+    ],
+    "tags": [
+      "meme"
+    ]
+  },
+  {
+    "name": "Deja Vu",
+    "artists": [
+      "Initial D",
+      "Tsuko G"
+    ],
+    "midiFile": "Deja_Vu.mid",
+    "artwork": "InitialD.jpg",
+    "genre": [
+      "Eurobeat",
+      "Italo Disco",
+      "Hi-NRG"
+    ],
+    "tags": [
+      "Initial D",
+      "Running in the 90s",
+      "meme"
+    ]
+  },
+  {
+    "name": "Call You Mine",
+    "artists": [
+      "The Chainsmokers",
+      "Bebe Rexha"
+    ],
+    "midiFile": "Call_You_Mine.mid",
+    "artwork": "The_Chainsmokers_-_Call_You_Mine.png",
+    "genre": [
+      "Dance",
+      "Pop"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Baba O'Riley",
+    "artists": [
+      "The Who",
+      "Pete Townshend"
+    ],
+    "midiFile": "Baba_ORiley.mid",
+    "artwork": "TheWho.jpg",
+    "genre": [
+      "Rock",
+      "Hard Rock",
+      "Progressive Rock"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Apologize",
+    "artists": [
+      "OneRepublic",
+      "Timbaland"
+    ],
+    "midiFile": "Apologize_-_One_Republic.mid",
+    "artwork": "ApologizeiTunesCover.png",
+    "genre": [
+      "Pop",
+      "Pop Rock",
+      "Alternative Rock"
+    ],
+    "tags": [
+      "Its too late to apologize",
+      "It's too late to apologize"
+    ]
   }
 ]
