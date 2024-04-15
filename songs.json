@@ -255,6 +255,27 @@
     "noteCount": 2025
   },
   {
+    "name": "Apologize",
+    "artists": [
+      "OneRepublic",
+      "Timbaland"
+    ],
+    "midiFile": "Apologize_-_One_Republic.mid",
+    "artwork": "ApologizeiTunesCover.png",
+    "genre": [
+      "Pop",
+      "Pop Rock",
+      "Alternative Rock"
+    ],
+    "tags": [
+      "Its too late to apologize",
+      "It's too late to apologize"
+    ],
+    "favorite": false,
+    "songLengthMS": 175998,
+    "noteCount": 1156
+  },
+  {
     "name": "Arabesque No. 1 in E major",
     "artists": [
       "Debussy"
@@ -365,6 +386,24 @@
     "favorite": false,
     "songLengthMS": 195800,
     "noteCount": 864
+  },
+  {
+    "name": "Baba O'Riley",
+    "artists": [
+      "The Who",
+      "Pete Townshend"
+    ],
+    "midiFile": "Baba_ORiley.mid",
+    "artwork": "TheWho.jpg",
+    "genre": [
+      "Rock",
+      "Hard Rock",
+      "Progressive Rock"
+    ],
+    "tags": [],
+    "favorite": false,
+    "songLengthMS": 159309,
+    "noteCount": 1561
   },
   {
     "name": "Back Pocket",
@@ -601,6 +640,23 @@
     "songLengthMS": 174526,
     "noteCount": 1590,
     "favorite": true
+  },
+  {
+    "name": "Call You Mine",
+    "artists": [
+      "The Chainsmokers",
+      "Bebe Rexha"
+    ],
+    "midiFile": "Call_You_Mine.mid",
+    "artwork": "The_Chainsmokers_-_Call_You_Mine.png",
+    "genre": [
+      "Dance",
+      "Pop"
+    ],
+    "tags": [],
+    "favorite": false,
+    "songLengthMS": 214513,
+    "noteCount": 2106
   },
   {
     "name": "Canon in D",
@@ -847,6 +903,28 @@
     "favorite": false,
     "songLengthMS": 86818,
     "noteCount": 1016
+  },
+  {
+    "name": "Deja Vu",
+    "artists": [
+      "Initial D",
+      "Tsuko G"
+    ],
+    "midiFile": "Deja_Vu.mid",
+    "artwork": "InitialD.jpg",
+    "genre": [
+      "Eurobeat",
+      "Italo Disco",
+      "Hi-NRG"
+    ],
+    "tags": [
+      "Initial D",
+      "Running in the 90s",
+      "meme"
+    ],
+    "favorite": false,
+    "songLengthMS": 247742,
+    "noteCount": 3278
   },
   {
     "name": "Despacito",
@@ -1179,6 +1257,26 @@
     "favorite": false,
     "songLengthMS": 148563,
     "noteCount": 596
+  },
+  {
+    "name": "Freebird",
+    "artists": [
+      "Lynyrd Skynyrd"
+    ],
+    "midiFile": "Free_Bird.mid",
+    "artwork": "freebird.jpg",
+    "genre": [
+      "Rock",
+      "Southern Rock",
+      "Blues Rock",
+      "Hard Rock"
+    ],
+    "tags": [
+      "meme"
+    ],
+    "favorite": false,
+    "songLengthMS": 410562,
+    "noteCount": 4269
   },
   {
     "name": "Freedom Dive",
@@ -1992,6 +2090,29 @@
     "noteCount": 1905
   },
   {
+    "name": "Looboon",
+    "artists": [
+      "Laura Shigihara",
+      "Plants vs. Zombies"
+    ],
+    "midiFile": "PVZ_Looboon_Mini_Games_WIP.mid",
+    "artwork": "PVZ.jpg",
+    "genre": [
+      "Video Game",
+      "Soundtrack",
+      "OST"
+    ],
+    "tags": [
+      "Plants vs. Zombies",
+      "PVZ",
+      "Looboon",
+      "Mini Games"
+    ],
+    "favorite": false,
+    "songLengthMS": 212999,
+    "noteCount": 2706
+  },
+  {
     "name": "Lose Yourself to Dance",
     "artists": [
       "Daft Punk"
@@ -2350,6 +2471,24 @@
     "noteCount": 723
   },
   {
+    "name": "O Come All Ye Faithful",
+    "artists": [
+      "John Francis Wade",
+      "Adeste Fideles"
+    ],
+    "midiFile": "O_Come_All_Ye_Faithful.mid",
+    "artwork": "Christmas.jpg",
+    "genre": [
+      "Christmas",
+      "Holiday",
+      "Carols"
+    ],
+    "tags": [],
+    "favorite": false,
+    "songLengthMS": 130749,
+    "noteCount": 1370
+  },
+  {
     "name": "Oddloop",
     "artists": [
       "frederic"
@@ -2590,6 +2729,26 @@
     "favorite": false,
     "songLengthMS": 164202,
     "noteCount": 1229
+  },
+  {
+    "name": "Rasputin",
+    "artists": [
+      "Boney M."
+    ],
+    "midiFile": "Ra_Ra_Rasputin.mid",
+    "artwork": "Rasputin.jpg",
+    "genre": [
+      "Disco",
+      "Pop"
+    ],
+    "tags": [
+      "Video Game",
+      "Just Dance",
+      "Ra Ra Rasputin"
+    ],
+    "favorite": false,
+    "songLengthMS": 266853,
+    "noteCount": 3175
   },
   {
     "name": "Redbone",
@@ -3247,6 +3406,22 @@
     "favorite": false
   },
   {
+    "name": "Thunderstruck",
+    "artists": [
+      "AC/DC"
+    ],
+    "midiFile": "Thunderstruck.mid",
+    "artwork": "Thunderstruck.jpg",
+    "genre": [
+      "Rock",
+      "Hard Rock"
+    ],
+    "tags": [],
+    "favorite": false,
+    "songLengthMS": 290953,
+    "noteCount": 3057
+  },
+  {
     "name": "Thé à la menthe",
     "artists": [
       "La Caution"
@@ -3501,6 +3676,28 @@
     "noteCount": 243
   },
   {
+    "name": "What is Love",
+    "artists": [
+      "Haddaway"
+    ],
+    "midiFile": "What_Is_Love.mid",
+    "artwork": "Haddaway-WhatIsLove.jpg",
+    "genre": [
+      "Dance",
+      "Eurodance",
+      "House",
+      "Techno"
+    ],
+    "tags": [
+      "Baby Don't Hurt Me",
+      "Baby Dont Hurt Me",
+      "Hurt me no more"
+    ],
+    "favorite": false,
+    "songLengthMS": 222499,
+    "noteCount": 2542
+  },
+  {
     "name": "Wii Shop Channel Theme",
     "artists": [
       "Kazumi Totaka"
@@ -3629,172 +3826,5 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
-  },
-  {
-    "name": "What is Love",
-    "artists": [
-      "Haddaway"
-    ],
-    "midiFile": "What_Is_Love.mid",
-    "artwork": "Haddaway-WhatIsLove.jpg",
-    "genre": [
-      "Dance",
-      "Eurodance",
-      "House",
-      "Techno"
-    ],
-    "tags": [
-      "Baby Don't Hurt Me",
-      "Baby Dont Hurt Me",
-      "Hurt me no more"
-    ]
-  },
-  {
-    "name": "Thunderstruck",
-    "artists": [
-      "AC/DC"
-    ],
-    "midiFile": "Thunderstruck.mid",
-    "artwork": "Thunderstruck.jpg",
-    "genre": [
-      "Rock",
-      "Hard Rock"
-    ],
-    "tags": []
-  },
-  {
-    "name": "Rasputin",
-    "artists": [
-      "Boney M."
-    ],
-    "midiFile": "Ra_Ra_Rasputin.mid",
-    "artwork": "Rasputin.jpg",
-    "genre": [
-      "Disco",
-      "Pop"
-    ],
-    "tags": [
-      "Video Game",
-      "Just Dance",
-      "Ra Ra Rasputin"
-    ]
-  },
-  {
-    "name": "Looboon",
-    "artists": [
-      "Laura Shigihara",
-      "Plants vs. Zombies"
-    ],
-    "midiFile": "PVZ_Looboon_Mini_Games_WIP.mid",
-    "artwork": "PVZ.jpg",
-    "genre": [
-      "Video Game",
-      "Soundtrack",
-      "OST"
-    ],
-    "tags": [
-      "Plants vs. Zombies",
-      "PVZ",
-      "Looboon",
-      "Mini Games"
-    ]
-  },
-  {
-    "name": "O Come All Ye Faithful",
-    "artists": [
-      "John Francis Wade",
-      "Adeste Fideles"
-    ],
-    "midiFile": "O_Come_All_Ye_Faithful.mid",
-    "artwork": "Christmas.jpg",
-    "genre": [
-      "Christmas",
-      "Holiday",
-      "Carols"
-    ],
-    "tags": []
-  },
-  {
-    "name": "Freebird",
-    "artists": [
-      "Lynyrd Skynyrd"
-    ],
-    "midiFile": "Free_Bird.mid",
-    "artwork": "freebird.jpg",
-    "genre": [
-      "Rock",
-      "Southern Rock",
-      "Blues Rock",
-      "Hard Rock"
-    ],
-    "tags": [
-      "meme"
-    ]
-  },
-  {
-    "name": "Deja Vu",
-    "artists": [
-      "Initial D",
-      "Tsuko G"
-    ],
-    "midiFile": "Deja_Vu.mid",
-    "artwork": "InitialD.jpg",
-    "genre": [
-      "Eurobeat",
-      "Italo Disco",
-      "Hi-NRG"
-    ],
-    "tags": [
-      "Initial D",
-      "Running in the 90s",
-      "meme"
-    ]
-  },
-  {
-    "name": "Call You Mine",
-    "artists": [
-      "The Chainsmokers",
-      "Bebe Rexha"
-    ],
-    "midiFile": "Call_You_Mine.mid",
-    "artwork": "The_Chainsmokers_-_Call_You_Mine.png",
-    "genre": [
-      "Dance",
-      "Pop"
-    ],
-    "tags": []
-  },
-  {
-    "name": "Baba O'Riley",
-    "artists": [
-      "The Who",
-      "Pete Townshend"
-    ],
-    "midiFile": "Baba_ORiley.mid",
-    "artwork": "TheWho.jpg",
-    "genre": [
-      "Rock",
-      "Hard Rock",
-      "Progressive Rock"
-    ],
-    "tags": []
-  },
-  {
-    "name": "Apologize",
-    "artists": [
-      "OneRepublic",
-      "Timbaland"
-    ],
-    "midiFile": "Apologize_-_One_Republic.mid",
-    "artwork": "ApologizeiTunesCover.png",
-    "genre": [
-      "Pop",
-      "Pop Rock",
-      "Alternative Rock"
-    ],
-    "tags": [
-      "Its too late to apologize",
-      "It's too late to apologize"
-    ]
   }
 ]
