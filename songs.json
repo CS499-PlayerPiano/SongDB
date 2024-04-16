@@ -3826,5 +3826,51 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Beetlejuice Theme",
+    "artists": [
+      "Danny Elfman"
+    ],
+    "midiFile": "Beetlejuice edited.mid",
+    "artwork": "Beetlejuice.jpg",
+    "genre": [],
+    "tags": [
+      "Children's",
+      "Stage & Screen",
+      "Soundtrack",
+      "Musical",
+      "OST"
+    ]
+  },
+  {
+    "name": "Moskau",
+    "artists": [
+      "Dschinghis Khan"
+    ],
+    "midiFile": "Moskau.mid",
+    "artwork": "Moskau.jpg",
+    "genre": [
+      "Pop",
+      "Disco",
+      "Eurodisco"
+    ],
+    "tags": [
+      "meme"
+    ]
+  },
+  {
+    "name": "Pinball Wizard",
+    "artists": [
+      "The Who"
+    ],
+    "midiFile": "Pinball_Wizard.mid",
+    "artwork": "TheWho.jpg",
+    "genre": [
+      "Rock",
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "tags": []
   }
 ]
