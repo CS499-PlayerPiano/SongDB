@@ -491,6 +491,25 @@
     "favorite": true
   },
   {
+    "name": "Beetlejuice Theme",
+    "artists": [
+      "Danny Elfman"
+    ],
+    "midiFile": "Beetlejuice edited.mid",
+    "artwork": "Beetlejuice.jpg",
+    "genre": [],
+    "tags": [
+      "Children's",
+      "Stage & Screen",
+      "Soundtrack",
+      "Musical",
+      "OST"
+    ],
+    "favorite": false,
+    "songLengthMS": 120257,
+    "noteCount": 2429
+  },
+  {
     "name": "begin again",
     "artists": [
       "Purity Ring"
@@ -2342,6 +2361,25 @@
     "noteCount": 1420
   },
   {
+    "name": "Moskau",
+    "artists": [
+      "Dschinghis Khan"
+    ],
+    "midiFile": "Moskau__Dschinghis_Khan_REMADE.mid",
+    "artwork": "Moskau.jpg",
+    "genre": [
+      "Pop",
+      "Disco",
+      "Eurodisco"
+    ],
+    "tags": [
+      "meme"
+    ],
+    "favorite": false,
+    "songLengthMS": 287403,
+    "noteCount": 4201
+  },
+  {
     "name": "Mr. Blue Sky",
     "artists": [
       "Electric Light Orchestra"
@@ -2605,6 +2643,23 @@
     "songLengthMS": 202829,
     "noteCount": 14305,
     "favorite": false
+  },
+  {
+    "name": "Pinball Wizard",
+    "artists": [
+      "The Who"
+    ],
+    "midiFile": "Pinball_Wizard.mid",
+    "artwork": "TheWho.jpg",
+    "genre": [
+      "Rock",
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "tags": [],
+    "favorite": false,
+    "songLengthMS": 201353,
+    "noteCount": 6685
   },
   {
     "name": "Pinna Park",
@@ -3826,51 +3881,5 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
-  },
-  {
-    "name": "Beetlejuice Theme",
-    "artists": [
-      "Danny Elfman"
-    ],
-    "midiFile": "Beetlejuice edited.mid",
-    "artwork": "Beetlejuice.jpg",
-    "genre": [],
-    "tags": [
-      "Children's",
-      "Stage & Screen",
-      "Soundtrack",
-      "Musical",
-      "OST"
-    ]
-  },
-  {
-    "name": "Moskau",
-    "artists": [
-      "Dschinghis Khan"
-    ],
-    "midiFile": "Moskau__Dschinghis_Khan_REMADE.mid",
-    "artwork": "Moskau.jpg",
-    "genre": [
-      "Pop",
-      "Disco",
-      "Eurodisco"
-    ],
-    "tags": [
-      "meme"
-    ]
-  },
-  {
-    "name": "Pinball Wizard",
-    "artists": [
-      "The Who"
-    ],
-    "midiFile": "Pinball_Wizard.mid",
-    "artwork": "TheWho.jpg",
-    "genre": [
-      "Rock",
-      "Classic Rock",
-      "Hard Rock"
-    ],
-    "tags": []
   }
 ]
