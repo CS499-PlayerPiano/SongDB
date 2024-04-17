@@ -3708,7 +3708,9 @@
     "tags": [
       "Sea Shanty"
     ],
-    "favorite": false
+    "favorite": false,
+    "songLengthMS": 162250,
+    "noteCount": 766
   },
   {
     "name": "Wet Hands",
