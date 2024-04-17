@@ -4118,5 +4118,54 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Galaxy Collapse",
+    "artists": [
+      "Kurokotei"
+    ],
+    "midiFile": "Galaxy_Collapse.mid",
+    "artwork": "galaxycollapse.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "anime",
+      "osu"
+    ]
+  },
+  {
+    "name": "The Final Countdown",
+    "artists": [
+      "Europe"
+    ],
+    "midiFile": "Final_Countdown.mid",
+    "artwork": "europe.png",
+    "genre": [],
+    "tags": []
+  },
+  {
+    "name": "Iris",
+    "artists": [
+      "Goo Goo Dolls"
+    ],
+    "midiFile": "Iris.mid",
+    "artwork": "your reality.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "anime"
+    ]
+  },
+  {
+    "name": "Entry of the Gladiators",
+    "artists": [
+      "Julius Fučík"
+    ],
+    "midiFile": "gladiators.mid",
+    "artwork": "clown.jpg",
+    "genre": [],
+    "tags": [
+      "clown"
+    ]
   }
 ]
