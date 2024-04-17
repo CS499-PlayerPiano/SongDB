@@ -25,7 +25,7 @@
       "Alternative Rock"
     ],
     "tags": [],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 238960,
     "noteCount": 1423
   },
@@ -401,7 +401,7 @@
       "Progressive Rock"
     ],
     "tags": [],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 159309,
     "noteCount": 1561
   },
@@ -941,7 +941,7 @@
       "Running in the 90s",
       "meme"
     ],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 247742,
     "noteCount": 3278
   },
@@ -1031,7 +1031,7 @@
     ],
     "songLengthMS": 89987,
     "noteCount": 738,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Duet",
@@ -1511,7 +1511,7 @@
     ],
     "songLengthMS": 113412,
     "noteCount": 873,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Great Fairy Fountain",
@@ -2375,7 +2375,7 @@
     "tags": [
       "meme"
     ],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 287403,
     "noteCount": 4201
   },
@@ -2801,7 +2801,7 @@
       "Just Dance",
       "Ra Ra Rasputin"
     ],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 266853,
     "noteCount": 3175
   },
@@ -3695,9 +3695,10 @@
     "name": "Wellerman",
     "artists": [
       "Nathan Evans",
-      "Santiano"
+      "Santiano",
+      "Billen Ted"
     ],
-    "midiFile": "Wellerman.mid",
+    "midiFile": "Wellerman_-_Nathan_Evans_BillenTed_Remix.mid",
     "artwork": "Wellerman.jpg",
     "genre": [
       "Pop",
@@ -3707,8 +3708,6 @@
     "tags": [
       "Sea Shanty"
     ],
-    "songLengthMS": 242505,
-    "noteCount": 968,
     "favorite": false
   },
   {
@@ -3748,7 +3747,7 @@
       "Baby Dont Hurt Me",
       "Hurt me no more"
     ],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 222499,
     "noteCount": 2542
   },
