@@ -1148,6 +1148,21 @@
     "noteCount": 1472
   },
   {
+    "name": "Entry of the Gladiators",
+    "artists": [
+      "Julius Fučík"
+    ],
+    "midiFile": "gladiators.mid",
+    "artwork": "clown.jpg",
+    "genre": [],
+    "tags": [
+      "clown"
+    ],
+    "favorite": false,
+    "songLengthMS": 170222,
+    "noteCount": 2487
+  },
+  {
     "name": "Epilogue",
     "artists": [
       "Anomalie"
@@ -1431,6 +1446,23 @@
     "songLengthMS": 157612,
     "noteCount": 2102,
     "favorite": false
+  },
+  {
+    "name": "Galaxy Collapse",
+    "artists": [
+      "Kurokotei"
+    ],
+    "midiFile": "Galaxy_Collapse.mid",
+    "artwork": "galaxycollapse.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "anime",
+      "osu"
+    ],
+    "favorite": false,
+    "songLengthMS": 405689,
+    "noteCount": 7898
   },
   {
     "name": "Gang Plank Galleon",
@@ -1862,6 +1894,22 @@
     "songLengthMS": 109986,
     "noteCount": 890,
     "favorite": false
+  },
+  {
+    "name": "Iris",
+    "artists": [
+      "Goo Goo Dolls"
+    ],
+    "midiFile": "Iris.mid",
+    "artwork": "your reality.jpg",
+    "genre": [],
+    "tags": [
+      "video game",
+      "anime"
+    ],
+    "favorite": false,
+    "songLengthMS": 280062,
+    "noteCount": 2239
   },
   {
     "name": "Isn't She Lovely",
@@ -3541,6 +3589,19 @@
     "favorite": false
   },
   {
+    "name": "The Final Countdown",
+    "artists": [
+      "Europe"
+    ],
+    "midiFile": "Final_Countdown.mid",
+    "artwork": "europe.png",
+    "genre": [],
+    "tags": [],
+    "favorite": false,
+    "songLengthMS": 270134,
+    "noteCount": 2880
+  },
+  {
     "name": "The Fire Is Gone",
     "artists": [
       "Heaven Pierce Her"
@@ -4118,54 +4179,5 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
-  },
-  {
-    "name": "Galaxy Collapse",
-    "artists": [
-      "Kurokotei"
-    ],
-    "midiFile": "Galaxy_Collapse.mid",
-    "artwork": "galaxycollapse.jpg",
-    "genre": [],
-    "tags": [
-      "video game",
-      "anime",
-      "osu"
-    ]
-  },
-  {
-    "name": "The Final Countdown",
-    "artists": [
-      "Europe"
-    ],
-    "midiFile": "Final_Countdown.mid",
-    "artwork": "europe.png",
-    "genre": [],
-    "tags": []
-  },
-  {
-    "name": "Iris",
-    "artists": [
-      "Goo Goo Dolls"
-    ],
-    "midiFile": "Iris.mid",
-    "artwork": "your reality.jpg",
-    "genre": [],
-    "tags": [
-      "video game",
-      "anime"
-    ]
-  },
-  {
-    "name": "Entry of the Gladiators",
-    "artists": [
-      "Julius Fučík"
-    ],
-    "midiFile": "gladiators.mid",
-    "artwork": "clown.jpg",
-    "genre": [],
-    "tags": [
-      "clown"
-    ]
   }
 ]
