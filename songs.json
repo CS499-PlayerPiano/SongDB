@@ -4179,5 +4179,40 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Africa",
+    "artists": [
+      "Toto"
+    ],
+    "midiFile": "Africa.mid",
+    "artwork": "africa.jpg",
+    "genre": [],
+    "tags": []
+  },
+  {
+    "name": "Cantina Band",
+    "artists": [
+      "John Williams"
+    ],
+    "midiFile": "Cantina_Band.mid",
+    "artwork": "cantina.jpg",
+    "genre": [],
+    "tags": [
+      "star wars"
+    ]
+  },
+  {
+    "name": "Cupid",
+    "artists": [
+      "Fifty Fifty"
+    ],
+    "midiFile": "Cupid.mid",
+    "artwork": "cupid.png",
+    "genre": [
+      "kpop",
+      "k-pop"
+    ],
+    "tags": []
   }
 ]
