@@ -4223,5 +4223,17 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Song For Denise",
+    "artists": [
+      "Piano Fantasia"
+    ],
+    "midiFile": "for_denise.mid",
+    "artwork": "putin.jpg",
+    "genre": [],
+    "tags": [
+      "meme"
+    ]
   }
 ]
