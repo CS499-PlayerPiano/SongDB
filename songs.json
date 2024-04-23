@@ -4282,5 +4282,60 @@
       "Soft Rock"
     ],
     "tags": []
+  },
+  {
+    "name": "Gimme Gimmie Gimmie",
+    "artists": [
+      "ABBA"
+    ],
+    "midiFile": "ABBA_-_Gimme_Gimme_Gimme.mid",
+    "artwork": "ABBA.jpg",
+    "genre": [
+      "70s",
+      "Disco",
+      "Pop"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Chiquitita",
+    "artists": [
+      "ABBA"
+    ],
+    "midiFile": "Chiquitita_-_ABBA.mid",
+    "artwork": "ABBA.jpg",
+    "genre": [
+      "70s",
+      "Pop"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dancing Queen",
+    "artists": [
+      "ABBA"
+    ],
+    "midiFile": "Dancing_queen_-_ABBA.mid",
+    "artwork": "ABBA.jpg",
+    "genre": [
+      "70s",
+      "Disco",
+      "Pop"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Money, Money, Money",
+    "artists": [
+      "ABBA"
+    ],
+    "midiFile": "Money_money_money_-_ABBA.mid",
+    "artwork": "ABBA.jpg",
+    "genre": [
+      "70s",
+      "Disco",
+      "Pop"
+    ],
+    "tags": []
   }
 ]
