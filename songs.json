@@ -4361,5 +4361,19 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Capstone Demo",
+    "artists": [
+      "Camden Hunt",
+      "Eric Golde"
+    ],
+    "midiFile": "CAPSTONE_DEMO.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ],
+    "favorite": false
   }
 ]
