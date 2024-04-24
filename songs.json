@@ -304,7 +304,7 @@
     "favorite": false
   },
   {
-    "name": "Around The World",
+    "name": "Around the World",
     "artists": [
       "Daft Punk"
     ],
@@ -1473,7 +1473,7 @@
     "noteCount": 596
   },
   {
-    "name": "Freebird",
+    "name": "Free Bird",
     "artists": [
       "Lynyrd Skynyrd"
     ],
@@ -1576,7 +1576,7 @@
     "noteCount": 7898
   },
   {
-    "name": "Gang Plank Galleon",
+    "name": "Gang-Plank Galleon",
     "artists": [
       "Shogo Sakai"
     ],
@@ -1630,7 +1630,7 @@
     "noteCount": 2078
   },
   {
-    "name": "Gimme Gimmie Gimmie",
+    "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
     "artists": [
       "ABBA"
     ],
@@ -1910,7 +1910,7 @@
     "noteCount": 857
   },
   {
-    "name": "I will Survive",
+    "name": "I Will Survive",
     "artists": [
       "Gloria Gaynor"
     ],
@@ -1974,7 +1974,7 @@
     "favorite": false
   },
   {
-    "name": "In The Hall Of The Mountain King",
+    "name": "In the Hall of the Mountain King",
     "artists": [
       "Edvard Grieg"
     ],
@@ -2380,7 +2380,7 @@
     "noteCount": 3148
   },
   {
-    "name": "Livin on a Prayer",
+    "name": "Livin' on a Prayer",
     "artists": [
       "Bon Jovi"
     ],
@@ -2393,7 +2393,7 @@
       "Hard Rock"
     ],
     "tags": [
-      "Were halfway there"
+      "We're halfway there"
     ],
     "favorite": false,
     "songLengthMS": 215032,
@@ -2402,8 +2402,7 @@
   {
     "name": "Lone Digger",
     "artists": [
-      "Caravan Palace",
-      "LyricWulf"
+      "Caravan Palace"
     ],
     "midiFile": "Lone Digger.mid",
     "artwork": "CaravanPalace.jpg",
@@ -2889,7 +2888,7 @@
     "noteCount": 723
   },
   {
-    "name": "O Come All Ye Faithful",
+    "name": "O Come, All Ye Faithful",
     "artists": [
       "John Francis Wade",
       "Adeste Fideles"
@@ -3423,7 +3422,7 @@
     "noteCount": 176
   },
   {
-    "name": "Sonate No.14 Moonlight 1st Movement",
+    "name": "Sonata No.14 Moonlight 1st Movement",
     "artists": [
       "Beethoven"
     ],
@@ -3439,7 +3438,7 @@
     "favorite": false
   },
   {
-    "name": "Sonate No.14 Moonlight 1st Movement Nightmare",
+    "name": "Sonata No.14 Moonlight 1st Movement Nightmare",
     "artists": [
       "Beethoven"
     ],
@@ -3816,7 +3815,7 @@
     "noteCount": 442
   },
   {
-    "name": "The Girl from Ipanema",
+    "name": "The Girl From Ipanema",
     "artists": [
       "Stan Getz"
     ],
@@ -3835,7 +3834,9 @@
     ],
     "midiFile": "The_Lamp_is_Low.mid",
     "artwork": "The_Lamp_is_Low.jpg",
-    "tags": [],
+    "tags": [
+      "meme"
+    ],
     "genre": [],
     "favorite": false,
     "songLengthMS": 161352,
