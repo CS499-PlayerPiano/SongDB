@@ -4396,5 +4396,122 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Cat",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Cat.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ]
+  },
+  {
+    "name": "Chirp",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Chirp.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ]
+  },
+  {
+    "name": "Far",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Far.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ]
+  },
+  {
+    "name": "Mall",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Mall.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ]
+  },
+  {
+    "name": "Mellohi",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Mellohi.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ]
+  },
+  {
+    "name": "Stal",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Stal.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ]
+  },
+  {
+    "name": "Strad",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Strad.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ]
+  },
+  {
+    "name": "Pigstep",
+    "artists": [
+      "Lena Raine"
+    ],
+    "midiFile": "Pigstep.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ]
+  },
+  {
+    "name": "Otherside",
+    "artists": [
+      "Lena Raine"
+    ],
+    "midiFile": "Otherside.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ]
   }
 ]
