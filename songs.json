@@ -735,8 +735,8 @@
       "debugging"
     ],
     "favorite": false,
-    "songLengthMS": 30256,
-    "noteCount": 90
+    "songLengthMS": 307391,
+    "noteCount": 3044
   },
   {
     "name": "Capstone Demo 2",
@@ -749,7 +749,10 @@
     "genre": [],
     "tags": [
       "debugging"
-    ]
+    ],
+    "favorite": false,
+    "songLengthMS": 103368,
+    "noteCount": 2078
   },
   {
     "name": "Carol of the Bells",
