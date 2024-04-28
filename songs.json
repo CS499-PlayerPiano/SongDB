@@ -739,6 +739,19 @@
     "noteCount": 90
   },
   {
+    "name": "Capstone Demo 2",
+    "artists": [
+      "Camden Hunt",
+      "Eric Golde"
+    ],
+    "midiFile": "CAPSTONE_DEMO2.mid",
+    "artwork": "PianoDebugging.png",
+    "genre": [],
+    "tags": [
+      "debugging"
+    ]
+  },
+  {
     "name": "Carol of the Bells",
     "artists": [
       "Mykola Leontovych"
@@ -890,7 +903,7 @@
       "k-pop"
     ],
     "tags": [],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 175999,
     "noteCount": 1663
   },
@@ -1353,7 +1366,7 @@
     ],
     "songLengthMS": 307391,
     "noteCount": 3044,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Fast full scale",
@@ -1625,7 +1638,7 @@
     "tags": [
       "video game"
     ],
-    "favorite": false,
+    "favorite": true,
     "songLengthMS": 103368,
     "noteCount": 2078
   },
@@ -2421,7 +2434,7 @@
     ],
     "songLengthMS": 238005,
     "noteCount": 3770,
-    "favorite": false
+    "favorite": true
   },
   {
     "name": "Lonely Rolling Star",
