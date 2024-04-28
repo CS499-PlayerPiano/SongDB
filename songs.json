@@ -786,6 +786,22 @@
     "noteCount": 1843
   },
   {
+    "name": "Cat",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Cat.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ],
+    "favorite": false,
+    "songLengthMS": 195325,
+    "noteCount": 1011
+  },
+  {
     "name": "Chiquitita",
     "artists": [
       "ABBA"
@@ -800,6 +816,22 @@
     "favorite": false,
     "songLengthMS": 322500,
     "noteCount": 3152
+  },
+  {
+    "name": "Chirp",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Chirp.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ],
+    "favorite": false,
+    "songLengthMS": 183274,
+    "noteCount": 900
   },
   {
     "name": "Circus Galop",
@@ -1370,6 +1402,22 @@
     "songLengthMS": 307391,
     "noteCount": 3044,
     "favorite": true
+  },
+  {
+    "name": "Far",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Far.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ],
+    "favorite": false,
+    "songLengthMS": 169848,
+    "noteCount": 687
   },
   {
     "name": "Fast full scale",
@@ -2529,6 +2577,22 @@
     "noteCount": 2542
   },
   {
+    "name": "Mall",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Mall.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ],
+    "favorite": false,
+    "songLengthMS": 200582,
+    "noteCount": 1308
+  },
+  {
     "name": "Mamma Mia",
     "artists": [
       "ABBA"
@@ -2624,6 +2688,22 @@
     "songLengthMS": 155993,
     "noteCount": 1812,
     "favorite": false
+  },
+  {
+    "name": "Mellohi",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Mellohi.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ],
+    "favorite": false,
+    "songLengthMS": 100430,
+    "noteCount": 642
   },
   {
     "name": "Merry-Go-Round of Life",
@@ -2985,6 +3065,22 @@
     "noteCount": 1154
   },
   {
+    "name": "Otherside",
+    "artists": [
+      "Lena Raine"
+    ],
+    "midiFile": "Otherside.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ],
+    "favorite": false,
+    "songLengthMS": 197033,
+    "noteCount": 1409
+  },
+  {
     "name": "Ouverture",
     "artists": [
       "Anomalie"
@@ -3057,6 +3153,22 @@
     "songLengthMS": 202829,
     "noteCount": 14305,
     "favorite": false
+  },
+  {
+    "name": "Pigstep",
+    "artists": [
+      "Lena Raine"
+    ],
+    "midiFile": "Pigstep.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ],
+    "favorite": false,
+    "songLengthMS": 138283,
+    "noteCount": 1090
   },
   {
     "name": "Pinball Wizard",
@@ -3604,6 +3716,22 @@
     "favorite": false
   },
   {
+    "name": "Stal",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Stal.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ],
+    "favorite": false,
+    "songLengthMS": 150910,
+    "noteCount": 529
+  },
+  {
     "name": "Stay With Me",
     "artists": [
       "Miki Matsubara"
@@ -3662,6 +3790,22 @@
     "favorite": false,
     "songLengthMS": 226949,
     "noteCount": 1693
+  },
+  {
+    "name": "Strad",
+    "artists": [
+      "C418"
+    ],
+    "midiFile": "Strad.mid",
+    "artwork": "Minecraft.jpg",
+    "genre": [],
+    "tags": [
+      "minecraft",
+      "video game"
+    ],
+    "favorite": false,
+    "songLengthMS": 170935,
+    "noteCount": 622
   },
   {
     "name": "Super Bell Hill",
@@ -4396,122 +4540,5 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
-  },
-  {
-    "name": "Cat",
-    "artists": [
-      "C418"
-    ],
-    "midiFile": "Cat.mid",
-    "artwork": "Minecraft.jpg",
-    "genre": [],
-    "tags": [
-      "minecraft",
-      "video game"
-    ]
-  },
-  {
-    "name": "Chirp",
-    "artists": [
-      "C418"
-    ],
-    "midiFile": "Chirp.mid",
-    "artwork": "Minecraft.jpg",
-    "genre": [],
-    "tags": [
-      "minecraft",
-      "video game"
-    ]
-  },
-  {
-    "name": "Far",
-    "artists": [
-      "C418"
-    ],
-    "midiFile": "Far.mid",
-    "artwork": "Minecraft.jpg",
-    "genre": [],
-    "tags": [
-      "minecraft",
-      "video game"
-    ]
-  },
-  {
-    "name": "Mall",
-    "artists": [
-      "C418"
-    ],
-    "midiFile": "Mall.mid",
-    "artwork": "Minecraft.jpg",
-    "genre": [],
-    "tags": [
-      "minecraft",
-      "video game"
-    ]
-  },
-  {
-    "name": "Mellohi",
-    "artists": [
-      "C418"
-    ],
-    "midiFile": "Mellohi.mid",
-    "artwork": "Minecraft.jpg",
-    "genre": [],
-    "tags": [
-      "minecraft",
-      "video game"
-    ]
-  },
-  {
-    "name": "Stal",
-    "artists": [
-      "C418"
-    ],
-    "midiFile": "Stal.mid",
-    "artwork": "Minecraft.jpg",
-    "genre": [],
-    "tags": [
-      "minecraft",
-      "video game"
-    ]
-  },
-  {
-    "name": "Strad",
-    "artists": [
-      "C418"
-    ],
-    "midiFile": "Strad.mid",
-    "artwork": "Minecraft.jpg",
-    "genre": [],
-    "tags": [
-      "minecraft",
-      "video game"
-    ]
-  },
-  {
-    "name": "Pigstep",
-    "artists": [
-      "Lena Raine"
-    ],
-    "midiFile": "Pigstep.mid",
-    "artwork": "Minecraft.jpg",
-    "genre": [],
-    "tags": [
-      "minecraft",
-      "video game"
-    ]
-  },
-  {
-    "name": "Otherside",
-    "artists": [
-      "Lena Raine"
-    ],
-    "midiFile": "Otherside.mid",
-    "artwork": "Minecraft.jpg",
-    "genre": [],
-    "tags": [
-      "minecraft",
-      "video game"
-    ]
   }
 ]
