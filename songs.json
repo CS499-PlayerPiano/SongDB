@@ -1032,24 +1032,6 @@
     "noteCount": 3278
   },
   {
-    "name": "Delfino Plaza",
-    "artists": [
-      "Koji Kondo"
-    ],
-    "midiFile": "Delfino_Plaza.mid",
-    "artwork": "pinnapark.jpg",
-    "genre": [],
-    "tags": [
-      "nintendo",
-      "super mario sunshine",
-      "mario",
-      "gamecube"
-    ],
-    "favorite": false,
-    "songLengthMS": 102202,
-    "noteCount": 1319
-  },
-  {
     "name": "Despacito",
     "artists": [
       "Luis Fonsi"
