@@ -2811,6 +2811,21 @@
     "noteCount": 1721
   },
   {
+    "name": "Musician",
+    "artists": [
+      "Porter Robinson"
+    ],
+    "midiFile": "Porter Robinson - Musician.mid",
+    "artwork": "PorterRobinson.jpg",
+    "genre": [],
+    "tags": [
+      "Electronic"
+    ],
+    "favorite": false,
+    "songLengthMS": 237787,
+    "noteCount": 2928
+  },
+  {
     "name": "My Time",
     "artists": [
       "bo en"
@@ -4435,19 +4450,6 @@
     ],
     "songLengthMS": 165290,
     "noteCount": 1065,
-    "favorite": false
-  },
-  {
-    "name": "Musician",
-    "artists": [
-      "Porter Robinson"
-    ],
-    "midiFile": "Porter Robinson - Musician.mid",
-    "artwork": "PorterRobinson.jpg",
-    "genre": [],
-    "tags": [
-      "Electronic"
-    ],
     "favorite": false
   }
 ]
