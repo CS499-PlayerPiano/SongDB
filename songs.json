@@ -80,19 +80,6 @@
     "noteCount": 20
   },
   {
-    "name": "2112",
-    "artists": [
-      "Rush"
-    ],
-    "midiFile": "2112.mid",
-    "artwork": "2112.jpg",
-    "tags": [],
-    "genre": [],
-    "favorite": false,
-    "songLengthMS": 1383892,
-    "noteCount": 22456
-  },
-  {
     "name": "4 notes per second",
     "artists": [
       "Camden Hunt"
@@ -253,19 +240,6 @@
     "songLengthMS": 155434,
     "noteCount": 2541,
     "favorite": false
-  },
-  {
-    "name": "Animal Spirits",
-    "artists": [
-      "Vulfpeck"
-    ],
-    "midiFile": "Animal_Spirits_-_Vulfpeck.mid",
-    "artwork": "Animal_Spirits_-_Vulfpeck.jpg",
-    "tags": [],
-    "genre": [],
-    "favorite": false,
-    "songLengthMS": 168824,
-    "noteCount": 2025
   },
   {
     "name": "Apologize",
@@ -770,22 +744,6 @@
     "favorite": false
   },
   {
-    "name": "Castle Vein",
-    "artists": [
-      "Heaven Pierce Her"
-    ],
-    "midiFile": "HeavenPierceHer.mid",
-    "artwork": "HeavenPierceHer.jpg",
-    "genre": [],
-    "tags": [
-      "video game",
-      "ULTRAKILL"
-    ],
-    "favorite": false,
-    "songLengthMS": 209893,
-    "noteCount": 1843
-  },
-  {
     "name": "Cat",
     "artists": [
       "C418"
@@ -916,7 +874,7 @@
     "artists": [
       "Yoko Takahashi"
     ],
-    "midiFile": "Cruel_Angels_Thesis_-_Piano_Cover_by_Theishter.mid",
+    "midiFile": "cruelangel.mid",
     "artwork": "Cruel_Angels_Thesis_-_Piano_Cover_by_Theishter.jpg",
     "genre": [],
     "tags": [
@@ -1050,19 +1008,6 @@
     "favorite": false,
     "songLengthMS": 177391,
     "noteCount": 1502
-  },
-  {
-    "name": "Day N' Nite",
-    "artists": [
-      "Kid Cudi"
-    ],
-    "midiFile": "Day_N_Nite_by_Kid_Cudi_Baritone_Saxophone_Arrangement.mid",
-    "artwork": "Day_N_Nite_by_Kid_Cudi_Baritone_Saxophone_Arrangement.jpg",
-    "tags": [],
-    "genre": [],
-    "favorite": false,
-    "songLengthMS": 86818,
-    "noteCount": 1016
   },
   {
     "name": "Deja Vu",
@@ -2095,10 +2040,7 @@
     "midiFile": "Iris.mid",
     "artwork": "iris.jpg",
     "genre": [],
-    "tags": [
-      "video game",
-      "anime"
-    ],
+    "tags": [],
     "favorite": false,
     "songLengthMS": 280062,
     "noteCount": 2239
@@ -2393,7 +2335,7 @@
       "Eino Kettunen"
     ],
     "midiFile": "Levan_Polkka.mid",
-    "artwork": "Levan_Polkka.jpg",
+    "artwork": "catjam.gif",
     "genre": [],
     "tags": [],
     "songLengthMS": 129286,
@@ -2719,19 +2661,6 @@
     "favorite": true,
     "songLengthMS": 297990,
     "noteCount": 2693
-  },
-  {
-    "name": "Metamodernity",
-    "artists": [
-      "Vansire"
-    ],
-    "midiFile": "Metamodernity.mid",
-    "artwork": "Metamodernity.jpg",
-    "tags": [],
-    "genre": [],
-    "favorite": false,
-    "songLengthMS": 164001,
-    "noteCount": 2318
   },
   {
     "name": "Mii Channel Theme",
@@ -3962,22 +3891,6 @@
     "noteCount": 2880
   },
   {
-    "name": "The Fire Is Gone",
-    "artists": [
-      "Heaven Pierce Her"
-    ],
-    "midiFile": "TheFireIsGone.mid",
-    "artwork": "fireisgone.jpg",
-    "genre": [],
-    "tags": [
-      "video game",
-      "ULTRAKILL"
-    ],
-    "favorite": false,
-    "songLengthMS": 121425,
-    "noteCount": 442
-  },
-  {
     "name": "The Girl From Ipanema",
     "artists": [
       "Stan Getz"
@@ -4118,22 +4031,6 @@
     "favorite": false,
     "songLengthMS": 290953,
     "noteCount": 3057
-  },
-  {
-    "name": "Thé à la menthe",
-    "artists": [
-      "La Caution"
-    ],
-    "midiFile": "La_Caution_-_Th__la_Menthe.mid",
-    "artwork": "La_Caution_-_Th__la_Menthe.jpg",
-    "tags": [
-      "csgo",
-      "bhop"
-    ],
-    "genre": [],
-    "favorite": false,
-    "songLengthMS": 249600,
-    "noteCount": 9506
   },
   {
     "name": "Tiny Dancer",
@@ -4401,7 +4298,7 @@
     "artists": [
       "Kazumi Totaka"
     ],
-    "midiFile": "Wii_Shop_Channel_Theme.mid",
+    "midiFile": "wiishoptheme.mid",
     "artwork": "Wii_Shop_Channel.jpeg",
     "genre": [],
     "tags": [
@@ -4541,5 +4438,18 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Flight of the Bumblebee",
+    "artists": [
+      "Sergei Rachmaninoff",
+      "Nikolai Rimsky-Korsakov"
+    ],
+    "midiFile": "flightofthebumblebee.mid",
+    "artwork": "your reality.jpg",
+    "genre": [],
+    "tags": [
+      "classical"
+    ]
   }
 ]
