@@ -4436,5 +4436,18 @@
     "songLengthMS": 165290,
     "noteCount": 1065,
     "favorite": false
+  },
+  {
+    "name": "Musician",
+    "artists": [
+      "Porter Robinson"
+    ],
+    "midiFile": "Porter Robinson - Musician.mid",
+    "artwork": "PorterRobinson.jpg",
+    "genre": [],
+    "tags": [
+      "Electronic"
+    ],
+    "favorite": false
   }
 ]
